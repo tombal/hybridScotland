@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -43,42 +44,63 @@ public class Try extends PApplet {
 		map.zoomToLevel(4);
 		MapUtils.createDefaultEventDispatcher(this, map);
 
-		//List<Marker> markers = this.createMarkers();
-		// Add markers to map
-		//map.addMarkers(markers);
+		List<Marker> markers = this.createMarkers();
+		//Add markers to map
+		map.addMarkers(markers);
 		
 		
 		
-		//map.panTo(markers.get(0).getLocation());
+		map.panTo(markers.get(0).getLocation());
 		
 		//initTrain();
 		
-		this.tryut();
+		this.tryoutOneDay();
 		
 	}
 	
 	List<Marker> trai = new ArrayList<Marker>();
+	List<List<float[]>> allTrains = new ArrayList<List<float[]>>();
+	
+	public void tryoutOneDay(){
+		
+		this.allTrains = this.getAllTrainsDay(20131215);
+		
+		
+		
+	}
 	
 	public void tryut(){
 		List<StopTimes> stoptimes = Parser.loadStopTimes("nmbs/stop_times.txt");
 		HashMap<Float, float[]> trains = this.getTrainForStopTimes(stoptimes.subList(0, 17));
+
 		int i=0;
 		for(float[] flo:trains.values()){
 			i++;
 			Location location = new Location(flo[0], flo[1]);
+			//System.out.println(location);
 			LabeledMarker marker = new LabeledMarker(location, String.valueOf(i), font, 6);
-			marker.setColor(color(100, 100, 0, 100));
+			marker.setColor(color(255, 0, 0, 100));
 			trai.add(marker);
 		}
-		
-		System.out.println("x: "+trai.get(6).getLocation().x+" ,y: "+ +trai.get(6).getLocation().y+" ,z: "+ +trai.get(6).getLocation().z); 
-		System.out.println("x: "+trai.get(7).getLocation().x+" ,y: "+ +trai.get(7).getLocation().y+" ,z: "+ +trai.get(7).getLocation().z); 
-		System.out.println("x: "+trai.get(8).getLocation().x+" ,y: "+ +trai.get(8).getLocation().y+" ,z: "+ +trai.get(8).getLocation().z); 
 	}
 	
 	public void initMarker(){
-		map.addMarker(trai.get(i));
+		map.getDefaultMarkerManager().clearMarkers();
+		List<float[]> minuteTrains = allTrains.get(i);
+		for(float[] flo:minuteTrains){
+			if(flo!=null){
+				System.out.println(flo); //TODO; is null maar zou coord moeten zyn!!
+				Location location = new Location(flo[0], flo[1]);
+				System.out.println("size: "+minuteTrains.size());
+				LabeledMarker marker = new LabeledMarker(location, String.valueOf(i), font, 6);
+				marker.setColor(color(255, 0, 0, 100));
+				map.addMarker(marker);
+			}
+		}
 		i++;
+		System.out.println(i);
+		//this.initMarker();
+		
 	}
 	
 	public void initTrain(){
@@ -98,11 +120,11 @@ public class Try extends PApplet {
 		
 		for(StopEntry entry:data){
 			Location location = new Location(entry.stop_lat, entry.stop_lon);
-			System.out.println(location);
-			LabeledMarker marker = new LabeledMarker(location, entry.stop_name, font, 5);
+			//System.out.println(location);
+			LabeledMarker marker = new LabeledMarker(location, entry.stop_name, font, 3);
 			markers.add(marker);
 		}
-		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@");
+		//System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@");
 		return markers;
 		
 	}
@@ -136,7 +158,7 @@ public class Try extends PApplet {
 	public List<List<float[]>> createTrainsArray(){
 		List<List<float[]>> result = new ArrayList<List<float[]>>();
 		int i = 0;
-		while(i<24*60){
+		while(i<27*60){
 			result.add(new ArrayList<float[]>());
 			i++;
 		}
@@ -156,17 +178,35 @@ public class Try extends PApplet {
 		return null;
 	}
 	
-	public void getAllTrainsDay(float day){
+	public List<List<float[]>> getAllTrainsDay(float day){
 		List<List<float[]>> trainsPerMinute = this.createTrainsArray();
 		
+		List<Float> ids = getService_IdForDay(day);
 		
+		List<String> trips = new ArrayList<String>();
+		for(float id:ids){
+			trips.addAll(this.getTrip_IdForServiceId(id));
+		}
+	
+		List<StopTimes> stopsAll = Parser.loadStopTimes("nmbs/stop_times.txt");
 		
+		for(String trip:trips){
+			List<StopTimes> stopsTrip = this.getStopTimesTripId(trip, stopsAll);
+			HashMap<Float, float[]> trains = this.getTrainForStopTimes(stopsTrip);
+			for(float fl: trains.keySet()){
+				List<float[]> floats = trainsPerMinute.get((int)fl);
+				floats.add(trains.get((int)fl));
+				trainsPerMinute.set((int) fl, floats);
+			}
+		}
+		
+		return trainsPerMinute;
 	}
 	
 	public List<StopTimes> getStopTimesTripId(String trip_Id, List<StopTimes> stoptimes){
 		 List<StopTimes> result = new ArrayList<StopTimes>();
 		 for(StopTimes stops:stoptimes){
-			 if(stops.trip_id==trip_Id){
+			 if(stops.trip_id.equals(trip_Id)){
 				 result.add(stops);
 			 }
 		 }
@@ -188,7 +228,7 @@ public class Try extends PApplet {
 			lastTime = this.timeToFloat(stop.departure_time);
 			lastcoord = coord;
 		}
-		System.out.println(result.size());
+		//System.out.println(result.size());
 		return result;
 		
 		
@@ -206,6 +246,7 @@ public class Try extends PApplet {
 			arrivalCoord[0] = arrivalCoord[0] + x;
 			arrivalCoord[1] = arrivalCoord[1] + y;
 			result.put(departure, arrivalCoord);
+			//System.out.println("between: " +arrivalCoord[0] + ","+ arrivalCoord[1]);
 			departure++;
 		}
 		return result;	
@@ -216,6 +257,7 @@ public class Try extends PApplet {
 		
 		while(arrival<=departure){
 			result.put(arrival, coord);
+			//System.out.println("single : "+coord[0] + ","+ coord[1]);
 			arrival++;
 		}
 		return result;
@@ -225,7 +267,8 @@ public class Try extends PApplet {
 	public Float timeToFloat(String time){
 		Float hours = Float.parseFloat(time.substring(0, 2));
 		Float minutes = Float.parseFloat(time.substring(3, 5));
-		return hours*60+minutes;
+		Float result = hours*60+minutes;
+		return result;
 	}
 	
 	public List<Float> getService_IdForDay(float day){

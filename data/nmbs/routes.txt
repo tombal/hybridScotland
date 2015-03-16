@@ -1,0 +1,704 @@
+agency_id,route_id,route_short_name,route_long_name,route_type
+58,105,,Essen - Charleroi South,2
+58,107,,Ottignies - Tamines,2
+58,108,,Ottignies - Charleroi South,2
+58,109,,Waver - Tamines,2
+58,110,,Ottignies - Namen,2
+58,1101,,Tournai - Liers,2
+58,1102,,Tournai - Mons,2
+58,1103,,Tournai - Mouscron,2
+58,1104,,Mouscron - Tournai,2
+58,1105,,Tournai - Quievrain,2
+58,1106,,Geraardsbergen - Brussels South,2
+58,1107,,Geraardsbergen - Antwerp Central,2
+58,1108,,Geraardsbergen - Edingen,2
+58,1109,,Ath - Saint Ghislain,2
+58,1110,,Ath - Mons,2
+58,1111,,Jurbise - Ath,2
+58,1112,,Mons - Ath,2
+58,1113,,Ath - Jurbise,2
+58,1114,,Ath - Geraardsbergen,2
+58,1115,,Lessen - Edingen,2
+58,1117,,Edingen - Tournai,2
+58,1118,,Jemelle - Brussels South,2
+58,1119,,Arlon - Brussels South,2
+58,112,,Waver - Charleroi South,2
+58,1121,,Gouvy - LUXEMBOURG (Luxembourg),2
+58,1123,,Namen - Brussels South,2
+58,1124,,Dinant - Namen,2
+58,1125,,Libramont - Jemelle,2
+58,1126,,Arlon - Virton,2
+58,1128,,Namen - Dinant,2
+58,1129,,Tamines - Gembloux,2
+58,113,,Charleroi South - Ottignies,2
+58,1130,,Gembloux - Jemeppe Sur Sambre,2
+58,1131,,Jemeppe Sur Sambre - Gembloux,2
+58,1132,,Gembloux - Tamines,2
+58,1133,,Charleroi South - Antwerp Central,2
+58,1134,,Chatelet - Schaarbeek,2
+58,1136,,Jemeppe Sur Sambre - Schaarbeek,2
+58,114,,Namen - Ottignies,2
+58,1141,,Binche - Schaarbeek,2
+58,1143,,La Louviere South - Luttre,2
+58,1144,,Charleroi South - Brussels South,2
+58,1145,,Walcourt - Charleroi South,2
+58,1146,,Charleroi South - Walcourt,2
+58,1147,,Manage - Braine Le Comte,2
+58,1148,,Manage - Mons,2
+58,1149,,Luttre - Mons,2
+58,115,,Tamines - Waver,2
+58,1150,,Charleroi South - La Louviere Center,2
+58,1151,,Nijvel - Charleroi South,2
+58,1152,,Charleroi South - Nijvel,2
+58,1154,,Tamines - Namen,2
+58,1155,,Quievrain - Schaarbeek,2
+58,1156,,Quevy - Schaarbeek,2
+58,1157,,Quevy - Mons,2
+58,1158,,Mons - Mouscron,2
+58,1159,,Quievrain - Mons,2
+58,116,,Tamines - Ottignies,2
+58,1160,,Quievrain - Braine Le Comte,2
+58,1162,,Mons - Tournai,2
+58,1163,,Mons - Charleroi South,2
+58,1164,,Mons - La Louviere Center,2
+58,1165,,Braine Le Comte - Quievrain,2
+58,1166,,Oudenaarde - Brussels North,2
+58,1168,,Oudenaarde - Schaarbeek,2
+58,1169,,Zottegem - Schaarbeek,2
+58,1176,,Geraardsbergen - Ghent Sint Pieters,2
+58,1177,,Geraardsbergen - Bruges,2
+58,1178,,Denderleeuw - Geraardsbergen,2
+58,1179,,Geraardsbergen - Denderleeuw,2
+58,118,,Charleroi South - Waver,2
+58,1182,,Zottegem - Courtrai,2
+58,1183,,Geraardsbergen - Ronse,2
+58,1184,,Oudenaarde - Geraardsbergen,2
+58,1185,,Ronse - Geraardsbergen,2
+58,1186,,Ronse - Ghent Sint Pieters,2
+58,1187,,Ghent Sint Pieters - Ronse,2
+58,1188,,Oudenaarde - Denderleeuw,2
+58,1189,,Zottegem - Brussels South,2
+58,119,,Tamines - Charleroi South,2
+58,1190,,Zottegem - Denderleeuw,2
+58,1191,,Denderleeuw - Zottegem,2
+58,1192,,Denderleeuw - Courtrai,2
+58,1193,,Aalst - Burst,2
+58,1194,,Burst - Aalst,2
+58,1195,,Aalst - Zottegem,2
+58,1198,,Courtrai - Bruges,2
+58,1199,,Bruges - Zottegem,2
+58,120,,Brussels South - LUXEMBOURG (Luxembourg),2
+58,1200,,Bruges - Courtrai,2
+58,1201,,De Panne - Denderleeuw,2
+58,1202,,De Panne - Ghent Sint Pieters,2
+58,1203,,Roulers - Dendermonde,2
+58,1204,,Etterbeek - Poperinge,2
+58,1205,,Brussels Airport - Ostend,2
+58,1206,,Schaarbeek - Bruges,2
+58,1207,,Schaarbeek - Courtrai,2
+58,1208,,Leuven - Ostend,2
+58,1209,,Schaarbeek - Ostend,2
+58,121,,Arlon - LUXEMBOURG (Luxembourg),2
+58,1210,,Brussels Luxembourg - Courtrai,2
+58,1212,,Schaarbeek - Saint Nicolas,2
+58,1213,,Schaarbeek - Ghent Sint Pieters,2
+58,1216,,Etterbeek - Denderleeuw,2
+58,1217,,Schaarbeek - Denderleeuw,2
+58,1218,,Bruges - Aalst,2
+58,1219,,Zeebrugge Dorp - Aalst,2
+58,1221,,Bruges - Blankenberge,2
+58,1222,,Bruges - Knokke,2
+58,1223,,Brussels South - De Panne,2
+58,1224,,Brussels South - Denderleeuw,2
+58,1225,,Brussels South - Aalst,2
+58,1228,,Saint Nicolas - Leuven,2
+58,123,,Charleroi South - Couvin,2
+58,1230,,Ghent Sint Pieters - Dendermonde,2
+58,1231,,Charleroi South - Brussels North,2
+58,1232,,ANVERS-HAVEN (Belgium) - Aarschot,2
+58,1233,,Neerpelt - Heverlee,2
+58,1234,,Leuven - Neerpelt,2
+58,1235,,Antwerp Central - Saint Nicolas,2
+58,1236,,Antwerp Central - Essen,2
+58,1237,,Brussels South - Leuven,2
+58,1238,,Antwerp Central - Boom,2
+58,1239,,Essen - Boom,2
+58,1241,,Antwerp Noorderdokken - Aarschot,2
+58,1243,,Brussels South - Genk,2
+58,1244,,Brussels South - Tongeren,2
+58,1245,,Brussels South - Hasselt,2
+58,1247,,Genk - Landen,2
+58,1248,,Brussels South - Landen,2
+58,125,,Couvin - Charleroi South,2
+58,1250,,Leuven - Sint Joris Weert,2
+58,1251,,Saint Nicolas - Dendermonde,2
+58,1252,,Malines - Leuven,2
+58,1253,,Leuven - Ghent Sint Pieters,2
+58,1254,,Leuven - Dendermonde,2
+58,1255,,Brussels South - Welkenraedt,2
+58,1257,,Brussels South - Hoei,2
+58,1259,,ATHUS (Belgium) - Arlon,2
+58,1260,,Waremme - Ans,2
+58,1261,,Schaarbeek - Geraardsbergen,2
+58,1262,,Schaarbeek - Tournai,2
+58,1263,,Schaarbeek - Mouscron,2
+58,1265,,Leuven - Mouscron,2
+58,127,,ATHUS (Belgium) - LUXEMBOURG (Luxembourg),2
+58,128,,Charleroi South - Erquelinnes,2
+58,130,,Erquelinnes - Charleroi South,2
+58,137,,Geraardsbergen - Ath,2
+58,138,,Ath - Edingen,2
+58,139,,Turnhout - Antwerp Central,2
+58,141,,Antwerp Central - Turnhout,2
+58,14247,,La Louviere South - Pieton,2
+58,143,,Liege Palais - Statte,2
+58,144,,Statte - Liege Palais,2
+58,145,,Namen - Liege Palais,2
+58,146,,Statte - Liers,2
+58,147,,Welkenraedt - AACHEN HBF (Germany),2
+58,148,,Liege Palais - AACHEN HBF (Germany),2
+58,149,,Liege Guillemins - AACHEN HBF (Germany),2
+58,15065,,BETZDORF(SIEG) (Germany) - DILLENBURG (Germany),2
+58,15066,,BETZDORF(SIEG) (Germany) - NEUNKIRCHEN(KR SIEG) (Germany),2
+58,15067,,NEUNKIRCHEN(KR SIEG) (Germany) - DILLENBURG (Germany),2
+58,15068,,NEUNKIRCHEN(KR SIEG) (Germany) - BETZDORF(SIEG) (Germany),2
+58,15070,,DILLENBURG (Germany) - BETZDORF(SIEG) (Germany),2
+58,1544,,Brussels South - Arlon,2
+58,1545,,Brussels South - Jemelle,2
+58,1547,,Brussels South - Libramont,2
+58,1548,,Namen - Jambes East,2
+58,1549,,Namen - Bertrix,2
+58,1551,,Schaarbeek - Jemeppe Sur Sambre,2
+58,1552,,Schaarbeek - Chatelet,2
+58,1557,,Schaarbeek - Binche,2
+58,1558,,Brussels South - Charleroi South,2
+58,1559,,Braine Le Comte - Manage,2
+58,1561,,Schaarbeek - Quevy,2
+58,1562,,Mons - Quievrain,2
+58,1563,,Mouscron - Mons,2
+58,1564,,Poperinge - Heverlee,2
+58,1567,,Schaarbeek - Oudenaarde,2
+58,1571,,Schaarbeek - Zottegem,2
+58,1572,,Brussels North - Oudenaarde,2
+58,1573,,Ghent Sint Pieters - Lichtervelde,2
+58,1574,,Geraardsbergen - Zottegem,2
+58,1575,,Aalst - Geraardsbergen,2
+58,1576,,Ghent Sint Pieters - Geraardsbergen,2
+58,1581,,Zottegem - Geraardsbergen,2
+58,1582,,Courtrai - Zottegem,2
+58,1583,,Brussels South - Zottegem,2
+58,1588,,Ghent Sint Pieters - De Panne,2
+58,1591,,Courtrai - LILLE FLANDRES (France),2
+58,1592,,LILLE FLANDRES (France) - Antwerp Central,2
+58,1593,,LILLE FLANDRES (France) - Courtrai,2
+58,1601,,LILLE FLANDRES (France) - Ostend,2
+58,1603,,Tournai - LILLE FLANDRES (France),2
+58,1604,,LILLE FLANDRES (France) - Tournai,2
+58,1605,,LILLE FLANDRES (France) - Herstal,2
+58,1608,,LILLE FLANDRES (France) - Liege Palais,2
+58,1618,,LILLE FLANDRES (France) - Liers,2
+58,1620,,LILLE FLANDRES (France) - Mons,2
+58,1624,,LILLE FLANDRES (France) - Namen,2
+58,16277,,BETZDORF(SIEG) (Germany) - HERDORF (Germany),2
+58,16279,,HERDORF (Germany) - BETZDORF(SIEG) (Germany),2
+58,16982,,Ciney - LUXEMBOURG (Luxembourg),2
+58,16992,,Ciney - Libramont,2
+58,16993,,Libramont - Ciney,2
+58,16994,,Halle - Brussels Luxembourg,2
+58,16995,,Geraardsbergen - Brussels Luxembourg,2
+58,16996,,Brussels Luxembourg - Halle,2
+58,16997,,Brussels Luxembourg - Geraardsbergen,2
+58,17518,,Ghent Sint Pieters - Malines,2
+58,1768,,Brussels South - FRANKFURT(MAIN)HBF (Germany),2
+58,1774,,Brussels South - BASEL SBB (Switzerland),2
+58,1778,,Liers - LUXEMBOURG (Luxembourg),2
+58,1780,,Brussels South - Wezet,2
+58,1781,,Brussels South - Gouvy,2
+58,1782,,Gouvy - Brussels South,2
+58,1783,,Wezet - Brussels South,2
+58,1784,,Wezet - Ostend,2
+58,1785,,Ostend - Eupen,2
+58,1788,,Ostend - Welkenraedt,2
+58,1791,,Welkenraedt - Ostend,2
+58,1793,,Eupen - Ostend,2
+58,1795,,Bruges - Malines,2
+58,1796,,Bruges - Dendermonde,2
+58,1797,,Malines - Bruges,2
+58,1798,,Oudenaarde - Bruges,2
+58,1799,,Courtrai - Zeebrugge Strand,2
+58,1800,,Courtrai - Blankenberge,2
+58,1801,,Blankenberge - Zottegem,2
+58,1802,,Antwerp Central - Mouscron,2
+58,1803,,Antwerp Central - Courtrai,2
+58,1804,,Antwerp Central - LILLE FLANDRES (France),2
+58,1816,,Antwerp Central - NOORDERKEMPEN (Belgium),2
+58,1817,,NOORDERKEMPEN (Belgium) - Antwerp Central,2
+58,18270,,Oudenaarde - Ronse,2
+58,1829,,Antwerp Central - Heverlee,2
+58,18301,,BURBACH(KR SIEGEN) (Germany) - HAIGER (Germany),2
+58,18302,,DILLENBURG (Germany) - BURBACH(KR SIEGEN) (Germany),2
+58,18586,,Dendermonde - Saint Nicolas,2
+58,18588,,Aarschot - Heist Op Den Berg,2
+58,19124,,HAIGER (Germany) - BETZDORF(SIEG) (Germany),2
+58,19125,,WUERGENDORF (Germany) - DILLENBURG (Germany),2
+58,19126,,DILLENBURG (Germany) - WUERGENDORF (Germany),2
+58,2000,,Ghent Sint Pieters - Antwerp Central,2
+58,2003,,Mouscron - Antwerp Central,2
+58,2009,,Ronse - Eeklo,2
+58,2010,,Eeklo - Ronse,2
+58,2011,,Eeklo - Oudenaarde,2
+58,2012,,Ostend - Courtrai,2
+58,2013,,Ostend - LILLE FLANDRES (France),2
+58,2014,,Ostend - Malines,2
+58,2015,,Ostend - Leuven,2
+58,2018,,Ostend - Dendermonde,2
+58,2020,,Courtrai - Ostend,2
+58,2023,,Charleroi South - Herstal,2
+58,2024,,Mons - Liege Palais,2
+58,2025,,Tournai - Herstal,2
+58,2026,,Tournai - Liege Palais,2
+58,2029,,Tournai - Charleroi South,2
+58,2031,,Tournai - Namen,2
+58,2033,,Charleroi South - Tournai,2
+58,2035,,Charleroi South - LILLE FLANDRES (France),2
+58,2038,,Herstal - Tournai,2
+58,2039,,Herstal - LILLE FLANDRES (France),2
+58,2040,,Namen - LILLE FLANDRES (France),2
+58,2041,,Liers - Tournai,2
+58,2042,,Liers - LILLE FLANDRES (France),2
+58,2043,,Liege Palais - LILLE FLANDRES (France),2
+58,2044,,Liege Palais - Tournai,2
+58,2050,,Liege Palais - Charleroi South,2
+58,2051,,Herstal - Mons,2
+58,2052,,Liege Palais - Namen,2
+58,2053,,Herstal - Charleroi South,2
+58,2054,,Bruges - Zeebrugge Strand,2
+58,2056,,Zeebrugge Strand - Bruges,2
+58,2057,,Zeebrugge Strand - Courtrai,2
+58,2058,,Ostend - Tongeren,2
+58,2059,,Bruges - Tongeren,2
+58,2060,,Bruges - Genk,2
+58,2061,,Bruges - Liege Guillemins,2
+58,2063,,Knokke - Tongeren,2
+58,2065,,Knokke - Genk,2
+58,2066,,Knokke - Liege Guillemins,2
+58,2067,,Knokke - Hasselt,2
+58,2069,,Knokke - Brussels South,2
+58,2071,,Knokke - Brussels North,2
+58,2074,,Brussels South - Knokke,2
+58,2075,,Hasselt - Knokke,2
+58,2076,,Hasselt - Blankenberge,2
+58,2077,,Brussels South - Blankenberge,2
+58,2078,,Genk - Knokke,2
+58,2079,,Genk - Blankenberge,2
+58,2080,,Tongeren - Knokke,2
+58,2081,,Tongeren - Blankenberge,2
+58,2084,,Tongeren - Bruges,2
+58,2085,,Genk - Bruges,2
+58,2086,,Tongeren - Ostend,2
+58,2087,,Genk - Ostend,2
+58,2088,,Geraardsbergen - Dendermonde,2
+58,2089,,Dendermonde - Geraardsbergen,2
+58,20950,,Brussels South - DEN HAAG HS (Netherlands),2
+58,20955,,Brussels South - ROOSENDAAL (Netherlands),2
+58,21467,,ROOSENDAAL (Netherlands) - Malines,2
+58,21468,,RODANGE (Luxembourg) - LUXEMBOURG (Luxembourg),2
+58,21471,,LUXEMBOURG (Luxembourg) - Virton,2
+58,22028,,Malines - Brussels Airport,2
+58,22128,,LUXEMBOURG (Luxembourg) - Ostend,2
+58,22130,,LUXEMBOURG (Luxembourg) - Namen,2
+58,22131,,LUXEMBOURG (Luxembourg) - Jemelle,2
+58,22132,,AACHEN HBF (Germany) - Liege Guillemins,2
+58,22133,,AACHEN HBF (Germany) - Liers,2
+58,22134,,AACHEN HBF (Germany) - Welkenraedt,2
+58,2327,,Blankenberge - Tongeren,2
+58,2328,,Blankenberge - Liege Guillemins,2
+58,2329,,Blankenberge - Genk,2
+58,2330,,Blankenberge - Hasselt,2
+58,2333,,Blankenberge - Brussels South,2
+58,2335,,Oudenaarde - Courtrai,2
+58,2336,,Zottegem - Bruges,2
+58,2337,,Zottegem - Blankenberge,2
+58,2338,,Saint Ghislain - Liege Guillemins,2
+58,2339,,Quievrain - Liege Guillemins,2
+58,2341,,Quievrain - Brussels North,2
+58,2342,,Brussels North - Quievrain,2
+58,2343,,Liege Guillemins - Quievrain,2
+58,2344,,Liege Guillemins - Saint Ghislain,2
+58,2345,,Liege Guillemins - Blankenberge,2
+58,2346,,Liege Guillemins - Knokke,2
+58,2348,,Liege Guillemins - Bruges,2
+58,2350,,Liege Guillemins - Ostend,2
+58,2351,,Ostend - Antwerp Central,2
+58,2353,,Antwerp Central - Ostend,2
+58,2357,,Ghent Sint Pieters - Ath,2
+58,2359,,Ath - Ghent Sint Pieters,2
+58,2360,,Geraardsbergen - Oudenaarde,2
+58,2365,,Mouscron - Ans,2
+58,2440,,Tournai - Antwerp Central,2
+58,2442,,Hasselt - Tongeren,2
+58,2443,,Tongeren - Hasselt,2
+58,2446,,BRUXELLES-OUEST (Belgium) - Dendermonde,2
+58,2447,,Dendermonde - BRUXELLES-OUEST (Belgium),2
+58,2561,,Blankenberge - Schaarbeek,2
+58,2562,,Mouscron - Brussels North,2
+58,2568,,Quievrain - Saint Ghislain,2
+58,2569,,Saint Ghislain - Quievrain,2
+58,2572,,Brussels North - Charleroi South,2
+58,2573,,Antwerp Central - Charleroi South,2
+58,2582,,Aalst - Oudenaarde,2
+58,2583,,Namen - LUXEMBOURG (Luxembourg),2
+58,2587,,Ostend - LUXEMBOURG (Luxembourg),2
+58,2588,,Brussels South - Namen,2
+58,2594,,Arlon - Ostend,2
+58,2595,,LUXEMBOURG (Luxembourg) - Brussels South,2
+58,2596,,Eigenbrakel - Aalst,2
+58,2598,,Aalst - Eigenbrakel,2
+58,2600,,Ghent Sint Pieters - Genk,2
+58,2604,,Hasselt - Ghent Sint Pieters,2
+58,2605,,Genk - Ghent Sint Pieters,2
+58,2606,,Oudenaarde - Aalst,2
+58,2607,,Oudenaarde - Brussels South,2
+58,2608,,Zottegem - Aalst,2
+58,26415,,Ostend - Bruges,2
+58,26416,,Jemeppe Sur Sambre - Blankenberge,2
+58,26419,,Neerpelt - Blankenberge,2
+58,26421,,Turnhout - Blankenberge,2
+58,26423,,Schaarbeek - Blankenberge,2
+58,26424,,Blankenberge - Jemeppe Sur Sambre,2
+58,26426,,Blankenberge - Neerpelt,2
+58,26428,,Blankenberge - Turnhout,2
+58,26429,,Hasselt - Ostend,2
+58,26430,,Ostend - Hasselt,2
+58,26431,,Charleroi South - De Panne,2
+58,26432,,Schaarbeek - De Panne,2
+58,26433,,Namen - Houyet,2
+58,26434,,Dinant - Houyet,2
+58,26435,,De Panne - Charleroi South,2
+58,26436,,De Panne - Schaarbeek,2
+58,2744,,Denderleeuw - Oudenaarde,2
+58,2745,,Courtrai - Brussels South,2
+58,2746,,Poperinge - Dendermonde,2
+58,2747,,Poperinge - Lokeren,2
+58,2749,,Poperinge - Saint Nicolas,2
+58,2750,,Courtrai - Dendermonde,2
+58,2751,,Courtrai - Saint Nicolas,2
+58,2754,,Dendermonde - Poperinge,2
+58,2755,,Brussels South - Poperinge,2
+58,2756,,Saint Nicolas - Poperinge,2
+58,2758,,Saint Nicolas - Courtrai,2
+58,2759,,Lokeren - Poperinge,2
+58,2760,,Dendermonde - Courtrai,2
+58,2762,,Lokeren - Courtrai,2
+58,2764,,Herentals - Lier,2
+58,2765,,Herentals - Antwerp Central,2
+58,2766,,Lier - Herentals,2
+58,2767,,Antwerp Central - Herentals,2
+58,2768,,Namen - Liers,2
+58,2769,,Brussels South - Liers,2
+58,2770,,Brussels South - Dinant,2
+58,2771,,Liers - Brussels South,2
+58,2772,,Jambes East - Brussels South,2
+58,2773,,Dinant - Brussels South,2
+58,2774,,Liers - Ostend,2
+58,2776,,Landen - Hasselt,2
+58,2777,,Leuven - Hasselt,2
+58,2778,,Hasselt - Leuven,2
+58,2779,,Hasselt - Landen,2
+58,2780,,Dinant - Ostend,2
+58,2781,,Antwerp Central - ROOSENDAAL (Netherlands),2
+58,2782,,Brussels Airport - ROOSENDAAL (Netherlands),2
+58,2783,,Puurs - ROOSENDAAL (Netherlands),2
+58,2784,,Puurs - Essen,2
+58,2785,,Brussels Airport - Essen,2
+58,2787,,Antwerp Central - Brussels Airport,2
+58,2788,,Essen - Puurs,2
+58,2789,,Essen - Brussels Airport,2
+58,2790,,ROOSENDAAL (Netherlands) - Puurs,2
+58,2791,,ROOSENDAAL (Netherlands) - Brussels Airport,2
+58,2792,,ROOSENDAAL (Netherlands) - Antwerp Central,2
+58,2793,,Essen - Antwerp Central,2
+58,2794,,Essen - Saint Nicolas,2
+58,2795,,ROOSENDAAL (Netherlands) - Saint Nicolas,2
+58,2796,,Landen - Antwerp Central,2
+58,2797,,Brussels Airport - Malines,2
+58,282,,Liege Guillemins - Waremme,2
+58,284,,Waremme - Liege Guillemins,2
+58,286,,Geraardsbergen - Aalst,2
+58,287,,Liege Palais - Verviers Central,2
+58,288,,Liege Palais - Verviers Palais,2
+58,289,,Verviers Central - Liege Palais,2
+58,290,,Welkenraedt - Liege Palais,2
+58,291,,Verviers Palais - Liege Palais,2
+58,292,,Brussels South - Dendermonde,2
+58,293,,Dendermonde - Brussels South,2
+58,2938,,Antwerp Central - Landen,2
+58,2939,,Antwerp Central - Leuven,2
+58,294,,Dendermonde - Dendermonde,2
+58,2940,,Saint Nicolas - Lokeren,2
+58,2941,,Antwerp Central - Lokeren,2
+58,2942,,Antwerp Central - Ghent Sint Pieters,2
+58,2946,,Lokeren - Antwerp Central,2
+58,2947,,Lokeren - Saint Nicolas,2
+58,2948,,Leuven - Saint Nicolas,2
+58,2954,,Saint Nicolas - Heverlee,2
+58,2957,,Nijvel - Brussels North,2
+58,2958,,Brussels North - Nijvel,2
+58,2962,,Leuven - Antwerp Central,2
+58,2963,,Leuven - Aarschot,2
+58,2964,,Hasselt - Liege Guillemins,2
+58,2965,,Antwerp Central - Liege Guillemins,2
+58,2966,,Antwerp Central - Tongeren,2
+58,2967,,Antwerp Central - Hasselt,2
+58,2970,,Tongeren - Antwerp Central,2
+58,2971,,Liege Guillemins - Antwerp Central,2
+58,2972,,Antwerp Central - Mol,2
+58,2974,,Mol - Antwerp Central,2
+58,2975,,Neerpelt - Antwerp Central,2
+58,300,,Liege Guillemins - MAASTRICHT (Netherlands),2
+58,301,,Liege Guillemins - Wezet,2
+58,302,,Wezet - Liege Guillemins,2
+58,303,,SPA-GERONSTERE (Belgium) - Welkenraedt,2
+58,304,,Welkenraedt - SPA-GERONSTERE (Belgium),2
+58,305,,Schaarbeek - Basse Wavre,2
+58,306,,Schaarbeek - Waver,2
+58,307,,Waver - Schaarbeek,2
+58,310,,Herstal - Marloie,2
+58,3101,,Antwerp Central - Blankenberge,2
+58,3103,,Blankenberge - Antwerp Central,2
+58,3109,,Tournai - Courtrai,2
+58,311,,Liers - Jemelle,2
+58,3110,,Antwerp Central - Geraardsbergen,2
+58,3114,,Edingen - Ath,2
+58,3115,,Antwerp Central - Tournai,2
+58,3117,,Edingen - Geraardsbergen,2
+58,3119,,Antwerp Central - Ath,2
+58,312,,Herstal - Jemelle,2
+58,3121,,Antwerp Central - Neerpelt,2
+58,313,,Jemelle - Herstal,2
+58,3134,,Antwerp Central - Brussels North,2
+58,3136,,Halle - Vilvoorde,2
+58,3137,,Halle - Malines,2
+58,3138,,Geraardsbergen - Malines,2
+58,3139,,Halle - Leuven,2
+58,314,,Marloie - Herstal,2
+58,3140,,Vilvoorde - Halle,2
+58,3141,,Leuven - Halle,2
+58,3142,,Malines - Halle,2
+58,315,,Jemelle - Liers,2
+58,316,,Hoei - Tamines,2
+58,317,,Liege Guillemins - Namen,2
+58,319,,Liege Guillemins - Tamines,2
+58,320,,Hoei - Namen,2
+58,321,,Charleroi South - Hoei,2
+58,322,,Namen - Liege Guillemins,2
+58,323,,Tamines - Herstal,2
+58,324,,Tamines - Hoei,2
+58,326,,Namen - Hoei,2
+58,3312,,Brussels South - Turnhout,2
+58,3313,,Turnhout - Brussels South,2
+58,3316,,Brussels South - Brussels Airport,2
+58,3317,,Ghent Sint Pieters - Brussels Airport,2
+58,3318,,Bruges - Brussels Airport,2
+58,3321,,Denderleeuw - Bruges,2
+58,3322,,Denderleeuw - Ghent Sint Pieters,2
+58,3323,,Brussels Airport - Bruges,2
+58,3324,,Brussels Airport - Ghent Sint Pieters,2
+58,3325,,Brussels Airport - Brussels South,2
+58,3326,,Brussels South - Malines,2
+58,3327,,Brussels Luxembourg - Malines,2
+58,3328,,Malines - Brussels South,2
+58,3329,,Malines - Brussels Luxembourg,2
+58,3333,,De Panne - Antwerp Central,2
+58,3334,,De Panne - Brussels North,2
+58,3335,,Brussels North - De Panne,2
+58,3336,,Antwerp Central - De Panne,2
+58,3338,,Brussels North - Ghent Sint Pieters,2
+58,3342,,Braine Le Comte - Leuven,2
+58,3343,,Leuven - Braine Le Comte,2
+58,3344,,Brussels North - Braine Le Comte,2
+58,3348,,Saint Ghislain - Leuven,2
+58,3349,,Quevy - Brussels Airport,2
+58,3352,,Brussels North - Quevy,2
+58,3353,,Leuven - Saint Ghislain,2
+58,3354,,Brussels Airport - Quevy,2
+58,3597,,Brussels Airport - Mons,2
+58,3601,,Jambes East - Tournai,2
+58,3602,,Jambes East - Mouscron,2
+58,3606,,Namen - Tournai,2
+58,3607,,Mons - Jambes East,2
+58,3608,,Mouscron - Jambes East,2
+58,3609,,Tournai - Jambes East,2
+58,3614,,Binche - Brussels North,2
+58,3615,,Binche - Louvain-la-Neuve-Universite,2
+58,3618,,Binche - Brussels South,2
+58,3619,,Brussels North - Binche,2
+58,3620,,Louvain-la-Neuve-Universite - Binche,2
+58,36217,,ZELL AM SEE (Austria) - Brussels South,2
+58,36218,,Brussels South - ZELL AM SEE (Austria),2
+58,3624,,Brussels South - Binche,2
+58,3630,,Liers - Gouvy,2
+58,3633,,Gouvy - Liers,2
+58,3635,,Zinnik - Mons,2
+58,3636,,Braine Le Comte - Mons,2
+58,3637,,Mons - Zinnik,2
+58,3638,,Mons - Braine Le Comte,2
+58,3640,,Courtrai - Malines,2
+58,3644,,Dendermonde - Ostend,2
+58,3647,,Leuven - Courtrai,2
+58,3649,,Malines - Courtrai,2
+58,3650,,Malines - Ostend,2
+58,36710,,Ostend - Ghent Sint Pieters,2
+58,36712,,Ostend - Genk,2
+58,36713,,Ostend - Brussels North,2
+58,36718,,Ghent Sint Pieters - Ostend,2
+58,3872,,Brussels Airport - Leuven,2
+58,3874,,Leuven - Brussels Airport,2
+58,3875,,Luttre - La Louviere South,2
+58,3876,,Charleroi South - La Louviere South,2
+58,3877,,La Louviere South - Charleroi South,2
+58,3878,,Charleroi South - Braine Le Comte,2
+58,3879,,Braine Le Comte - Charleroi South,2
+58,3880,,Mol - Hasselt,2
+58,3881,,Mol - Leopoldsburg,2
+58,3883,,Hasselt - Mol,2
+58,3885,,Charleroi South - Mons,2
+58,3890,,Charleroi South - Essen,2
+58,46704,,DOMODOSSOLA (Italy) - MONTHEY (Switzerland),2
+58,502,,Namen - Ciney,2
+58,503,,Namen - Libramont,2
+58,505,,Namen - Jemelle,2
+58,506,,Namen - Arlon,2
+58,507,,Jemelle - Namen,2
+58,508,,Ciney - Namen,2
+58,509,,Libramont - Namen,2
+58,511,,Jemelle - Arlon,2
+58,512,,Jemelle - LUXEMBOURG (Luxembourg),2
+58,513,,Libramont - Arlon,2
+58,514,,Ciney - Arlon,2
+58,515,,Ciney - Jemelle,2
+58,516,,Arlon - Libramont,2
+58,517,,Arlon - Ciney,2
+58,518,,Arlon - Jemelle,2
+58,521,,Virton - Arlon,2
+58,522,,Libramont - Bertrix,2
+58,523,,Gedinne - Arlon,2
+58,524,,Libramont - Virton,2
+58,526,,Bertrix - Libramont,2
+58,527,,Virton - Libramont,2
+58,529,,Dinant - Libramont,2
+58,530,,Dinant - Bertrix,2
+58,531,,Bertrix - Dinant,2
+58,532,,Libramont - Dinant,2
+58,533,,Charleroi South - Namen,2
+58,534,,Namen - Charleroi South,2
+58,537,,Louvain-la-Neuve-Universite - Namen,2
+58,538,,Gembloux - Ottignies,2
+58,540,,Namen - Louvain-la-Neuve-Universite,2
+58,541,,Namen - Gembloux,2
+58,542,,Brussels South - Antwerp Central,2
+58,543,,Nijvel - Antwerp Central,2
+58,546,,Antwerp Central - Nijvel,2
+58,548,,Antwerp Central - Brussels South,2
+58,550,,Libramont - Bastogne North,2
+58,551,,Bastogne North - Libramont,2
+58,785,,Leuven - Ottignies,2
+58,786,,Leuven - Louvain-la-Neuve-Universite,2
+58,787,,Ottignies - Louvain-la-Neuve-Universite,2
+58,788,,Ottignies - Leuven,2
+58,789,,Louvain-la-Neuve-Universite - Leuven,2
+58,790,,Louvain-la-Neuve-Universite - Ottignies,2
+58,791,,Brussels South - Louvain-la-Neuve-Universite,2
+58,794,,Ottignies - Brussels South,2
+58,795,,Louvain-la-Neuve-Universite - Brussels South,2
+58,799,,Brussels South - Waver,2
+58,800,,Ottignies - Waver,2
+58,801,,Waver - Ottignies,2
+58,803,,Waver - Brussels South,2
+58,804,,Courtrai - Schaarbeek,2
+58,805,,Bruges - Wezet,2
+58,806,,Bruges - Schaarbeek,2
+58,807,,Ostend - Brussels Airport,2
+58,808,,Bruges - Etterbeek,2
+58,809,,Courtrai - Leuven,2
+58,810,,Ostend - Schaarbeek,2
+58,812,,Poperinge - Etterbeek,2
+58,813,,Saint Nicolas - Schaarbeek,2
+58,814,,Ghent Sint Pieters - Brussels North,2
+58,815,,Merelbeke - Schaarbeek,2
+58,818,,Poperinge - Ghent Sint Pieters,2
+58,819,,Poperinge - Antwerp Central,2
+58,820,,Courtrai - Ghent Sint Pieters,2
+58,821,,Courtrai - Antwerp Central,2
+58,822,,Aalst - Brussels Luxembourg,2
+58,823,,Aalst - Schaarbeek,2
+58,824,,Geraardsbergen - Etterbeek,2
+58,825,,Courtrai - Poperinge,2
+58,826,,Bruges - Ghent Sint Pieters,2
+58,827,,Ghent Sint Pieters - Bruges,2
+58,828,,Bruges - Zeebrugge Dorp,2
+58,829,,Zeebrugge Dorp - Bruges,2
+58,830,,Blankenberge - Bruges,2
+58,831,,Knokke - Bruges,2
+58,832,,Knokke - Ghent Sint Pieters,2
+58,833,,Aalst - Ghent Sint Pieters,2
+58,834,,Aalst - Brussels South,2
+58,835,,Ghent Sint Pieters - Brussels South,2
+58,836,,Aalst - BRUXELLES-OUEST (Belgium),2
+58,837,,Ghent Sint Pieters - Courtrai,2
+58,838,,Poperinge - Courtrai,2
+58,839,,Ghent Sint Pieters - Eeklo,2
+58,840,,Eeklo - Ghent Sint Pieters,2
+58,841,,Malines - Saint Nicolas,2
+58,842,,Saint Nicolas - Malines,2
+58,843,,Dendermonde - Malines,2
+58,845,,Malines - Dendermonde,2
+58,847,,Dendermonde - Brussels Luxembourg,2
+58,848,,Dendermonde - Leuven,2
+58,850,,Luttre - Brussels South,2
+58,851,,Luttre - Louvain-la-Neuve-Universite,2
+58,853,,Brussels South - Eigenbrakel,2
+58,854,,Virton - LUXEMBOURG (Luxembourg),2
+58,855,,Schaarbeek - Ath,2
+58,856,,Essen - Halle,2
+58,857,,Herentals - Brussels South,2
+58,858,,Aarschot - Antwerp Berchem,2
+58,859,,Boom - Antwerp Central,2
+58,860,,Saint Nicolas - Antwerp Central,2
+58,861,,Leuven - Brussels South,2
+58,862,,Antwerp Berchem - ANVERS-HAVEN (Belgium),2
+58,864,,Hasselt - Antwerp Central,2
+58,865,,Aarschot - Antwerp Noorderdokken,2
+58,866,,Antwerp Berchem - Saint Nicolas,2
+58,868,,Dendermonde - Antwerp Berchem,2
+58,869,,Saint Nicolas - Antwerp Berchem,2
+58,871,,Dendermonde - Ghent Sint Pieters,2
+58,872,,Hasselt - Brussels South,2
+58,873,,Genk - Brussels South,2
+58,875,,Tongeren - Brussels South,2
+58,877,,Hasselt - Genk,2
+58,878,,Landen - Genk,2
+58,879,,Genk - Hasselt,2
+58,880,,Landen - Brussels South,2
+58,881,,Landen - Liege Guillemins,2
+58,882,,Liege Guillemins - Landen,2
+58,883,,Aarschot - Leuven,2
+58,884,,Dendermonde - Lokeren,2
+58,885,,Lokeren - Dendermonde,2
+58,886,,Leuven - Malines,2
+58,887,,Welkenraedt - Brussels South,2
+58,888,,Ans - Brussels North,2
+58,889,,Ans - Mouscron,2
+58,890,,Ans - Blankenberge,2
+58,892,,Hoei - Brussels South,2
+58,893,,Herstal - Rivage,2
+58,894,,Gouvy - Trois Ponts,2
+58,895,,Hoei - Basse Wavre,2
+58,896,,Hoei - Ottignies,2
+58,897,,Liege Guillemins - Jemelle,2
+58,898,,SPA-GERONSTERE (Belgium) - Verviers Central,2
+58,899,,SPA-GERONSTERE (Belgium) - Eupen,2
+58,900,,Eupen - Welkenraedt,2
+58,901,,Mouscron - Schaarbeek,2
+58,902,,Tournai - Schaarbeek,2
+58,903,,Mouscron - Leuven,2

@@ -1,0 +1,5964 @@
+route_id,trip_id,service_id,trip_short_name,trip_headsign
+324,1098:0,3,5689,Hoei
+324,1098:1,3,5691,Hoei
+324,1099:0,3,5691,Hoei
+324,1100:0,3,5692,Hoei
+502,1101:0,3,5755,Ciney
+503,1102:0,3,5756,Libramont
+502,1103:0,363,5756,Ciney
+502,1103:1,363,5758,Ciney
+502,1103:2,363,5760,Ciney
+502,1104:0,3,5758,Ciney
+502,1104:1,3,5760,Ciney
+502,1104:2,3,5762,Ciney
+502,1105:0,363,5758,Ciney
+502,1105:1,363,5760,Ciney
+502,1106:0,3,5759,Ciney
+502,1106:1,3,5761,Ciney
+502,1107:0,3,5760,Ciney
+503,1108:0,3,5761,Libramont
+503,1108:1,3,5763,Libramont
+503,1109:0,3,5765,Libramont
+503,1110:0,3,5766,Libramont
+502,1111:0,363,5766,Ciney
+503,1112:0,3,5767,Libramont
+505,1113:0,3,5768,Jemelle
+502,1114:0,363,5768,Ciney
+503,1115:0,3,5769,Libramont
+502,1116:0,363,5770,Ciney
+506,1117:0,3,5771,Arlon
+505,1118:0,3,5772,Jemelle
+507,1119:0,3,5775,Namen
+508,1120:0,3,5776,Namen
+508,1120:1,3,5778,Namen
+509,1121:0,3,5777,Namen
+508,1122:0,363,5777,Namen
+508,1122:1,363,5779,Namen
+508,1122:2,363,5781,Namen
+508,1122:3,363,5783,Namen
+508,1122:4,363,5785,Namen
+509,1123:0,3,5778,Namen
+509,1124:0,3,5779,Namen
+509,1125:0,3,5780,Namen
+509,1126:0,3,5782,Namen
+508,1127:0,3,5783,Namen
+508,1127:1,3,5785,Namen
+509,1128:0,3,5784,Namen
+509,1129:0,3,5786,Namen
+509,1130:0,3,5787,Namen
+508,1131:0,363,5787,Namen
+509,1132:0,3,5788,Namen
+508,1133:0,363,5789,Namen
+508,1133:1,363,5791,Namen
+508,1134:0,3,5789,Namen
+508,1134:1,3,5791,Namen
+509,1135:0,3,5790,Namen
+511,1136:0,489,5856,Arlon
+511,1137:0,490,5856,Arlon
+512,1138:0,491,66,LUXEMBOURG (Luxembourg)
+513,1139:0,3,5857,Arlon
+513,1140:0,3,5858,Arlon
+514,1141:0,363,5858,Arlon
+514,1141:1,363,5860,Arlon
+513,1142:0,3,5859,Arlon
+513,1143:0,3,5861,Arlon
+513,1143:1,3,5863,Arlon
+514,1144:0,363,5862,Arlon
+514,1144:1,363,5864,Arlon
+513,1145:0,3,5863,Arlon
+513,1145:1,3,5865,Arlon
+514,1146:0,363,5864,Arlon
+513,1147:0,3,5866,Arlon
+514,1148:0,363,5866,Arlon
+513,1149:0,3,5868,Arlon
+513,1150:0,3,5869,Arlon
+514,1151:0,363,5870,Arlon
+513,1152:0,3,5871,Arlon
+515,1153:0,363,5872,Jemelle
+516,1154:0,3,5876,Libramont
+516,1154:1,3,5878,Libramont
+517,1155:0,363,5877,Ciney
+517,1155:1,363,5879,Ciney
+517,1155:2,363,5881,Ciney
+517,1155:3,363,5883,Ciney
+517,1155:4,363,5885,Ciney
+517,1155:5,363,5887,Ciney
+516,1156:0,3,5878,Libramont
+516,1157:0,3,5880,Libramont
+516,1158:0,3,5882,Libramont
+516,1158:1,3,5884,Libramont
+516,1159:0,3,5886,Libramont
+516,1160:0,3,5887,Libramont
+26434,116181:0,13700,6950,Houyet
+516,1161:0,490,5888,Libramont
+517,1162:0,363,5889,Ciney
+517,1163:0,363,5891,Ciney
+518,1164:0,3,5892,Jemelle
+516,1165:0,490,5899,Libramont
+121,1166:0,491,68,LUXEMBOURG (Luxembourg)
+121,1166:1,491,70,LUXEMBOURG (Luxembourg)
+121,1167:0,491,70,LUXEMBOURG (Luxembourg)
+121,1168:0,491,72,LUXEMBOURG (Luxembourg)
+121,1168:1,491,74,LUXEMBOURG (Luxembourg)
+521,1169:0,3,5954,Arlon
+522,1170:0,3,5955,Bertrix
+523,1171:0,3,5956,Arlon
+524,1172:0,363,5957,Virton
+524,1172:1,363,5959,Virton
+524,1172:2,363,5961,Virton
+524,1172:3,363,5963,Virton
+524,1172:4,363,5965,Virton
+524,1172:5,363,5967,Virton
+524,1172:6,363,5969,Virton
+513,1173:0,3,5957,Arlon
+513,1173:1,3,5959,Arlon
+513,1173:2,3,5961,Arlon
+513,1173:3,3,5963,Arlon
+513,1174:0,3,5965,Arlon
+513,1175:0,3,5966,Arlon
+513,1175:1,3,5968,Arlon
+513,1176:0,3,5969,Arlon
+524,1177:0,0,5971,Virton
+522,1178:0,3,5972,Bertrix
+526,1179:0,3,5975,Libramont
+527,1180:0,0,5977,Libramont
+516,1181:0,3,5978,Libramont
+527,1182:0,363,5979,Libramont
+527,1182:1,363,5981,Libramont
+527,1182:2,363,5983,Libramont
+527,1182:3,363,5985,Libramont
+516,1183:0,3,5979,Libramont
+527,1184:0,363,5981,Libramont
+527,1184:1,363,5983,Libramont
+516,1185:0,3,5981,Libramont
+516,1185:1,3,5983,Libramont
+516,1185:2,3,5985,Libramont
+516,1186:0,3,5987,Libramont
+527,1187:0,363,5989,Libramont
+516,1188:0,3,5989,Libramont
+516,1188:1,3,5991,Libramont
+516,1189:0,3,5992,Libramont
+526,1190:0,0,6054,Libramont
+529,1191:0,0,6056,Libramont
+529,1192:0,0,6058,Libramont
+529,1192:1,0,6060,Libramont
+529,1192:2,0,6062,Libramont
+529,1193:0,0,6064,Libramont
+529,1194:0,0,6066,Libramont
+529,1195:0,0,6068,Libramont
+530,1196:0,0,6070,Bertrix
+530,1197:0,3,6071,Bertrix
+531,1198:0,0,6076,Dinant
+532,1199:0,492,6078,Dinant
+532,1200:0,493,6078,Dinant
+532,1201:0,0,6080,Dinant
+532,1202:0,0,6082,Dinant
+532,1202:1,0,6084,Dinant
+532,1202:2,0,6086,Dinant
+532,1203:0,0,6084,Dinant
+532,1204:0,0,6088,Dinant
+531,1205:0,3,6091,Dinant
+522,1206:0,0,6092,Bertrix
+533,1207:0,363,6156,Namen
+533,1207:1,363,6158,Namen
+533,1207:2,363,6160,Namen
+533,1208:0,363,6158,Namen
+533,1208:1,363,6160,Namen
+533,1208:2,363,6162,Namen
+534,1209:0,363,6178,Charleroi South
+534,1209:1,363,6180,Charleroi South
+114,1210:0,363,6180,Ottignies
+114,1210:1,363,6182,Ottignies
+534,1211:0,363,6186,Charleroi South
+114,1212:0,363,6188,Ottignies
+114,1212:1,363,6190,Ottignies
+110,1213:0,3,6254,Namen
+537,1214:0,3,6255,Namen
+537,1215:0,3,6256,Namen
+110,1216:0,363,6256,Namen
+110,1216:1,363,6258,Namen
+110,1216:2,363,6260,Namen
+110,1216:3,363,6262,Namen
+110,1216:4,363,6264,Namen
+110,1216:5,363,6266,Namen
+110,1216:6,363,6268,Namen
+110,1216:7,363,6270,Namen
+537,1217:0,3,6257,Namen
+537,1218:0,3,6258,Namen
+537,1218:1,3,6260,Namen
+537,1218:2,3,6262,Namen
+537,1218:3,3,6264,Namen
+537,1218:4,3,6266,Namen
+537,1219:0,3,6263,Namen
+537,1219:1,3,6265,Namen
+537,1220:0,3,6265,Namen
+537,1221:0,368,6266,Namen
+537,1222:0,4,6266,Namen
+537,1223:0,3,6267,Namen
+537,1224:0,3,6268,Namen
+537,1225:0,3,6269,Namen
+537,1225:1,3,6271,Namen
+537,1226:0,3,6270,Namen
+537,1227:0,3,6272,Namen
+538,1228:0,3,6275,Ottignies
+114,1229:0,368,6276,Ottignies
+114,1230:0,4,6276,Ottignies
+540,1231:0,368,6277,Louvain-la-Neuve-Universite
+540,1232:0,4,6277,Louvain-la-Neuve-Universite
+540,1233:0,3,6278,Louvain-la-Neuve-Universite
+114,1234:0,363,6278,Ottignies
+114,1234:1,363,6280,Ottignies
+114,1234:2,363,6282,Ottignies
+114,1234:3,363,6284,Ottignies
+114,1234:4,363,6286,Ottignies
+540,1235:0,3,6279,Louvain-la-Neuve-Universite
+540,1236:0,3,6280,Louvain-la-Neuve-Universite
+540,1237:0,3,6281,Louvain-la-Neuve-Universite
+540,1237:1,3,6283,Louvain-la-Neuve-Universite
+540,1238:0,3,6282,Louvain-la-Neuve-Universite
+540,1238:1,3,6284,Louvain-la-Neuve-Universite
+540,1238:2,3,6286,Louvain-la-Neuve-Universite
+540,1238:3,3,6288,Louvain-la-Neuve-Universite
+540,1239:0,3,6286,Louvain-la-Neuve-Universite
+114,1240:0,363,6288,Ottignies
+540,1241:0,3,6288,Louvain-la-Neuve-Universite
+540,1242:0,3,6290,Louvain-la-Neuve-Universite
+114,1243:0,363,6290,Ottignies
+541,1244:0,3,6291,Gembloux
+114,1245:0,363,6292,Ottignies
+540,1246:0,3,6292,Louvain-la-Neuve-Universite
+540,1247:0,3,6293,Louvain-la-Neuve-Universite
+542,1248:0,3,6355,Antwerp Central
+543,1249:0,3,6356,Antwerp Central
+543,1249:1,3,6358,Antwerp Central
+543,1250:0,3,6357,Antwerp Central
+543,1251:0,3,6359,Antwerp Central
+542,1252:0,3,6360,Antwerp Central
+542,1252:1,3,6362,Antwerp Central
+542,1252:2,3,6364,Antwerp Central
+542,1252:3,3,6366,Antwerp Central
+542,1252:4,3,6368,Antwerp Central
+542,1252:5,3,6370,Antwerp Central
+543,1253:0,3,6366,Antwerp Central
+543,1253:1,3,6368,Antwerp Central
+543,1253:2,3,6370,Antwerp Central
+543,1254:0,3,6369,Antwerp Central
+543,1254:1,3,6371,Antwerp Central
+542,1255:0,3,6371,Antwerp Central
+542,1255:1,3,6373,Antwerp Central
+546,1256:0,3,6376,Nijvel
+546,1257:0,3,6377,Nijvel
+546,1257:1,3,6379,Nijvel
+548,1258:0,3,6379,Brussels South
+548,1258:1,3,6381,Brussels South
+548,1258:2,3,6383,Brussels South
+548,1258:3,3,6385,Brussels South
+548,1258:4,3,6387,Brussels South
+548,1258:5,3,6389,Brussels South
+546,1259:0,3,6385,Nijvel
+546,1259:1,3,6387,Nijvel
+546,1260:0,3,6386,Nijvel
+546,1261:0,3,6388,Nijvel
+546,1262:0,3,6389,Nijvel
+548,1263:0,3,6390,Brussels South
+548,1263:1,3,6392,Brussels South
+548,1264:0,3,6391,Brussels South
+548,1264:1,3,6393,Brussels South
+548,1265:0,3,6394,Brussels South
+550,1266:0,494,6407,Bastogne North
+550,1267:0,495,6407,Bastogne North
+550,1268:0,269,6407,Bastogne North
+550,1269:0,421,6408,Bastogne North
+550,1269:1,421,6410,Bastogne North
+550,1270:0,3,6409,Bastogne North
+550,1270:1,3,6411,Bastogne North
+550,1271:0,3,6410,Bastogne North
+550,1271:1,3,6412,Bastogne North
+550,1272:0,363,6410,Bastogne North
+550,1272:1,363,6412,Bastogne North
+550,1273:0,3,6413,Bastogne North
+550,1273:1,3,6415,Bastogne North
+550,1274:0,3,6414,Bastogne North
+550,1274:1,3,6416,Bastogne North
+550,1275:0,494,6416,Bastogne North
+550,1276:0,363,6419,Bastogne North
+550,1276:1,363,6421,Bastogne North
+550,1277:0,3,6419,Bastogne North
+551,1278:0,3,6426,Libramont
+551,1279:0,269,6426,Libramont
+551,1280:0,3,6427,Libramont
+551,1280:1,3,6429,Libramont
+551,1280:2,3,6431,Libramont
+551,1281:0,495,6428,Libramont
+551,1281:1,495,6430,Libramont
+551,1282:0,494,6428,Libramont
+551,1283:0,269,6428,Libramont
+551,1284:0,421,6428,Libramont
+551,1285:0,363,6430,Libramont
+551,1285:1,363,6432,Libramont
+551,1286:0,0,6432,Libramont
+551,1287:0,3,6435,Libramont
+551,1288:0,3,6436,Libramont
+551,1289:0,3,6437,Libramont
+551,1290:0,421,6437,Libramont
+551,1291:0,363,6439,Libramont
+36217,129287:0,323,13422,Brussels South
+36218,129288:0,2102,13423,ZELL AM SEE (Austria)
+2561,130925:0,579,6718,Schaarbeek
+2327,130926:0,699,6719,Tongeren
+36710,130927:0,699,6817,Ghent Sint Pieters
+26430,130928:0,579,6817,Hasselt
+36712,130929:0,699,6818,Genk
+36713,130930:0,579,6818,Brussels North
+810,130931:0,14627,6819,Schaarbeek
+36713,130932:0,579,6819,Brussels North
+810,130933:0,906,6819,Schaarbeek
+1209,130934:0,14627,6830,Ostend
+1209,130935:0,906,6830,Ostend
+2087,130936:0,699,6831,Ostend
+26429,130937:0,579,6831,Ostend
+36718,130938:0,699,6832,Ostend
+1208,130939:0,579,6832,Ostend
+22132,137756:0,0,5029,Liege Guillemins
+22132,137756:1,0,5031,Liege Guillemins
+22132,137756:2,0,5033,Liege Guillemins
+22132,137756:3,0,5035,Liege Guillemins
+22132,137756:4,0,5037,Liege Guillemins
+22132,137756:5,0,5039,Liege Guillemins
+302,150792:0,160,5390,Liege Guillemins
+302,150792:1,160,5392,Liege Guillemins
+302,150792:2,160,5394,Liege Guillemins
+302,150792:3,160,5396,Liege Guillemins
+22132,152823:0,38,5043,Liege Guillemins
+22132,153314:0,38,5041,Liege Guillemins
+1128,153832:0,610,11405,Dinant
+1128,153832:1,610,11407,Dinant
+1128,153832:2,610,11409,Dinant
+1128,153832:3,610,11411,Dinant
+1128,153832:4,610,11413,Dinant
+1128,153832:5,610,11415,Dinant
+1128,153832:6,610,11417,Dinant
+1128,153832:7,610,11419,Dinant
+1128,153832:8,610,11421,Dinant
+1124,153833:0,610,11427,Namen
+1124,153833:1,610,11429,Namen
+1124,153833:2,610,11431,Namen
+1124,153833:3,610,11433,Namen
+1124,153833:4,610,11435,Namen
+1124,153833:5,610,11437,Namen
+1124,153833:6,610,11439,Namen
+1124,153833:7,610,11441,Namen
+1124,153833:8,610,11443,Namen
+1124,153833:9,610,11445,Namen
+46704,168438:0,0,3560,MONTHEY (Switzerland)
+551,1788:0,3,6440,Libramont
+551,1789:0,363,6441,Libramont
+551,1790:0,3,6441,Libramont
+785,1791:0,3,6455,Ottignies
+785,1791:1,3,6457,Ottignies
+785,1791:2,3,6459,Ottignies
+786,1792:0,363,6456,Louvain-la-Neuve-Universite
+786,1792:1,363,6458,Louvain-la-Neuve-Universite
+786,1792:2,363,6460,Louvain-la-Neuve-Universite
+786,1792:3,363,6462,Louvain-la-Neuve-Universite
+786,1792:4,363,6464,Louvain-la-Neuve-Universite
+786,1792:5,363,6466,Louvain-la-Neuve-Universite
+786,1792:6,363,6468,Louvain-la-Neuve-Universite
+785,1793:0,3,6458,Ottignies
+785,1794:0,3,6459,Ottignies
+785,1794:1,3,6461,Ottignies
+785,1794:10,3,6479,Ottignies
+785,1794:11,3,6481,Ottignies
+785,1794:12,3,6483,Ottignies
+785,1794:13,3,6485,Ottignies
+785,1794:2,3,6463,Ottignies
+785,1794:3,3,6465,Ottignies
+785,1794:4,3,6467,Ottignies
+785,1794:5,3,6469,Ottignies
+785,1794:6,3,6471,Ottignies
+785,1794:7,3,6473,Ottignies
+785,1794:8,3,6475,Ottignies
+785,1794:9,3,6477,Ottignies
+786,1795:0,363,6463,Louvain-la-Neuve-Universite
+786,1796:0,363,6464,Louvain-la-Neuve-Universite
+786,1796:1,363,6466,Louvain-la-Neuve-Universite
+786,1797:0,363,6466,Louvain-la-Neuve-Universite
+786,1798:0,363,6467,Louvain-la-Neuve-Universite
+786,1798:1,363,6469,Louvain-la-Neuve-Universite
+786,1798:2,363,6471,Louvain-la-Neuve-Universite
+786,1798:3,363,6473,Louvain-la-Neuve-Universite
+786,1799:0,363,6471,Louvain-la-Neuve-Universite
+105,179:0,5,4534,Charleroi South
+787,1800:0,363,6472,Louvain-la-Neuve-Universite
+788,1801:0,3,6476,Leuven
+788,1801:1,3,6478,Leuven
+788,1801:10,3,6496,Leuven
+788,1801:11,3,6498,Leuven
+788,1801:12,3,6500,Leuven
+788,1801:13,3,6502,Leuven
+788,1801:14,3,6504,Leuven
+788,1801:15,3,6506,Leuven
+788,1801:16,3,6508,Leuven
+788,1801:2,3,6480,Leuven
+788,1801:3,3,6482,Leuven
+788,1801:4,3,6484,Leuven
+788,1801:5,3,6486,Leuven
+788,1801:6,3,6488,Leuven
+788,1801:7,3,6490,Leuven
+788,1801:8,3,6492,Leuven
+788,1801:9,3,6494,Leuven
+789,1802:0,363,6477,Leuven
+789,1802:1,363,6479,Leuven
+789,1802:10,363,6497,Leuven
+789,1802:2,363,6481,Leuven
+789,1802:3,363,6483,Leuven
+789,1802:4,363,6485,Leuven
+789,1802:5,363,6487,Leuven
+789,1802:6,363,6489,Leuven
+789,1802:7,363,6491,Leuven
+789,1802:8,363,6493,Leuven
+789,1802:9,363,6495,Leuven
+789,1803:0,363,6488,Leuven
+789,1804:0,363,6489,Leuven
+789,1804:1,363,6491,Leuven
+789,1804:2,363,6493,Leuven
+789,1804:3,363,6495,Leuven
+790,1805:0,363,6493,Ottignies
+550,1806:0,495,6506,Bastogne North
+550,1807:0,494,6506,Bastogne North
+550,1808:0,494,6507,Bastogne North
+550,1809:0,495,6507,Bastogne North
+105,180:0,6,4534,Charleroi South
+550,1810:0,3,6508,Bastogne North
+550,1811:0,269,6508,Bastogne North
+550,1812:0,570,6512,Bastogne North
+550,1813:0,571,6512,Bastogne North
+550,1814:0,363,6513,Bastogne North
+550,1815:0,3,6516,Bastogne North
+550,1815:1,3,6518,Bastogne North
+550,1816:0,269,6516,Bastogne North
+550,1817:0,421,6516,Bastogne North
+550,1818:0,269,6517,Bastogne North
+550,1819:0,421,6517,Bastogne North
+105,181:0,3,4535,Charleroi South
+105,181:1,3,4537,Charleroi South
+550,1820:0,3,6518,Bastogne North
+551,1821:0,494,6528,Libramont
+551,1822:0,494,6530,Libramont
+551,1823:0,495,6533,Libramont
+551,1824:0,363,6533,Libramont
+551,1825:0,3,6534,Libramont
+551,1826:0,421,6536,Libramont
+551,1827:0,495,6536,Libramont
+551,1828:0,269,6537,Libramont
+551,1829:0,3,6538,Libramont
+105,182:0,3,4537,Charleroi South
+551,1830:0,3,6539,Libramont
+791,1831:0,3,6555,Louvain-la-Neuve-Universite
+791,1831:1,3,6557,Louvain-la-Neuve-Universite
+787,1832:0,363,6555,Louvain-la-Neuve-Universite
+791,1833:0,3,6556,Louvain-la-Neuve-Universite
+791,1834:0,363,6556,Louvain-la-Neuve-Universite
+791,1834:1,363,6558,Louvain-la-Neuve-Universite
+791,1834:10,363,6576,Louvain-la-Neuve-Universite
+791,1834:11,363,6578,Louvain-la-Neuve-Universite
+791,1834:2,363,6560,Louvain-la-Neuve-Universite
+791,1834:3,363,6562,Louvain-la-Neuve-Universite
+791,1834:4,363,6564,Louvain-la-Neuve-Universite
+791,1834:5,363,6566,Louvain-la-Neuve-Universite
+791,1834:6,363,6568,Louvain-la-Neuve-Universite
+791,1834:7,363,6570,Louvain-la-Neuve-Universite
+791,1834:8,363,6572,Louvain-la-Neuve-Universite
+791,1834:9,363,6574,Louvain-la-Neuve-Universite
+791,1835:0,3,6558,Louvain-la-Neuve-Universite
+791,1835:1,3,6560,Louvain-la-Neuve-Universite
+791,1835:2,3,6562,Louvain-la-Neuve-Universite
+791,1835:3,3,6564,Louvain-la-Neuve-Universite
+791,1835:4,3,6566,Louvain-la-Neuve-Universite
+791,1836:0,3,6564,Louvain-la-Neuve-Universite
+791,1837:0,3,6565,Louvain-la-Neuve-Universite
+791,1838:0,368,6566,Louvain-la-Neuve-Universite
+791,1839:0,4,6566,Louvain-la-Neuve-Universite
+105,183:0,3,4538,Charleroi South
+791,1840:0,368,6567,Louvain-la-Neuve-Universite
+791,1841:0,4,6567,Louvain-la-Neuve-Universite
+791,1842:0,3,6568,Louvain-la-Neuve-Universite
+791,1842:1,3,6570,Louvain-la-Neuve-Universite
+791,1842:2,3,6572,Louvain-la-Neuve-Universite
+791,1842:3,3,6574,Louvain-la-Neuve-Universite
+791,1843:0,363,6568,Louvain-la-Neuve-Universite
+791,1844:0,363,6569,Louvain-la-Neuve-Universite
+791,1844:1,363,6571,Louvain-la-Neuve-Universite
+791,1844:2,363,6573,Louvain-la-Neuve-Universite
+791,1844:3,363,6575,Louvain-la-Neuve-Universite
+791,1845:0,3,6572,Louvain-la-Neuve-Universite
+794,1846:0,3,6576,Brussels South
+795,1847:0,368,6577,Brussels South
+795,1848:0,4,6577,Brussels South
+794,1849:0,363,6577,Brussels South
+105,184:0,3,4539,Charleroi South
+105,184:1,3,4541,Charleroi South
+795,1850:0,368,6578,Brussels South
+795,1851:0,4,6578,Brussels South
+795,1852:0,363,6578,Brussels South
+795,1853:0,368,6579,Brussels South
+795,1854:0,4,6579,Brussels South
+795,1855:0,363,6579,Brussels South
+795,1856:0,3,6580,Brussels South
+795,1856:1,3,6582,Brussels South
+795,1857:0,363,6580,Brussels South
+795,1858:0,363,6581,Brussels South
+795,1858:1,363,6583,Brussels South
+795,1858:2,363,6585,Brussels South
+795,1858:3,363,6587,Brussels South
+795,1858:4,363,6589,Brussels South
+795,1858:5,363,6591,Brussels South
+795,1858:6,363,6593,Brussels South
+795,1858:7,363,6595,Brussels South
+795,1858:8,363,6597,Brussels South
+795,1859:0,3,6581,Brussels South
+795,1859:1,3,6583,Brussels South
+795,1859:2,3,6585,Brussels South
+105,185:0,3,4541,Charleroi South
+105,185:1,3,4543,Charleroi South
+105,185:2,3,4545,Charleroi South
+795,1860:0,3,6584,Brussels South
+795,1860:1,3,6586,Brussels South
+795,1860:2,3,6588,Brussels South
+795,1861:0,3,6586,Brussels South
+795,1862:0,368,6587,Brussels South
+795,1863:0,4,6587,Brussels South
+795,1864:0,3,6589,Brussels South
+795,1864:1,3,6591,Brussels South
+795,1865:0,363,6590,Brussels South
+795,1866:0,3,6591,Brussels South
+795,1867:0,363,6591,Brussels South
+795,1867:1,363,6593,Brussels South
+795,1867:2,363,6595,Brussels South
+795,1868:0,3,6593,Brussels South
+790,1869:0,0,6594,Ottignies
+107,186:0,3,4555,Tamines
+785,1870:0,367,6909,Ottignies
+785,1870:1,367,6911,Ottignies
+799,1871:0,367,6940,Waver
+118,1872:0,367,6941,Waver
+800,1873:0,367,6942,Waver
+800,1873:1,367,6944,Waver
+801,1874:0,365,6961,Ottignies
+801,1875:0,572,6962,Ottignies
+801,1876:0,573,6963,Ottignies
+801,1876:1,573,6965,Ottignies
+801,1877:0,573,6965,Ottignies
+801,1878:0,574,6966,Ottignies
+801,1878:1,574,6968,Ottignies
+788,1879:0,367,6968,Leuven
+788,1879:1,367,6970,Leuven
+107,187:0,3,4556,Tamines
+107,187:1,3,4558,Tamines
+788,1880:0,574,6971,Leuven
+788,1880:1,574,6973,Leuven
+788,1880:2,574,6975,Leuven
+803,1881:0,575,6990,Brussels South
+112,1882:0,367,6991,Charleroi South
+801,1883:0,367,6992,Ottignies
+801,1884:0,574,6993,Ottignies
+803,1885:0,573,6994,Brussels South
+804,1886:0,576,7001,Schaarbeek
+805,1887:0,4,7002,Wezet
+806,1888:0,368,7002,Schaarbeek
+807,1889:0,576,7003,Brussels Airport
+108,188:0,363,4557,Charleroi South
+108,188:1,363,4559,Charleroi South
+108,188:2,363,4561,Charleroi South
+808,1890:0,576,7004,Etterbeek
+809,1891:0,576,7005,Leuven
+810,1892:0,576,7006,Schaarbeek
+810,1893:0,576,7008,Schaarbeek
+812,1894:0,4,7009,Etterbeek
+813,1895:0,576,7010,Schaarbeek
+814,1896:0,4,7011,Brussels North
+815,1897:0,576,7012,Schaarbeek
+815,1898:0,576,7013,Schaarbeek
+815,1899:0,576,7014,Schaarbeek
+109,189:0,3,4558,Tamines
+818,1900:0,3,7015,Ghent Sint Pieters
+819,1901:0,3,7015,Antwerp Central
+820,1902:0,3,7016,Ghent Sint Pieters
+821,1903:0,3,7016,Antwerp Central
+822,1904:0,576,7021,Brussels Luxembourg
+823,1905:0,4,7022,Schaarbeek
+824,1906:0,4,7023,Etterbeek
+825,1907:0,3,7048,Poperinge
+825,1907:1,3,7050,Poperinge
+826,1908:0,4,7051,Ghent Sint Pieters
+826,1909:0,3,7053,Ghent Sint Pieters
+110,190:0,363,4559,Namen
+110,190:1,363,4561,Namen
+827,1910:0,3,7054,Bruges
+828,1911:0,4,7057,Zeebrugge Dorp
+829,1912:0,4,7058,Bruges
+830,1913:0,4,7061,Bruges
+831,1914:0,4,7064,Bruges
+832,1915:0,577,7065,Ghent Sint Pieters
+831,1916:0,3,7065,Bruges
+827,1917:0,4,7066,Bruges
+826,1918:0,4,7067,Ghent Sint Pieters
+833,1919:0,4,7070,Ghent Sint Pieters
+107,191:0,3,4559,Tamines
+107,191:1,3,4561,Tamines
+107,191:2,3,4563,Tamines
+107,191:3,3,4565,Tamines
+107,191:4,3,4567,Tamines
+107,191:5,3,4569,Tamines
+107,191:6,3,4571,Tamines
+107,191:7,3,4573,Tamines
+834,1920:0,4,7072,Brussels South
+835,1921:0,3,7073,Brussels South
+836,1922:0,576,7074,BRUXELLES-OUEST (Belgium)
+833,1923:0,4,7076,Ghent Sint Pieters
+825,1924:0,4,7080,Poperinge
+837,1925:0,4,7082,Courtrai
+838,1926:0,3,7083,Courtrai
+839,1927:0,3,7084,Eeklo
+840,1928:0,3,7085,Ghent Sint Pieters
+841,1929:0,4,7087,Saint Nicolas
+108,192:0,363,4561,Charleroi South
+842,1930:0,4,7088,Malines
+842,1930:1,4,7090,Malines
+842,1931:0,370,7090,Malines
+843,1932:0,370,7091,Malines
+293,1933:0,4,7092,Brussels South
+845,1934:0,370,7093,Dendermonde
+293,1935:0,576,7094,Brussels South
+847,1936:0,576,7095,Brussels Luxembourg
+848,1937:0,4,7096,Leuven
+848,1938:0,4,7097,Leuven
+841,1939:0,370,7098,Saint Nicolas
+107,193:0,364,4567,Tamines
+107,193:1,364,4569,Tamines
+850,1940:0,3,7100,Brussels South
+851,1941:0,4,7100,Louvain-la-Neuve-Universite
+851,1942:0,368,7100,Louvain-la-Neuve-Universite
+853,1943:0,3,7106,Eigenbrakel
+292,1944:0,4,7157,Dendermonde
+854,1945:0,491,82,LUXEMBOURG (Luxembourg)
+855,1946:0,370,7194,Ath
+856,1947:0,368,7200,Halle
+856,1948:0,4,7200,Halle
+857,1949:0,3,7209,Brussels South
+109,194:0,365,4567,Tamines
+858,1950:0,576,7215,Antwerp Berchem
+859,1951:0,3,7250,Antwerp Central
+860,1952:0,4,7252,Antwerp Central
+861,1953:0,3,7256,Brussels South
+861,1953:1,3,7258,Brussels South
+862,1954:0,3,7272,ANVERS-HAVEN (Belgium)
+862,1955:0,3,7276,ANVERS-HAVEN (Belgium)
+864,1956:0,3,7280,Antwerp Central
+865,1957:0,3,7281,Antwerp Noorderdokken
+865,1958:0,576,7282,Antwerp Noorderdokken
+865,1959:0,3,7283,Antwerp Noorderdokken
+108,195:0,366,4567,Charleroi South
+866,1960:0,370,7289,Saint Nicolas
+860,1961:0,3,7290,Antwerp Central
+868,1962:0,3,7291,Antwerp Berchem
+869,1963:0,4,7292,Antwerp Berchem
+869,1964:0,370,7295,Antwerp Berchem
+871,1965:0,4,7296,Ghent Sint Pieters
+872,1966:0,576,7300,Brussels South
+873,1967:0,576,7302,Brussels South
+872,1968:0,576,7305,Brussels South
+875,1969:0,576,7306,Brussels South
+112,196:0,367,4567,Charleroi South
+872,1970:0,576,7307,Brussels South
+875,1971:0,576,7308,Brussels South
+877,1972:0,3,7309,Genk
+878,1973:0,3,7311,Genk
+872,1974:0,4,7312,Brussels South
+879,1975:0,3,7328,Hasselt
+879,1976:0,3,7329,Hasselt
+879,1977:0,3,7330,Hasselt
+880,1978:0,576,7351,Brussels South
+880,1979:0,576,7352,Brussels South
+109,197:0,365,4568,Tamines
+881,1980:0,4,7376,Liege Guillemins
+882,1981:0,4,7377,Landen
+881,1982:0,4,7378,Liege Guillemins
+883,1983:0,3,7379,Leuven
+884,1984:0,3,7380,Lokeren
+884,1984:1,3,7382,Lokeren
+885,1985:0,3,7381,Dendermonde
+885,1985:1,3,7383,Dendermonde
+884,1986:0,370,7384,Lokeren
+885,1987:0,370,7385,Dendermonde
+886,1988:0,4,7386,Malines
+886,1988:1,4,7388,Malines
+886,1989:0,3,7387,Malines
+107,198:0,3,4569,Tamines
+107,198:1,3,4571,Tamines
+107,198:2,3,4573,Tamines
+887,1990:0,4,7400,Brussels South
+888,1991:0,3,7401,Brussels North
+889,1992:0,578,7401,Mouscron
+890,1993:0,579,7401,Blankenberge
+887,1994:0,576,7402,Brussels South
+892,1995:0,4,7403,Brussels South
+892,1996:0,576,7405,Brussels South
+521,1997:0,3,7471,Arlon
+143,1998:0,4,7481,Statte
+320,1999:0,4,7482,Namen
+108,199:0,363,4571,Charleroi South
+893,2000:0,370,7483,Rivage
+894,2001:0,4,7486,Trois Ponts
+320,2002:0,3,7487,Namen
+895,2003:0,4,7487,Basse Wavre
+896,2004:0,368,7487,Ottignies
+897,2005:0,4,7488,Jemelle
+898,2006:0,4,7491,Verviers Central
+284,2007:0,370,7493,Liege Guillemins
+899,2008:0,4,7494,Eupen
+900,2009:0,4,7495,Welkenraedt
+108,200:0,3,4572,Charleroi South
+901,2010:0,576,7512,Schaarbeek
+902,2011:0,4,7513,Schaarbeek
+902,2012:0,576,7514,Schaarbeek
+903,2013:0,576,7515,Leuven
+113,201:0,3,4575,Ottignies
+114,202:0,3,4576,Ottignies
+115,203:0,3,4577,Waver
+113,204:0,363,4578,Ottignies
+113,204:1,363,4580,Ottignies
+116,205:0,364,4579,Ottignies
+116,205:1,364,4581,Ottignies
+115,206:0,365,4579,Waver
+115,206:1,365,4581,Waver
+113,207:0,366,4580,Ottignies
+118,208:0,367,4580,Waver
+116,209:0,3,4581,Ottignies
+116,209:1,3,4583,Ottignies
+116,209:10,3,4601,Ottignies
+116,209:11,3,4603,Ottignies
+116,209:2,3,4585,Ottignies
+116,209:3,3,4587,Ottignies
+116,209:4,3,4589,Ottignies
+116,209:5,3,4591,Ottignies
+116,209:6,3,4593,Ottignies
+116,209:7,3,4595,Ottignies
+116,209:8,3,4597,Ottignies
+116,209:9,3,4599,Ottignies
+113,210:0,363,4588,Ottignies
+119,211:0,3,4593,Charleroi South
+120,212:0,4,4606,LUXEMBOURG (Luxembourg)
+121,213:0,368,4606,LUXEMBOURG (Luxembourg)
+121,213:1,368,4608,LUXEMBOURG (Luxembourg)
+120,214:0,4,4614,LUXEMBOURG (Luxembourg)
+120,215:0,3,4618,LUXEMBOURG (Luxembourg)
+123,216:0,363,4657,Couvin
+123,216:1,363,4659,Couvin
+123,217:0,3,4660,Couvin
+123,218:0,363,4661,Couvin
+123,218:1,363,4663,Couvin
+123,219:0,3,4662,Couvin
+123,220:0,3,4665,Couvin
+123,220:1,3,4667,Couvin
+123,221:0,363,4665,Couvin
+123,221:1,363,4667,Couvin
+123,221:2,363,4669,Couvin
+123,222:0,3,4666,Couvin
+123,223:0,3,4672,Couvin
+123,224:0,363,4672,Couvin
+125,225:0,3,4675,Charleroi South
+125,226:0,363,4676,Charleroi South
+125,226:1,363,4678,Charleroi South
+125,226:2,363,4680,Charleroi South
+125,226:3,363,4682,Charleroi South
+125,227:0,3,4676,Charleroi South
+125,228:0,3,4680,Charleroi South
+125,229:0,363,4683,Charleroi South
+125,229:1,363,4685,Charleroi South
+125,230:0,3,4683,Charleroi South
+125,231:0,3,4685,Charleroi South
+125,232:0,3,4686,Charleroi South
+125,233:0,363,4688,Charleroi South
+1101,2346:0,3,7520,Liers
+1102,2347:0,576,7560,Mons
+1103,2348:0,370,7561,Mouscron
+1104,2349:0,576,7563,Tournai
+125,234:0,363,4690,Charleroi South
+125,234:1,363,4692,Charleroi South
+1105,2350:0,370,7564,Quievrain
+1106,2351:0,4,7572,Brussels South
+1107,2352:0,4,7572,Antwerp Central
+1108,2353:0,4,7573,Edingen
+1108,2354:0,368,7573,Edingen
+1106,2355:0,576,7574,Brussels South
+1107,2356:0,576,7574,Antwerp Central
+1109,2357:0,4,7580,Saint Ghislain
+1110,2358:0,368,7580,Mons
+1111,2359:0,4,7581,Ath
+125,235:0,3,4691,Charleroi South
+1112,2360:0,4,7582,Ath
+1113,2361:0,370,7585,Jurbise
+1114,2362:0,4,7590,Geraardsbergen
+137,2363:0,4,7591,Ath
+137,2363:1,4,7593,Ath
+1115,2364:0,4,7592,Edingen
+137,2365:0,4,7594,Ath
+138,2366:0,370,7597,Edingen
+1117,2367:0,4,7598,Tournai
+1118,2368:0,576,7600,Brussels South
+1119,2369:0,576,7602,Brussels South
+127,236:0,0,10,LUXEMBOURG (Luxembourg)
+127,236:1,0,12,LUXEMBOURG (Luxembourg)
+127,236:2,0,14,LUXEMBOURG (Luxembourg)
+127,236:3,0,16,LUXEMBOURG (Luxembourg)
+127,236:4,0,18,LUXEMBOURG (Luxembourg)
+127,236:5,0,20,LUXEMBOURG (Luxembourg)
+127,236:6,0,22,LUXEMBOURG (Luxembourg)
+127,236:7,0,24,LUXEMBOURG (Luxembourg)
+1121,2371:0,630,92,LUXEMBOURG (Luxembourg)
+1121,2371:1,630,94,LUXEMBOURG (Luxembourg)
+507,2372:0,3,7624,Namen
+110,2373:0,4,7653,Namen
+1123,2374:0,3,7654,Brussels South
+114,2375:0,3,7655,Ottignies
+541,2376:0,370,7657,Gembloux
+1124,2377:0,3,7661,Namen
+1124,2378:0,3,7662,Namen
+1125,2379:0,370,7670,Jemelle
+127,237:0,369,12,LUXEMBOURG (Luxembourg)
+127,237:1,369,14,LUXEMBOURG (Luxembourg)
+513,2380:0,370,7671,Arlon
+515,2381:0,370,7673,Jemelle
+518,2382:0,370,7675,Jemelle
+314,2383:0,3,7676,Herstal
+511,2384:0,3,7677,Arlon
+1126,2385:0,370,7678,Virton
+531,2386:0,3,7680,Dinant
+531,2387:0,3,7681,Dinant
+1124,2388:0,3,7682,Namen
+530,2389:0,492,7683,Bertrix
+127,238:0,369,4747,LUXEMBOURG (Luxembourg)
+127,238:1,369,4749,LUXEMBOURG (Luxembourg)
+530,2390:0,631,7683,Bertrix
+534,2391:0,3,7685,Charleroi South
+1128,2392:0,4,7686,Dinant
+1129,2393:0,3,7690,Gembloux
+1130,2394:0,3,7691,Jemeppe Sur Sambre
+1131,2395:0,3,7692,Gembloux
+1132,2396:0,3,7693,Tamines
+522,2397:0,3,7695,Bertrix
+526,2398:0,3,7696,Libramont
+125,2399:0,3,7717,Charleroi South
+128,239:0,363,4756,Erquelinnes
+128,239:1,363,4758,Erquelinnes
+128,239:2,363,4760,Erquelinnes
+128,239:3,363,4762,Erquelinnes
+128,239:4,363,4764,Erquelinnes
+128,239:5,363,4766,Erquelinnes
+125,2400:0,3,7718,Charleroi South
+1133,2401:0,3,7720,Antwerp Central
+1134,2402:0,576,7721,Schaarbeek
+1134,2403:0,4,7722,Schaarbeek
+1136,2404:0,576,7723,Schaarbeek
+1134,2405:0,576,7724,Schaarbeek
+1134,2406:0,576,7725,Schaarbeek
+1136,2407:0,4,7726,Schaarbeek
+1136,2408:0,576,7727,Schaarbeek
+1141,2409:0,4,7741,Schaarbeek
+128,240:0,3,4756,Erquelinnes
+1141,2410:0,632,7741,Schaarbeek
+130,2411:0,3,7750,Charleroi South
+130,2412:0,4,7751,Charleroi South
+128,2413:0,4,7752,Erquelinnes
+1143,2414:0,4,7755,Luttre
+113,2415:0,4,7756,Ottignies
+1144,2416:0,4,7757,Brussels South
+1144,2417:0,4,7758,Brussels South
+1145,2418:0,3,7760,Charleroi South
+1145,2419:0,3,7761,Charleroi South
+128,241:0,3,4757,Erquelinnes
+1145,2420:0,370,7762,Charleroi South
+1146,2421:0,3,7763,Walcourt
+1147,2422:0,4,7771,Braine Le Comte
+1147,2422:1,4,7773,Braine Le Comte
+1148,2423:0,4,7773,Mons
+1149,2424:0,4,7774,Mons
+1150,2425:0,4,7776,La Louviere Center
+1143,2426:0,4,7778,Luttre
+1151,2427:0,4,7780,Charleroi South
+1151,2427:1,4,7782,Charleroi South
+1152,2428:0,4,7783,Nijvel
+533,2429:0,3,7785,Namen
+128,242:0,3,4758,Erquelinnes
+128,242:1,3,4760,Erquelinnes
+128,242:10,3,4778,Erquelinnes
+128,242:11,3,4780,Erquelinnes
+128,242:12,3,4782,Erquelinnes
+128,242:2,3,4762,Erquelinnes
+128,242:3,3,4764,Erquelinnes
+128,242:4,3,4766,Erquelinnes
+128,242:5,3,4768,Erquelinnes
+128,242:6,3,4770,Erquelinnes
+128,242:7,3,4772,Erquelinnes
+128,242:8,3,4774,Erquelinnes
+128,242:9,3,4776,Erquelinnes
+1154,2430:0,4,7786,Namen
+1151,2431:0,370,7788,Charleroi South
+119,2432:0,3,7789,Charleroi South
+1155,2433:0,576,7800,Schaarbeek
+1156,2434:0,4,7801,Schaarbeek
+1157,2435:0,3,7802,Mons
+1156,2436:0,576,7803,Schaarbeek
+1158,2437:0,3,7861,Mouscron
+1159,2438:0,3,7862,Mons
+1160,2439:0,577,7862,Braine Le Comte
+128,243:0,363,4768,Erquelinnes
+1159,2440:0,4,7864,Mons
+1162,2441:0,370,7866,Tournai
+1163,2442:0,4,7874,Charleroi South
+1164,2443:0,370,7876,La Louviere Center
+1165,2444:0,4,7896,Quievrain
+1166,2445:0,3,7901,Brussels North
+804,2446:0,576,7902,Schaarbeek
+1168,2447:0,576,7903,Schaarbeek
+1169,2448:0,4,7904,Schaarbeek
+1168,2449:0,632,7904,Schaarbeek
+128,244:0,363,4770,Erquelinnes
+1168,2450:0,4,7905,Schaarbeek
+804,2451:0,576,7906,Schaarbeek
+1168,2452:0,576,7907,Schaarbeek
+1169,2453:0,3,7908,Schaarbeek
+1168,2454:0,4,7909,Schaarbeek
+1176,2455:0,3,7949,Ghent Sint Pieters
+1177,2456:0,577,7949,Bruges
+1178,2457:0,4,7950,Geraardsbergen
+1179,2458:0,3,7951,Denderleeuw
+1179,2458:1,3,7953,Denderleeuw
+1176,2459:0,3,7953,Ghent Sint Pieters
+128,245:0,3,4771,Erquelinnes
+286,2460:0,4,7954,Aalst
+1179,2461:0,4,7955,Denderleeuw
+1179,2462:0,368,7955,Denderleeuw
+1182,2463:0,4,7958,Courtrai
+1183,2464:0,3,7960,Ronse
+1184,2465:0,4,7961,Geraardsbergen
+1185,2466:0,3,7962,Geraardsbergen
+1186,2467:0,3,7963,Ghent Sint Pieters
+1187,2468:0,4,7964,Ronse
+1188,2469:0,3,7965,Denderleeuw
+130,246:0,3,4776,Charleroi South
+1189,2470:0,4,7967,Brussels South
+1190,2471:0,632,7967,Denderleeuw
+1189,2472:0,576,7968,Brussels South
+1191,2473:0,4,7969,Zottegem
+1192,2474:0,4,7969,Courtrai
+1193,2475:0,4,7974,Burst
+1193,2475:1,4,7976,Burst
+1194,2476:0,4,7975,Aalst
+1194,2477:0,4,7977,Aalst
+1195,2478:0,4,7978,Zottegem
+1176,2479:0,4,7982,Ghent Sint Pieters
+130,247:0,3,4777,Charleroi South
+130,247:1,3,4779,Charleroi South
+130,247:10,3,4797,Charleroi South
+130,247:11,3,4799,Charleroi South
+130,247:12,3,4801,Charleroi South
+130,247:13,3,4803,Charleroi South
+130,247:2,3,4781,Charleroi South
+130,247:3,3,4783,Charleroi South
+130,247:4,3,4785,Charleroi South
+130,247:5,3,4787,Charleroi South
+130,247:6,3,4789,Charleroi South
+130,247:7,3,4791,Charleroi South
+130,247:8,3,4793,Charleroi South
+130,247:9,3,4795,Charleroi South
+1176,2480:0,3,7984,Ghent Sint Pieters
+1176,2481:0,4,7986,Ghent Sint Pieters
+1198,2482:0,370,7989,Bruges
+1199,2483:0,4,7990,Zottegem
+1200,2484:0,368,7990,Courtrai
+1200,2485:0,4,7991,Courtrai
+1198,2486:0,4,7993,Bruges
+1201,2487:0,4,7995,Denderleeuw
+1202,2488:0,576,7995,Ghent Sint Pieters
+1202,2489:0,4,7996,Ghent Sint Pieters
+130,248:0,363,4778,Charleroi South
+130,248:1,363,4780,Charleroi South
+130,248:2,363,4782,Charleroi South
+130,248:3,363,4784,Charleroi South
+130,248:4,363,4786,Charleroi South
+130,248:5,363,4788,Charleroi South
+130,248:6,363,4790,Charleroi South
+130,248:7,363,4792,Charleroi South
+837,2490:0,4,7997,Courtrai
+1203,2491:0,3,7999,Dendermonde
+1204,2492:0,4,8001,Poperinge
+1205,2493:0,576,8002,Ostend
+1206,2494:0,576,8003,Bruges
+1207,2495:0,576,8004,Courtrai
+1208,2496:0,576,8005,Ostend
+1209,2497:0,576,8006,Ostend
+1210,2498:0,576,8007,Courtrai
+1209,2499:0,368,8008,Ostend
+123,249:0,3,4806,Couvin
+1212,2500:0,576,8010,Saint Nicolas
+1213,2501:0,4,8012,Ghent Sint Pieters
+1213,2502:0,576,8013,Ghent Sint Pieters
+1213,2503:0,576,8014,Ghent Sint Pieters
+1216,2504:0,576,8021,Denderleeuw
+1217,2505:0,4,8022,Denderleeuw
+838,2506:0,3,8048,Courtrai
+838,2506:1,3,8050,Courtrai
+827,2507:0,3,8050,Bruges
+1218,2508:0,4,8051,Aalst
+1219,2509:0,578,8053,Aalst
+123,250:0,3,4807,Couvin
+1218,2510:0,579,8053,Aalst
+1221,2511:0,3,8055,Blankenberge
+830,2512:0,3,8056,Bruges
+1222,2513:0,578,8057,Knokke
+1222,2514:0,578,8058,Knokke
+1222,2514:1,578,8060,Knokke
+1223,2515:0,576,8066,De Panne
+1224,2516:0,576,8067,Denderleeuw
+1225,2517:0,4,8068,Aalst
+818,2518:0,4,8080,Ghent Sint Pieters
+825,2519:0,3,8081,Poperinge
+123,251:0,3,4808,Couvin
+123,251:1,3,4810,Couvin
+825,2520:0,4,8083,Poperinge
+839,2521:0,3,8085,Eeklo
+842,2522:0,3,8086,Malines
+1228,2523:0,4,8087,Leuven
+841,2524:0,3,8088,Saint Nicolas
+841,2525:0,4,8089,Saint Nicolas
+841,2526:0,3,8091,Saint Nicolas
+292,2527:0,4,8092,Dendermonde
+292,2528:0,4,8095,Dendermonde
+843,2529:0,4,8098,Malines
+123,252:0,3,4809,Couvin
+1230,2530:0,4,8099,Dendermonde
+1231,2531:0,3,8185,Brussels North
+1231,2532:0,363,8186,Brussels North
+1232,2533:0,3,8215,Aarschot
+1233,2534:0,633,8220,Heverlee
+1234,2535:0,634,8222,Neerpelt
+1235,2536:0,3,8250,Saint Nicolas
+1236,2537:0,4,8253,Essen
+1237,2538:0,3,8256,Leuven
+1237,2538:1,3,8258,Leuven
+1238,2539:0,370,8274,Boom
+123,253:0,370,4812,Couvin
+1239,2540:0,635,8274,Boom
+1232,2541:0,3,8280,Aarschot
+1241,2542:0,576,8281,Aarschot
+1241,2543:0,4,8282,Aarschot
+866,2544:0,4,8290,Saint Nicolas
+869,2545:0,4,8291,Antwerp Berchem
+866,2546:0,3,8292,Saint Nicolas
+866,2547:0,3,8293,Saint Nicolas
+1243,2548:0,576,8300,Genk
+1243,2549:0,4,8302,Genk
+123,254:0,371,4812,Couvin
+1244,2550:0,576,8305,Tongeren
+1245,2551:0,576,8306,Hasselt
+1245,2552:0,576,8307,Hasselt
+1244,2553:0,576,8308,Tongeren
+1245,2554:0,576,8312,Hasselt
+877,2555:0,3,8314,Genk
+877,2555:1,3,8316,Genk
+1247,2556:0,3,8336,Landen
+879,2557:0,3,8338,Hasselt
+879,2557:1,3,8340,Hasselt
+1248,2558:0,576,8351,Landen
+1248,2559:0,576,8352,Landen
+123,255:0,3,4813,Couvin
+1250,2560:0,633,8373,Sint Joris Weert
+1251,2561:0,4,8379,Dendermonde
+884,2562:0,3,8380,Lokeren
+885,2563:0,3,8381,Dendermonde
+885,2563:1,3,8383,Dendermonde
+885,2563:2,3,8385,Dendermonde
+884,2564:0,3,8382,Lokeren
+884,2564:1,3,8384,Lokeren
+1252,2565:0,576,8386,Leuven
+1253,2566:0,4,8388,Ghent Sint Pieters
+1254,2567:0,4,8397,Dendermonde
+1255,2568:0,576,8400,Welkenraedt
+1255,2569:0,576,8402,Welkenraedt
+123,256:0,3,4814,Couvin
+123,256:1,3,4816,Couvin
+1257,2570:0,4,8403,Hoei
+1257,2571:0,576,8405,Hoei
+301,2572:0,3,8418,Wezet
+1259,2573:0,3,8474,Arlon
+1126,2574:0,3,8477,Virton
+1126,2574:1,3,8479,Virton
+144,2575:0,4,8481,Liege Palais
+1260,2576:0,4,8490,Ans
+1261,2577:0,4,8510,Geraardsbergen
+1262,2578:0,576,8511,Tournai
+1263,2579:0,576,8512,Mouscron
+123,257:0,3,4815,Couvin
+1263,2580:0,4,8513,Mouscron
+1265,2581:0,576,8514,Mouscron
+123,258:0,3,4816,Couvin
+123,259:0,3,4817,Couvin
+123,260:0,3,4819,Couvin
+123,261:0,3,4820,Couvin
+123,262:0,3,4821,Couvin
+125,263:0,3,4825,Charleroi South
+125,264:0,3,4826,Charleroi South
+125,265:0,3,4827,Charleroi South
+125,266:0,3,4828,Charleroi South
+125,267:0,3,4829,Charleroi South
+125,268:0,3,4831,Charleroi South
+125,269:0,3,4832,Charleroi South
+125,270:0,3,4833,Charleroi South
+125,271:0,3,4834,Charleroi South
+125,272:0,3,4835,Charleroi South
+125,273:0,3,4836,Charleroi South
+125,274:0,4,4837,Charleroi South
+125,275:0,368,4837,Charleroi South
+125,276:0,4,4838,Charleroi South
+125,277:0,368,4838,Charleroi South
+125,278:0,3,4839,Charleroi South
+137,279:0,363,4856,Ath
+138,280:0,363,4877,Edingen
+138,280:1,363,4879,Edingen
+138,280:2,363,4881,Edingen
+138,280:3,363,4883,Edingen
+138,280:4,363,4885,Edingen
+138,280:5,363,4887,Edingen
+138,280:6,363,4889,Edingen
+138,280:7,363,4891,Edingen
+139,281:0,363,4906,Antwerp Central
+139,281:1,363,4908,Antwerp Central
+139,281:10,363,4926,Antwerp Central
+139,281:11,363,4928,Antwerp Central
+139,281:12,363,4930,Antwerp Central
+139,281:13,363,4932,Antwerp Central
+139,281:14,363,4934,Antwerp Central
+139,281:15,363,4936,Antwerp Central
+139,281:2,363,4910,Antwerp Central
+139,281:3,363,4912,Antwerp Central
+139,281:4,363,4914,Antwerp Central
+139,281:5,363,4916,Antwerp Central
+139,281:6,363,4918,Antwerp Central
+139,281:7,363,4920,Antwerp Central
+139,281:8,363,4922,Antwerp Central
+139,281:9,363,4924,Antwerp Central
+139,282:0,3,4906,Antwerp Central
+139,283:0,3,4907,Antwerp Central
+139,284:0,3,4908,Antwerp Central
+139,285:0,3,4909,Antwerp Central
+139,285:1,3,4911,Antwerp Central
+139,285:10,3,4929,Antwerp Central
+139,285:2,3,4913,Antwerp Central
+139,285:3,3,4915,Antwerp Central
+139,285:4,3,4917,Antwerp Central
+139,285:5,3,4919,Antwerp Central
+139,285:6,3,4921,Antwerp Central
+139,285:7,3,4923,Antwerp Central
+139,285:8,3,4925,Antwerp Central
+139,285:9,3,4927,Antwerp Central
+139,286:0,3,4920,Antwerp Central
+141,287:0,363,4927,Turnhout
+141,287:1,363,4929,Turnhout
+141,287:10,363,4947,Turnhout
+141,287:11,363,4949,Turnhout
+141,287:12,363,4951,Turnhout
+141,287:13,363,4953,Turnhout
+141,287:14,363,4955,Turnhout
+141,287:15,363,4957,Turnhout
+141,287:2,363,4931,Turnhout
+141,287:3,363,4933,Turnhout
+141,287:4,363,4935,Turnhout
+141,287:5,363,4937,Turnhout
+141,287:6,363,4939,Turnhout
+141,287:7,363,4941,Turnhout
+141,287:8,363,4943,Turnhout
+141,287:9,363,4945,Turnhout
+141,288:0,3,4927,Turnhout
+141,289:0,3,4928,Turnhout
+141,289:1,3,4930,Turnhout
+141,289:10,3,4948,Turnhout
+141,289:11,3,4950,Turnhout
+141,289:12,3,4952,Turnhout
+141,289:13,3,4954,Turnhout
+141,289:2,3,4932,Turnhout
+141,289:3,3,4934,Turnhout
+141,289:4,3,4936,Turnhout
+141,289:5,3,4938,Turnhout
+141,289:6,3,4940,Turnhout
+141,289:7,3,4942,Turnhout
+141,289:8,3,4944,Turnhout
+141,289:9,3,4946,Turnhout
+141,290:0,363,4943,Turnhout
+143,291:0,3,4955,Statte
+143,292:0,3,4956,Statte
+143,292:1,3,4958,Statte
+143,292:10,3,4976,Statte
+143,292:11,3,4978,Statte
+143,292:12,3,4980,Statte
+143,292:2,3,4960,Statte
+143,292:3,3,4962,Statte
+143,292:4,3,4964,Statte
+143,292:5,3,4966,Statte
+143,292:6,3,4968,Statte
+143,292:7,3,4970,Statte
+143,292:8,3,4972,Statte
+143,292:9,3,4974,Statte
+143,293:0,3,4970,Statte
+144,294:0,3,4976,Liege Palais
+144,295:0,3,4977,Liege Palais
+144,296:0,3,4978,Liege Palais
+144,296:1,3,4980,Liege Palais
+144,296:2,3,4982,Liege Palais
+144,296:3,3,4984,Liege Palais
+144,296:4,3,4986,Liege Palais
+144,296:5,3,4988,Liege Palais
+144,296:6,3,4990,Liege Palais
+144,296:7,3,4992,Liege Palais
+144,296:8,3,4994,Liege Palais
+145,297:0,4,4987,Liege Palais
+144,298:0,368,4987,Liege Palais
+146,299:0,3,4988,Liers
+144,300:0,3,4989,Liege Palais
+144,301:0,3,4990,Liege Palais
+147,302:0,372,5004,AACHEN HBF (Germany)
+147,303:0,338,5005,AACHEN HBF (Germany)
+148,304:0,3,5006,AACHEN HBF (Germany)
+149,305:0,3,5007,AACHEN HBF (Germany)
+149,306:0,363,5008,AACHEN HBF (Germany)
+149,307:0,0,5009,AACHEN HBF (Germany)
+149,307:1,0,5011,AACHEN HBF (Germany)
+149,307:2,0,5013,AACHEN HBF (Germany)
+149,307:3,0,5015,AACHEN HBF (Germany)
+149,307:4,0,5017,AACHEN HBF (Germany)
+1162,3088:0,576,8561,Tournai
+1112,3089:0,4,8578,Ath
+1112,3089:1,4,8580,Ath
+1110,3090:0,4,8581,Mons
+1110,3091:0,4,8582,Mons
+1114,3092:0,4,8592,Geraardsbergen
+1544,3093:0,576,8600,Arlon
+1545,3094:0,576,8602,Jemelle
+1545,3095:0,576,8605,Jemelle
+1547,3096:0,4,8606,Libramont
+790,3097:0,3,8650,Ottignies
+787,3098:0,4,8651,Louvain-la-Neuve-Universite
+540,3099:0,3,8653,Louvain-la-Neuve-Universite
+110,3100:0,3,8655,Namen
+1128,3101:0,3,8661,Dinant
+1548,3102:0,4,8662,Jambes East
+515,3103:0,3,8670,Jemelle
+312,3104:0,3,8676,Jemelle
+529,3105:0,3,8680,Libramont
+531,3106:0,492,8681,Dinant
+531,3107:0,631,8681,Dinant
+1549,3108:0,3,8682,Bertrix
+533,3109:0,4,8685,Namen
+1129,3110:0,3,8690,Gembloux
+1130,3111:0,3,8691,Jemeppe Sur Sambre
+1131,3112:0,3,8692,Gembloux
+1132,3113:0,3,8693,Tamines
+522,3114:0,3,8695,Bertrix
+522,3114:1,3,8697,Bertrix
+526,3115:0,3,8696,Libramont
+526,3115:1,3,8698,Libramont
+522,3116:0,3,8699,Bertrix
+125,3117:0,3,8714,Charleroi South
+125,3118:0,3,8715,Charleroi South
+123,3119:0,4,8717,Couvin
+123,3120:0,368,8717,Couvin
+123,3121:0,4,8718,Couvin
+123,3122:0,368,8718,Couvin
+1551,3123:0,576,8719,Jemeppe Sur Sambre
+1552,3124:0,576,8720,Chatelet
+1551,3125:0,4,8721,Jemeppe Sur Sambre
+1551,3126:0,576,8722,Jemeppe Sur Sambre
+1552,3127:0,4,8723,Chatelet
+1552,3128:0,576,8724,Chatelet
+1552,3129:0,576,8725,Chatelet
+1557,3130:0,576,8741,Binche
+128,3131:0,4,8750,Erquelinnes
+128,3131:1,4,8752,Erquelinnes
+130,3132:0,4,8752,Charleroi South
+108,3133:0,4,8756,Charleroi South
+1558,3134:0,4,8757,Charleroi South
+1558,3135:0,4,8758,Charleroi South
+1146,3136:0,4,8760,Walcourt
+1146,3137:0,4,8761,Walcourt
+1559,3138:0,4,8770,Manage
+1559,3138:1,4,8772,Manage
+1559,3139:0,4,8772,Manage
+1164,3140:0,4,8775,La Louviere Center
+1152,3141:0,4,8780,Nijvel
+1151,3142:0,4,8781,Charleroi South
+1152,3143:0,4,8782,Nijvel
+1151,3144:0,4,8783,Charleroi South
+1152,3145:0,576,8784,Nijvel
+1231,3146:0,577,8784,Brussels North
+534,3147:0,3,8785,Charleroi South
+534,3148:0,576,8787,Charleroi South
+1561,3149:0,576,8801,Quevy
+1561,3150:0,576,8802,Quevy
+1561,3151:0,4,8803,Quevy
+1562,3152:0,4,8861,Quievrain
+1563,3153:0,3,8862,Mons
+1562,3154:0,3,8863,Quievrain
+1564,3155:0,633,8900,Heverlee
+1206,3156:0,4,8901,Bruges
+1207,3157:0,632,8901,Courtrai
+1567,3158:0,4,8902,Oudenaarde
+1567,3159:0,576,8903,Oudenaarde
+1567,3160:0,576,8904,Oudenaarde
+1207,3161:0,576,8905,Courtrai
+1567,3162:0,576,8906,Oudenaarde
+1571,3163:0,576,8907,Zottegem
+1572,3164:0,4,8908,Oudenaarde
+1573,3165:0,665,8929,Lichtervelde
+1179,3166:0,370,8941,Denderleeuw
+1574,3167:0,370,8943,Zottegem
+1575,3168:0,3,8951,Geraardsbergen
+1576,3169:0,4,8952,Geraardsbergen
+1576,3170:0,368,8952,Geraardsbergen
+1178,3171:0,4,8953,Geraardsbergen
+1178,3172:0,3,8954,Geraardsbergen
+1178,3173:0,576,8955,Geraardsbergen
+1576,3174:0,3,8956,Geraardsbergen
+1185,3175:0,3,8960,Geraardsbergen
+1187,3176:0,3,8961,Ronse
+1183,3177:0,3,8962,Ronse
+1183,3178:0,4,8963,Ronse
+1581,3179:0,4,8964,Geraardsbergen
+1582,3180:0,4,8965,Zottegem
+1583,3181:0,4,8966,Zottegem
+1190,3182:0,4,8967,Denderleeuw
+1179,3183:0,4,8968,Denderleeuw
+1583,3184:0,576,8969,Zottegem
+1193,3185:0,4,8972,Burst
+1193,3185:1,4,8974,Burst
+1194,3186:0,4,8973,Aalst
+1193,3187:0,4,8974,Burst
+1194,3188:0,4,8975,Aalst
+1194,3188:1,4,8977,Aalst
+1576,3189:0,4,8980,Geraardsbergen
+1576,3190:0,3,8982,Geraardsbergen
+1576,3191:0,4,8984,Geraardsbergen
+1198,3192:0,3,8990,Bruges
+1200,3193:0,4,8993,Courtrai
+1588,3194:0,4,8995,De Panne
+837,3195:0,4,8997,Courtrai
+827,3196:0,4,8998,Bruges
+1588,3197:0,665,8999,De Panne
+1591,3198:0,269,19702,LILLE FLANDRES (France)
+1592,3199:0,269,19703,Antwerp Central
+1593,3200:0,666,19705,Courtrai
+1592,3201:0,3,19705,Antwerp Central
+1593,3202:0,0,19709,Courtrai
+1593,3202:1,0,19711,Courtrai
+1592,3203:0,363,19709,Antwerp Central
+1592,3204:0,3,19709,Antwerp Central
+1592,3204:1,3,19711,Antwerp Central
+1593,3205:0,667,19713,Courtrai
+1591,3206:0,0,19714,LILLE FLANDRES (France)
+1591,3206:1,0,19716,LILLE FLANDRES (France)
+1592,3207:0,668,19715,Antwerp Central
+1592,3207:1,668,19717,Antwerp Central
+1592,3208:0,363,19717,Antwerp Central
+1593,3209:0,669,19721,Courtrai
+1593,3209:1,669,19723,Courtrai
+1592,3210:0,363,19721,Antwerp Central
+1591,3211:0,0,19722,LILLE FLANDRES (France)
+1591,3211:1,0,19724,LILLE FLANDRES (France)
+1591,3211:2,0,19726,LILLE FLANDRES (France)
+1593,3212:0,567,19725,Courtrai
+1592,3213:0,421,19725,Antwerp Central
+1592,3214:0,269,19727,Antwerp Central
+1593,3215:0,668,19729,Courtrai
+1592,3216:0,269,19731,Antwerp Central
+1591,3217:0,670,19732,LILLE FLANDRES (France)
+1592,3218:0,421,19733,Antwerp Central
+1593,3219:0,0,19735,Courtrai
+1592,3220:0,363,19735,Antwerp Central
+1592,3221:0,3,19735,Antwerp Central
+1593,3222:0,667,19737,Courtrai
+1593,3222:1,667,19739,Courtrai
+1592,3223:0,269,19737,Antwerp Central
+1592,3224:0,363,19741,Antwerp Central
+1592,3225:0,3,19741,Antwerp Central
+1593,3226:0,0,19741,Courtrai
+1591,3227:0,0,19804,LILLE FLANDRES (France)
+1591,3227:1,0,19806,LILLE FLANDRES (France)
+1593,3228:0,0,19805,Courtrai
+1593,3228:1,0,19807,Courtrai
+1601,3229:0,363,19805,Ostend
+1601,3229:1,363,19807,Ostend
+1601,3230:0,3,19805,Ostend
+1601,3230:1,3,19807,Ostend
+1601,3231:0,363,19815,Ostend
+1601,3232:0,3,19815,Ostend
+1591,3233:0,0,19816,LILLE FLANDRES (France)
+1591,3233:1,0,19818,LILLE FLANDRES (France)
+1601,3234:0,668,19819,Ostend
+1591,3235:0,0,19834,LILLE FLANDRES (France)
+1591,3235:1,0,19836,LILLE FLANDRES (France)
+1603,3236:0,668,19900,LILLE FLANDRES (France)
+1604,3237:0,668,19901,Tournai
+1605,3238:0,668,19903,Herstal
+1605,3238:1,668,19905,Herstal
+1605,3238:2,668,19907,Herstal
+1603,3239:0,668,19904,LILLE FLANDRES (France)
+1604,3240:0,668,19905,Tournai
+1608,3241:0,269,19907,Liege Palais
+1603,3242:0,669,19910,LILLE FLANDRES (France)
+1603,3242:1,669,19912,LILLE FLANDRES (France)
+1603,3242:2,669,19914,LILLE FLANDRES (France)
+1608,3243:0,269,19911,Liege Palais
+1608,3243:1,269,19913,Liege Palais
+1603,3244:0,668,19912,LILLE FLANDRES (France)
+1608,3245:0,421,19913,Liege Palais
+1604,3246:0,669,19913,Tournai
+1603,3247:0,671,19916,LILLE FLANDRES (France)
+1604,3248:0,671,19917,Tournai
+1608,3249:0,363,19917,Liege Palais
+1608,3250:0,630,19921,Liege Palais
+1604,3251:0,671,19921,Tournai
+1608,3252:0,672,19921,Liege Palais
+1603,3253:0,668,19922,LILLE FLANDRES (France)
+1608,3254:0,269,19923,Liege Palais
+1603,3255:0,269,19924,LILLE FLANDRES (France)
+1603,3256:0,673,19926,LILLE FLANDRES (France)
+1605,3257:0,668,19927,Herstal
+1605,3257:1,668,19929,Herstal
+1604,3258:0,674,19931,Tournai
+1608,3259:0,675,19931,Liege Palais
+1608,3260:0,630,19931,Liege Palais
+1603,3261:0,269,19934,LILLE FLANDRES (France)
+1608,3262:0,269,19935,Liege Palais
+1603,3263:0,669,19936,LILLE FLANDRES (France)
+1603,3263:1,669,19938,LILLE FLANDRES (France)
+1603,3263:2,669,19940,LILLE FLANDRES (France)
+1604,3264:0,669,19937,Tournai
+1604,3264:1,669,19939,Tournai
+1618,3265:0,668,19941,Liers
+1603,3266:0,630,19942,LILLE FLANDRES (France)
+1603,3267:0,669,19942,LILLE FLANDRES (France)
+1603,3267:1,669,19944,LILLE FLANDRES (France)
+1604,3268:0,670,19943,Tournai
+1608,3269:0,363,19943,Liege Palais
+1608,3270:0,269,19947,Liege Palais
+1605,3271:0,676,19951,Herstal
+1605,3271:1,676,19953,Herstal
+1620,3272:0,156,19951,Mons
+1604,3273:0,668,19951,Tournai
+1604,3273:1,668,19953,Tournai
+1604,3274:0,668,19953,Tournai
+1603,3275:0,669,19954,LILLE FLANDRES (France)
+1608,3276:0,269,19955,Liege Palais
+1603,3277:0,668,19956,LILLE FLANDRES (France)
+1604,3278:0,669,19957,Tournai
+1604,3278:1,669,19959,Tournai
+1608,3279:0,675,19957,Liege Palais
+1608,3280:0,630,19957,Liege Palais
+1603,3281:0,670,19960,LILLE FLANDRES (France)
+1603,3282:0,668,19962,LILLE FLANDRES (France)
+1604,3283:0,668,19963,Tournai
+1608,3284:0,363,19965,Liege Palais
+1605,3285:0,676,19967,Herstal
+1604,3286:0,668,19967,Tournai
+1604,3287:0,669,19969,Tournai
+1624,3288:0,421,19969,Namen
+1603,3289:0,668,19970,LILLE FLANDRES (France)
+1624,3290:0,269,19971,Namen
+1603,3291:0,670,19972,LILLE FLANDRES (France)
+1603,3291:1,670,19974,LILLE FLANDRES (France)
+1620,3292:0,421,19973,Mons
+1603,3293:0,668,19974,LILLE FLANDRES (France)
+1604,3294:0,668,19975,Tournai
+1604,3295:0,670,19977,Tournai
+1608,3296:0,421,19979,Liege Palais
+1604,3297:0,669,19979,Tournai
+1768,3637:0,686,11,FRANKFURT(MAIN)HBF (Germany)
+1768,3638:0,687,11,FRANKFURT(MAIN)HBF (Germany)
+1768,3639:0,688,11,FRANKFURT(MAIN)HBF (Germany)
+1768,3640:0,689,11,FRANKFURT(MAIN)HBF (Germany)
+1768,3641:0,137,11,FRANKFURT(MAIN)HBF (Germany)
+1768,3642:0,690,15,FRANKFURT(MAIN)HBF (Germany)
+1768,3643:0,691,15,FRANKFURT(MAIN)HBF (Germany)
+1768,3644:0,137,15,FRANKFURT(MAIN)HBF (Germany)
+1768,3645:0,692,17,FRANKFURT(MAIN)HBF (Germany)
+1768,3646:0,693,17,FRANKFURT(MAIN)HBF (Germany)
+1768,3647:0,694,17,FRANKFURT(MAIN)HBF (Germany)
+1774,3648:0,695,113,BASEL SBB (Switzerland)
+1774,3649:0,696,116,BASEL SBB (Switzerland)
+1774,3650:0,695,118,BASEL SBB (Switzerland)
+1774,3651:0,696,121,BASEL SBB (Switzerland)
+1778,3652:0,697,111,LUXEMBOURG (Luxembourg)
+1778,3653:0,491,111,LUXEMBOURG (Luxembourg)
+1778,3654:0,0,113,LUXEMBOURG (Luxembourg)
+1778,3654:1,0,115,LUXEMBOURG (Luxembourg)
+1778,3654:2,0,117,LUXEMBOURG (Luxembourg)
+1778,3655:0,0,119,LUXEMBOURG (Luxembourg)
+1778,3655:1,0,121,LUXEMBOURG (Luxembourg)
+1778,3656:0,0,123,LUXEMBOURG (Luxembourg)
+1778,3657:0,0,125,LUXEMBOURG (Luxembourg)
+1780,3658:0,4,459,Wezet
+1780,3658:1,4,461,Wezet
+1780,3658:2,4,463,Wezet
+1780,3659:0,4,463,Wezet
+1780,3659:1,4,465,Wezet
+1780,3660:0,3,465,Wezet
+1780,3660:1,3,467,Wezet
+1781,3661:0,3,467,Gouvy
+1780,3662:0,4,468,Wezet
+1782,3663:0,3,477,Brussels South
+1783,3664:0,3,478,Brussels South
+1783,3665:0,3,479,Brussels South
+1783,3666:0,4,480,Brussels South
+1783,3666:1,4,482,Brussels South
+1783,3666:2,4,484,Brussels South
+1783,3666:3,4,486,Brussels South
+1783,3667:0,4,483,Brussels South
+1783,3667:1,4,485,Brussels South
+1784,3668:0,4,488,Ostend
+1785,3669:0,363,504,Eupen
+1785,3670:0,3,504,Eupen
+1785,3671:0,363,505,Eupen
+1785,3671:1,363,507,Eupen
+1785,3671:10,363,525,Eupen
+1785,3671:11,363,527,Eupen
+1785,3671:2,363,509,Eupen
+1785,3671:3,363,511,Eupen
+1785,3671:4,363,513,Eupen
+1785,3671:5,363,515,Eupen
+1785,3671:6,363,517,Eupen
+1785,3671:7,363,519,Eupen
+1785,3671:8,363,521,Eupen
+1785,3671:9,363,523,Eupen
+1785,3672:0,3,505,Eupen
+1785,3673:0,3,506,Eupen
+1785,3674:0,3,507,Eupen
+1785,3674:1,3,509,Eupen
+1785,3674:10,3,527,Eupen
+1785,3674:2,3,511,Eupen
+1785,3674:3,3,513,Eupen
+1785,3674:4,3,515,Eupen
+1785,3674:5,3,517,Eupen
+1785,3674:6,3,519,Eupen
+1785,3674:7,3,521,Eupen
+1785,3674:8,3,523,Eupen
+1785,3674:9,3,525,Eupen
+1785,3675:0,698,517,Eupen
+1785,3676:0,699,517,Eupen
+1785,3677:0,3,518,Eupen
+1785,3678:0,698,518,Eupen
+1785,3679:0,699,518,Eupen
+1788,3680:0,363,519,Welkenraedt
+1788,3681:0,3,519,Welkenraedt
+1788,3682:0,363,520,Welkenraedt
+1788,3683:0,3,520,Welkenraedt
+1788,3684:0,363,521,Welkenraedt
+1788,3685:0,3,521,Welkenraedt
+1788,3686:0,3,522,Welkenraedt
+1788,3687:0,363,522,Welkenraedt
+1791,3688:0,363,527,Ostend
+1791,3689:0,3,527,Ostend
+1791,3690:0,3,528,Ostend
+1791,3691:0,363,528,Ostend
+1793,3692:0,3,529,Ostend
+1793,3693:0,363,529,Ostend
+1793,3693:1,363,531,Ostend
+1793,3693:10,363,549,Ostend
+1793,3693:11,363,551,Ostend
+1793,3693:2,363,533,Ostend
+1793,3693:3,363,535,Ostend
+1793,3693:4,363,537,Ostend
+1793,3693:5,363,539,Ostend
+1793,3693:6,363,541,Ostend
+1793,3693:7,363,543,Ostend
+1793,3693:8,363,545,Ostend
+1793,3693:9,363,547,Ostend
+1793,3694:0,3,530,Ostend
+1793,3694:1,3,532,Ostend
+1793,3694:10,3,550,Ostend
+1793,3694:11,3,552,Ostend
+1793,3694:12,3,554,Ostend
+1793,3694:13,3,556,Ostend
+1793,3694:14,3,558,Ostend
+1793,3694:2,3,534,Ostend
+1793,3694:3,3,536,Ostend
+1793,3694:4,3,538,Ostend
+1793,3694:5,3,540,Ostend
+1793,3694:6,3,542,Ostend
+1793,3694:7,3,544,Ostend
+1793,3694:8,3,546,Ostend
+1793,3694:9,3,548,Ostend
+1793,3695:0,700,541,Ostend
+1793,3696:0,79,541,Ostend
+1793,3697:0,363,542,Ostend
+1793,3697:1,363,544,Ostend
+1793,3698:0,363,544,Ostend
+1793,3699:0,363,545,Ostend
+1793,3700:0,3,545,Ostend
+1795,3701:0,3,555,Malines
+1795,3701:1,3,557,Malines
+1795,3701:10,3,575,Malines
+1795,3701:11,3,577,Malines
+1795,3701:12,3,579,Malines
+1795,3701:13,3,581,Malines
+1795,3701:14,3,583,Malines
+1795,3701:15,3,585,Malines
+1795,3701:2,3,559,Malines
+1795,3701:3,3,561,Malines
+1795,3701:4,3,563,Malines
+1795,3701:5,3,565,Malines
+1795,3701:6,3,567,Malines
+1795,3701:7,3,569,Malines
+1795,3701:8,3,571,Malines
+1795,3701:9,3,573,Malines
+1796,3702:0,3,571,Dendermonde
+826,3703:0,3,572,Ghent Sint Pieters
+826,3703:1,3,574,Ghent Sint Pieters
+827,3704:0,3,576,Bruges
+1797,3705:0,3,577,Bruges
+1797,3706:0,3,578,Bruges
+1797,3706:1,3,580,Bruges
+1797,3706:2,3,582,Bruges
+1797,3707:0,578,581,Bruges
+1797,3708:0,579,581,Bruges
+1797,3709:0,3,582,Bruges
+1797,3709:1,3,584,Bruges
+1797,3709:10,3,602,Bruges
+1797,3709:11,3,604,Bruges
+1797,3709:12,3,606,Bruges
+1797,3709:2,3,586,Bruges
+1797,3709:3,3,588,Bruges
+1797,3709:4,3,590,Bruges
+1797,3709:5,3,592,Bruges
+1797,3709:6,3,594,Bruges
+1797,3709:7,3,596,Bruges
+1797,3709:8,3,598,Bruges
+1797,3709:9,3,600,Bruges
+1798,3710:0,3,655,Bruges
+1198,3711:0,3,656,Bruges
+1799,3712:0,699,657,Zeebrugge Strand
+1799,3712:1,699,659,Zeebrugge Strand
+1799,3712:2,699,661,Zeebrugge Strand
+1799,3712:3,699,663,Zeebrugge Strand
+1799,3712:4,699,665,Zeebrugge Strand
+1198,3713:0,363,657,Bruges
+1198,3713:1,363,659,Bruges
+1198,3713:2,363,661,Bruges
+1198,3713:3,363,663,Bruges
+1198,3713:4,363,665,Bruges
+1198,3713:5,363,667,Bruges
+1198,3713:6,363,669,Bruges
+1198,3713:7,363,671,Bruges
+1198,3713:8,363,673,Bruges
+1198,3714:0,3,657,Bruges
+1800,3715:0,579,659,Blankenberge
+1800,3715:1,579,661,Blankenberge
+1198,3716:0,578,659,Bruges
+1198,3717:0,578,662,Bruges
+1799,3718:0,699,664,Zeebrugge Strand
+1799,3718:1,699,666,Zeebrugge Strand
+1198,3719:0,698,666,Bruges
+1799,3720:0,699,667,Zeebrugge Strand
+1799,3720:1,699,669,Zeebrugge Strand
+1799,3720:2,699,671,Zeebrugge Strand
+1198,3721:0,363,667,Bruges
+1198,3721:1,363,669,Bruges
+1198,3721:2,363,671,Bruges
+1198,3721:3,363,673,Bruges
+1198,3721:4,363,675,Bruges
+1198,3722:0,3,671,Bruges
+1200,3723:0,3,675,Courtrai
+1199,3724:0,3,676,Zottegem
+1200,3725:0,363,677,Courtrai
+1200,3725:1,363,679,Courtrai
+1200,3725:2,363,681,Courtrai
+1200,3725:3,363,683,Courtrai
+1200,3725:4,363,685,Courtrai
+1200,3725:5,363,687,Courtrai
+1200,3725:6,363,689,Courtrai
+1200,3725:7,363,691,Courtrai
+1199,3726:0,3,677,Zottegem
+1199,3726:1,3,679,Zottegem
+1200,3727:0,3,679,Courtrai
+1199,3728:0,3,680,Zottegem
+1200,3729:0,698,680,Courtrai
+1200,3729:1,698,682,Courtrai
+1199,3730:0,578,681,Zottegem
+1199,3730:1,578,683,Zottegem
+1199,3730:2,578,685,Zottegem
+1199,3730:3,578,687,Zottegem
+1199,3730:4,578,689,Zottegem
+1199,3730:5,578,691,Zottegem
+1199,3730:6,578,693,Zottegem
+1801,3731:0,579,681,Zottegem
+1801,3731:1,579,683,Zottegem
+1801,3731:2,579,685,Zottegem
+1801,3731:3,579,687,Zottegem
+1801,3731:4,579,689,Zottegem
+1801,3731:5,579,691,Zottegem
+1801,3731:6,579,693,Zottegem
+1200,3732:0,363,684,Courtrai
+1200,3732:1,363,686,Courtrai
+1200,3732:2,363,688,Courtrai
+1200,3733:0,3,688,Courtrai
+1200,3733:1,3,690,Courtrai
+1199,3734:0,578,689,Zottegem
+1801,3735:0,579,689,Zottegem
+1199,3736:0,3,690,Zottegem
+1200,3737:0,698,690,Courtrai
+1200,3738:0,3,692,Courtrai
+1802,3739:0,669,705,Mouscron
+1803,3740:0,363,705,Courtrai
+1803,3740:1,363,707,Courtrai
+1804,3741:0,668,705,LILLE FLANDRES (France)
+1804,3742:0,269,705,LILLE FLANDRES (France)
+1803,3743:0,363,706,Courtrai
+1803,3743:1,363,708,Courtrai
+1803,3743:2,363,710,Courtrai
+1803,3743:3,363,712,Courtrai
+1816,3758:0,3,606,NOORDERKEMPEN (Belgium)
+1816,3758:1,3,608,NOORDERKEMPEN (Belgium)
+1816,3758:2,3,610,NOORDERKEMPEN (Belgium)
+1816,3758:3,3,612,NOORDERKEMPEN (Belgium)
+1816,3758:4,3,614,NOORDERKEMPEN (Belgium)
+1816,3758:5,3,616,NOORDERKEMPEN (Belgium)
+1816,3758:6,3,618,NOORDERKEMPEN (Belgium)
+1816,3758:7,3,620,NOORDERKEMPEN (Belgium)
+1816,3759:0,3,607,NOORDERKEMPEN (Belgium)
+1816,3759:1,3,609,NOORDERKEMPEN (Belgium)
+1816,3760:0,363,608,NOORDERKEMPEN (Belgium)
+1816,3760:1,363,610,NOORDERKEMPEN (Belgium)
+1816,3760:2,363,612,NOORDERKEMPEN (Belgium)
+1816,3760:3,363,614,NOORDERKEMPEN (Belgium)
+1816,3760:4,363,616,NOORDERKEMPEN (Belgium)
+1816,3761:0,363,609,NOORDERKEMPEN (Belgium)
+1816,3761:1,363,611,NOORDERKEMPEN (Belgium)
+1816,3762:0,363,613,NOORDERKEMPEN (Belgium)
+1816,3762:1,363,615,NOORDERKEMPEN (Belgium)
+1816,3762:2,363,617,NOORDERKEMPEN (Belgium)
+1816,3763:0,3,615,NOORDERKEMPEN (Belgium)
+1816,3763:1,3,617,NOORDERKEMPEN (Belgium)
+1816,3763:2,3,619,NOORDERKEMPEN (Belgium)
+1816,3764:0,363,618,NOORDERKEMPEN (Belgium)
+1817,3765:0,3,626,Antwerp Central
+1817,3765:1,3,628,Antwerp Central
+1817,3766:0,0,628,Antwerp Central
+1817,3766:1,0,630,Antwerp Central
+1817,3767:0,3,630,Antwerp Central
+1817,3767:1,3,632,Antwerp Central
+1817,3768:0,363,631,Antwerp Central
+1817,3768:1,363,633,Antwerp Central
+1817,3769:0,0,632,Antwerp Central
+1817,3769:1,0,634,Antwerp Central
+1817,3769:2,0,636,Antwerp Central
+1817,3769:3,0,638,Antwerp Central
+1817,3769:4,0,640,Antwerp Central
+1817,3770:0,0,637,Antwerp Central
+1817,3770:1,0,639,Antwerp Central
+121,3771:0,701,18519,LUXEMBOURG (Luxembourg)
+1829,3791:0,633,8223,Heverlee
+14247,40100:0,4,8776,Pieton
+1804,4145:0,363,707,LILLE FLANDRES (France)
+1804,4146:0,3,707,LILLE FLANDRES (France)
+1804,4146:1,3,709,LILLE FLANDRES (France)
+1802,4147:0,668,708,Mouscron
+1804,4148:0,363,708,LILLE FLANDRES (France)
+1804,4148:1,363,710,LILLE FLANDRES (France)
+1803,4149:0,669,708,Courtrai
+1804,4150:0,3,709,LILLE FLANDRES (France)
+1804,4150:1,3,711,LILLE FLANDRES (France)
+1803,4151:0,3,710,Courtrai
+1803,4151:1,3,712,Courtrai
+1803,4152:0,3,711,Courtrai
+1803,4152:1,3,713,Courtrai
+1804,4153:0,668,711,LILLE FLANDRES (France)
+1804,4154:0,363,712,LILLE FLANDRES (France)
+1804,4154:1,363,714,LILLE FLANDRES (France)
+1804,4155:0,363,713,LILLE FLANDRES (France)
+1804,4155:1,363,715,LILLE FLANDRES (France)
+1804,4155:2,363,717,LILLE FLANDRES (France)
+1804,4156:0,3,715,LILLE FLANDRES (France)
+1803,4157:0,3,716,Courtrai
+1804,4158:0,363,716,LILLE FLANDRES (France)
+1804,4159:0,3,717,LILLE FLANDRES (France)
+1804,4160:0,3,719,LILLE FLANDRES (France)
+1802,4161:0,363,720,Mouscron
+1802,4162:0,3,720,Mouscron
+1803,4163:0,363,721,Courtrai
+1803,4164:0,3,721,Courtrai
+1803,4165:0,363,722,Courtrai
+1803,4166:0,3,722,Courtrai
+2000,4167:0,3,726,Antwerp Central
+821,4168:0,363,727,Antwerp Central
+821,4169:0,3,727,Antwerp Central
+2003,4170:0,363,728,Antwerp Central
+2003,4171:0,3,728,Antwerp Central
+2003,4172:0,421,729,Antwerp Central
+2003,4173:0,669,729,Antwerp Central
+821,4174:0,363,730,Antwerp Central
+821,4174:1,363,732,Antwerp Central
+821,4175:0,363,731,Antwerp Central
+821,4175:1,363,733,Antwerp Central
+821,4175:2,363,735,Antwerp Central
+821,4175:3,363,737,Antwerp Central
+821,4176:0,3,731,Antwerp Central
+821,4176:1,3,733,Antwerp Central
+821,4177:0,3,733,Antwerp Central
+821,4177:1,3,735,Antwerp Central
+821,4177:2,3,737,Antwerp Central
+821,4177:3,3,739,Antwerp Central
+2003,4178:0,668,737,Antwerp Central
+821,4179:0,669,737,Antwerp Central
+821,4180:0,363,738,Antwerp Central
+821,4180:1,363,740,Antwerp Central
+821,4180:2,363,742,Antwerp Central
+821,4181:0,3,740,Antwerp Central
+821,4182:0,3,742,Antwerp Central
+821,4183:0,3,743,Antwerp Central
+839,4184:0,610,756,Eeklo
+839,4185:0,726,756,Eeklo
+839,4186:0,3,756,Eeklo
+839,4187:0,3,757,Eeklo
+2009,4188:0,610,758,Eeklo
+2009,4188:1,610,760,Eeklo
+2009,4188:2,610,762,Eeklo
+2009,4188:3,610,764,Eeklo
+2009,4189:0,726,758,Eeklo
+2009,4189:1,726,760,Eeklo
+2009,4189:2,726,762,Eeklo
+2009,4189:3,726,764,Eeklo
+839,4190:0,3,758,Eeklo
+839,4190:1,3,760,Eeklo
+839,4190:10,3,778,Eeklo
+839,4190:11,3,780,Eeklo
+839,4190:12,3,782,Eeklo
+839,4190:13,3,784,Eeklo
+839,4190:2,3,762,Eeklo
+839,4190:3,3,764,Eeklo
+839,4190:4,3,766,Eeklo
+839,4190:5,3,768,Eeklo
+839,4190:6,3,770,Eeklo
+839,4190:7,3,772,Eeklo
+839,4190:8,3,774,Eeklo
+839,4190:9,3,776,Eeklo
+2009,4191:0,610,766,Eeklo
+2009,4191:1,610,768,Eeklo
+2009,4191:2,610,770,Eeklo
+2009,4192:0,726,766,Eeklo
+2009,4192:1,726,768,Eeklo
+2009,4192:2,726,770,Eeklo
+840,4193:0,3,775,Ghent Sint Pieters
+840,4194:0,3,776,Ghent Sint Pieters
+840,4194:1,3,778,Ghent Sint Pieters
+2010,4195:0,610,777,Ronse
+2010,4196:0,726,777,Ronse
+840,4197:0,3,778,Ghent Sint Pieters
+840,4197:1,3,780,Ghent Sint Pieters
+840,4197:2,3,782,Ghent Sint Pieters
+840,4197:3,3,784,Ghent Sint Pieters
+840,4197:4,3,786,Ghent Sint Pieters
+840,4197:5,3,788,Ghent Sint Pieters
+840,4197:6,3,790,Ghent Sint Pieters
+2010,4198:0,610,779,Ronse
+2010,4198:1,610,781,Ronse
+2010,4198:2,610,783,Ronse
+2010,4199:0,726,779,Ronse
+2010,4199:1,726,781,Ronse
+2010,4199:2,726,783,Ronse
+2010,4200:0,610,785,Ronse
+2010,4200:1,610,787,Ronse
+2010,4200:2,610,789,Ronse
+2010,4201:0,726,785,Ronse
+2010,4201:1,726,787,Ronse
+2010,4201:2,726,789,Ronse
+840,4202:0,3,785,Ghent Sint Pieters
+840,4203:0,3,786,Ghent Sint Pieters
+840,4204:0,3,787,Ghent Sint Pieters
+840,4204:1,3,789,Ghent Sint Pieters
+840,4204:2,3,791,Ghent Sint Pieters
+840,4204:3,3,793,Ghent Sint Pieters
+840,4204:4,3,795,Ghent Sint Pieters
+2011,4205:0,610,791,Oudenaarde
+2011,4206:0,726,791,Oudenaarde
+2012,4207:0,3,805,Courtrai
+2012,4208:0,3,806,Courtrai
+2013,4209:0,3,807,LILLE FLANDRES (France)
+2013,4209:1,3,809,LILLE FLANDRES (France)
+2013,4210:0,363,807,LILLE FLANDRES (France)
+2013,4210:1,363,809,LILLE FLANDRES (France)
+2014,4211:0,363,808,Malines
+2014,4211:1,363,810,Malines
+2014,4211:2,363,812,Malines
+2014,4211:3,363,814,Malines
+2014,4211:4,363,816,Malines
+2014,4211:5,363,818,Malines
+2014,4211:6,363,820,Malines
+2012,4212:0,363,808,Courtrai
+2012,4212:1,363,810,Courtrai
+2012,4212:2,363,812,Courtrai
+2012,4212:3,363,814,Courtrai
+2012,4212:4,363,816,Courtrai
+2012,4212:5,363,818,Courtrai
+2012,4212:6,363,820,Courtrai
+2012,4213:0,3,808,Courtrai
+2012,4213:1,3,810,Courtrai
+2012,4213:2,3,812,Courtrai
+2012,4213:3,3,814,Courtrai
+2012,4213:4,3,816,Courtrai
+2012,4213:5,3,818,Courtrai
+2012,4213:6,3,820,Courtrai
+2015,4214:0,3,808,Leuven
+2015,4214:1,3,810,Leuven
+2015,4214:2,3,812,Leuven
+2015,4214:3,3,814,Leuven
+2014,4215:0,363,809,Malines
+2014,4215:1,363,811,Malines
+2014,4215:2,363,813,Malines
+2012,4216:0,363,809,Courtrai
+2012,4216:1,363,811,Courtrai
+2012,4216:2,363,813,Courtrai
+2012,4216:3,363,815,Courtrai
+2012,4217:0,3,809,Courtrai
+2012,4217:1,3,811,Courtrai
+2012,4217:2,3,813,Courtrai
+2012,4217:3,3,815,Courtrai
+2015,4218:0,3,809,Leuven
+2015,4218:1,3,811,Leuven
+2015,4218:2,3,813,Leuven
+2015,4219:0,3,810,Leuven
+2015,4219:1,3,812,Leuven
+2012,4220:0,3,815,Courtrai
+2013,4221:0,668,815,LILLE FLANDRES (France)
+2013,4222:0,363,815,LILLE FLANDRES (France)
+2013,4223:0,3,819,LILLE FLANDRES (France)
+2013,4224:0,363,819,LILLE FLANDRES (France)
+2018,4225:0,363,821,Dendermonde
+2012,4226:0,0,822,Courtrai
+2020,4227:0,3,825,Ostend
+2020,4228:0,3,826,Ostend
+2020,4229:0,363,827,Ostend
+2020,4230:0,3,832,Ostend
+2020,4231:0,363,842,Ostend
+2020,4232:0,3,842,Ostend
+145,4233:0,363,904,Liege Palais
+2023,4234:0,3,904,Herstal
+2024,4235:0,363,905,Liege Palais
+2025,4236:0,3,905,Herstal
+2026,4237:0,363,906,Liege Palais
+2026,4237:1,363,908,Liege Palais
+2026,4237:2,363,910,Liege Palais
+2026,4237:3,363,912,Liege Palais
+2025,4238:0,3,906,Herstal
+2025,4238:1,3,908,Herstal
+2025,4238:2,3,910,Herstal
+2025,4238:3,3,912,Herstal
+2025,4238:4,3,914,Herstal
+2025,4238:5,3,916,Herstal
+2025,4238:6,3,918,Herstal
+2025,4238:7,3,920,Herstal
+2026,4239:0,363,911,Liege Palais
+2026,4239:1,363,913,Liege Palais
+2026,4240:0,727,913,Liege Palais
+15065,42413:0,6042,24893,DILLENBURG (Germany)
+15066,42414:0,269,24893,NEUNKIRCHEN(KR SIEG) (Germany)
+15067,42415:0,379,24893,DILLENBURG (Germany)
+15066,42416:0,369,24895,NEUNKIRCHEN(KR SIEG) (Germany)
+15068,42417:0,369,24896,BETZDORF(SIEG) (Germany)
+15066,42418:0,38,24897,NEUNKIRCHEN(KR SIEG) (Germany)
+1101,4241:0,3,914,Liers
+1101,4241:1,3,916,Liers
+15070,42420:0,263,24898,BETZDORF(SIEG) (Germany)
+15068,42421:0,269,24898,BETZDORF(SIEG) (Germany)
+2026,4242:0,363,915,Liege Palais
+2025,4243:0,3,916,Herstal
+2025,4244:0,576,917,Herstal
+2025,4244:1,576,919,Herstal
+2025,4244:2,576,921,Herstal
+2025,4244:3,576,923,Herstal
+2026,4245:0,421,918,Liege Palais
+2029,4246:0,156,919,Charleroi South
+2025,4247:0,576,921,Herstal
+2031,4248:0,363,921,Namen
+1102,4249:0,363,922,Mons
+2033,4250:0,363,927,Tournai
+2033,4251:0,3,927,Tournai
+2035,4252:0,668,927,LILLE FLANDRES (France)
+2035,4253:0,269,927,LILLE FLANDRES (France)
+2035,4254:0,421,927,LILLE FLANDRES (France)
+2038,4255:0,3,928,Tournai
+2039,4256:0,668,928,LILLE FLANDRES (France)
+2040,4257:0,363,928,LILLE FLANDRES (France)
+2041,4258:0,3,929,Tournai
+2042,4259:0,668,929,LILLE FLANDRES (France)
+2043,4260:0,363,929,LILLE FLANDRES (France)
+2044,4261:0,269,930,Tournai
+2041,4262:0,3,930,Tournai
+2043,4263:0,421,930,LILLE FLANDRES (France)
+2038,4264:0,3,931,Tournai
+2038,4264:1,3,933,Tournai
+2038,4264:2,3,935,Tournai
+2038,4264:3,3,937,Tournai
+2038,4264:4,3,939,Tournai
+2038,4264:5,3,941,Tournai
+2038,4264:6,3,943,Tournai
+2038,4264:7,3,945,Tournai
+2038,4264:8,3,947,Tournai
+2038,4264:9,3,949,Tournai
+2039,4265:0,668,931,LILLE FLANDRES (France)
+2043,4266:0,363,931,LILLE FLANDRES (France)
+2043,4266:1,363,933,LILLE FLANDRES (France)
+2044,4267:0,269,932,Tournai
+2039,4268:0,668,932,LILLE FLANDRES (France)
+2039,4268:1,668,934,LILLE FLANDRES (France)
+2043,4269:0,421,932,LILLE FLANDRES (France)
+2043,4269:1,421,934,LILLE FLANDRES (France)
+2044,4270:0,726,933,Tournai
+2044,4270:1,726,935,Tournai
+2043,4271:0,269,933,LILLE FLANDRES (France)
+2043,4272:0,675,933,LILLE FLANDRES (France)
+2039,4273:0,668,935,LILLE FLANDRES (France)
+2039,4273:1,668,937,LILLE FLANDRES (France)
+2043,4274:0,269,935,LILLE FLANDRES (France)
+2039,4275:0,668,936,LILLE FLANDRES (France)
+2043,4276:0,363,936,LILLE FLANDRES (France)
+2043,4276:1,363,938,LILLE FLANDRES (France)
+2043,4277:0,363,938,LILLE FLANDRES (France)
+2043,4277:1,363,940,LILLE FLANDRES (France)
+2044,4278:0,726,939,Tournai
+2043,4279:0,672,939,LILLE FLANDRES (France)
+2043,4280:0,630,939,LILLE FLANDRES (France)
+2039,4281:0,668,939,LILLE FLANDRES (France)
+2043,4282:0,363,941,LILLE FLANDRES (France)
+2038,4283:0,576,941,Tournai
+2038,4283:1,576,943,Tournai
+2039,4284:0,676,941,LILLE FLANDRES (France)
+2044,4285:0,363,942,Tournai
+2044,4285:1,363,944,Tournai
+2038,4286:0,576,943,Tournai
+2050,4287:0,363,944,Charleroi South
+2051,4288:0,576,944,Mons
+2052,4289:0,363,945,Namen
+2053,4290:0,576,945,Charleroi South
+828,4291:0,578,956,Zeebrugge Dorp
+828,4291:1,578,958,Zeebrugge Dorp
+2054,4292:0,579,956,Zeebrugge Strand
+2054,4292:1,579,958,Zeebrugge Strand
+2054,4293:0,363,957,Zeebrugge Strand
+828,4294:0,578,958,Zeebrugge Dorp
+828,4294:1,578,960,Zeebrugge Dorp
+2054,4295:0,579,958,Zeebrugge Strand
+2054,4296:0,728,959,Zeebrugge Strand
+2054,4296:1,728,961,Zeebrugge Strand
+2054,4296:2,728,963,Zeebrugge Strand
+2054,4296:3,728,965,Zeebrugge Strand
+828,4297:0,578,959,Zeebrugge Dorp
+828,4297:1,578,961,Zeebrugge Dorp
+828,4297:2,578,963,Zeebrugge Dorp
+828,4297:3,578,965,Zeebrugge Dorp
+2054,4298:0,698,959,Zeebrugge Strand
+2054,4298:1,698,961,Zeebrugge Strand
+2054,4299:0,698,961,Zeebrugge Strand
+2054,4299:1,698,963,Zeebrugge Strand
+2054,4299:2,698,965,Zeebrugge Strand
+2054,4300:0,698,963,Zeebrugge Strand
+2054,4301:0,728,963,Zeebrugge Strand
+828,4302:0,578,964,Zeebrugge Dorp
+828,4302:1,578,966,Zeebrugge Dorp
+828,4302:2,578,968,Zeebrugge Dorp
+828,4302:3,578,970,Zeebrugge Dorp
+828,4302:4,578,972,Zeebrugge Dorp
+828,4302:5,578,974,Zeebrugge Dorp
+828,4302:6,578,976,Zeebrugge Dorp
+2054,4303:0,728,964,Zeebrugge Strand
+2054,4303:1,728,966,Zeebrugge Strand
+2054,4303:2,728,968,Zeebrugge Strand
+2054,4303:3,728,970,Zeebrugge Strand
+2054,4303:4,728,972,Zeebrugge Strand
+2054,4303:5,728,974,Zeebrugge Strand
+2054,4303:6,728,976,Zeebrugge Strand
+829,4304:0,578,976,Bruges
+829,4304:1,578,978,Bruges
+829,4304:2,578,980,Bruges
+829,4304:3,578,982,Bruges
+829,4304:4,578,984,Bruges
+829,4304:5,578,986,Bruges
+829,4304:6,578,988,Bruges
+2056,4305:0,579,976,Bruges
+2056,4305:1,579,978,Bruges
+2057,4306:0,363,977,Courtrai
+2056,4307:0,728,978,Bruges
+2056,4307:1,728,980,Bruges
+2056,4307:2,728,982,Bruges
+2056,4307:3,728,984,Bruges
+2056,4307:4,728,986,Bruges
+2057,4308:0,699,978,Courtrai
+2057,4308:1,699,980,Courtrai
+2057,4308:2,699,982,Courtrai
+2057,4308:3,699,984,Courtrai
+2056,4309:0,698,979,Bruges
+2056,4309:1,698,981,Bruges
+2056,4310:0,698,981,Bruges
+2056,4310:1,698,983,Bruges
+2056,4310:2,698,985,Bruges
+829,4311:0,578,983,Bruges
+829,4311:1,578,985,Bruges
+2056,4312:0,698,983,Bruges
+2056,4313:0,728,983,Bruges
+2056,4313:1,728,985,Bruges
+829,4314:0,578,984,Bruges
+829,4314:1,578,986,Bruges
+2056,4315:0,728,984,Bruges
+2056,4315:1,728,986,Bruges
+2057,4316:0,699,984,Courtrai
+2057,4317:0,699,986,Courtrai
+829,4318:0,578,987,Bruges
+829,4318:1,578,989,Bruges
+829,4318:2,578,991,Bruges
+829,4318:3,578,993,Bruges
+2056,4319:0,728,987,Bruges
+2056,4319:1,728,989,Bruges
+2056,4319:2,728,991,Bruges
+2056,4319:3,728,993,Bruges
+2057,4320:0,699,987,Courtrai
+2057,4320:1,699,989,Courtrai
+2057,4320:2,699,991,Courtrai
+2058,4321:0,3,1504,Tongeren
+2059,4322:0,3,1505,Tongeren
+2060,4323:0,363,1505,Genk
+2061,4324:0,363,1505,Liege Guillemins
+2060,4325:0,363,1506,Genk
+2063,4326:0,3,1506,Tongeren
+2061,4327:0,363,1506,Liege Guillemins
+2065,4328:0,363,1507,Genk
+2063,4329:0,3,1507,Tongeren
+2063,4329:1,3,1509,Tongeren
+2066,4330:0,363,1507,Liege Guillemins
+2065,4331:0,363,1508,Genk
+2065,4331:1,363,1510,Genk
+2065,4331:10,363,1528,Genk
+2065,4331:11,363,1530,Genk
+2065,4331:12,363,1532,Genk
+2065,4331:13,363,1534,Genk
+2065,4331:2,363,1512,Genk
+2065,4331:3,363,1514,Genk
+2065,4331:4,363,1516,Genk
+2065,4331:5,363,1518,Genk
+2065,4331:6,363,1520,Genk
+2065,4331:7,363,1522,Genk
+2065,4331:8,363,1524,Genk
+2065,4331:9,363,1526,Genk
+2066,4332:0,363,1508,Liege Guillemins
+2066,4332:1,363,1510,Liege Guillemins
+2066,4332:10,363,1528,Liege Guillemins
+2066,4332:11,363,1530,Liege Guillemins
+2066,4332:12,363,1532,Liege Guillemins
+2066,4332:2,363,1512,Liege Guillemins
+2066,4332:3,363,1514,Liege Guillemins
+2066,4332:4,363,1516,Liege Guillemins
+2066,4332:5,363,1518,Liege Guillemins
+2066,4332:6,363,1520,Liege Guillemins
+2066,4332:7,363,1522,Liege Guillemins
+2066,4332:8,363,1524,Liege Guillemins
+2066,4332:9,363,1526,Liege Guillemins
+2063,4333:0,3,1509,Tongeren
+2063,4333:1,3,1511,Tongeren
+2063,4333:2,3,1513,Tongeren
+2063,4333:3,3,1515,Tongeren
+2063,4333:4,3,1517,Tongeren
+2063,4333:5,3,1519,Tongeren
+2067,4334:0,3,1514,Hasselt
+2063,4335:0,3,1515,Tongeren
+2063,4336:0,3,1516,Tongeren
+2063,4336:1,3,1518,Tongeren
+2067,4337:0,3,1516,Hasselt
+2063,4338:0,3,1517,Tongeren
+2063,4338:1,3,1519,Tongeren
+2063,4339:0,578,1519,Tongeren
+2063,4340:0,579,1519,Tongeren
+2067,4341:0,3,1521,Hasselt
+2066,4342:0,363,1521,Liege Guillemins
+2069,4343:0,363,1522,Brussels South
+2069,4344:0,3,1522,Brussels South
+2071,4345:0,699,1523,Brussels North
+831,4346:0,729,1523,Bruges
+1222,4347:0,3,1525,Knokke
+1222,4348:0,0,1526,Knokke
+2074,4349:0,363,1527,Knokke
+2075,4350:0,3,1527,Knokke
+2076,4351:0,3,1527,Blankenberge
+2077,4352:0,363,1527,Blankenberge
+2078,4353:0,363,1528,Knokke
+2078,4353:1,363,1530,Knokke
+2079,4354:0,363,1528,Blankenberge
+2079,4354:1,363,1530,Blankenberge
+2080,4355:0,3,1528,Knokke
+2080,4355:1,3,1530,Knokke
+2081,4356:0,3,1528,Blankenberge
+2081,4356:1,3,1530,Blankenberge
+2078,4357:0,699,1530,Knokke
+2079,4358:0,699,1530,Blankenberge
+2081,4359:0,3,1530,Blankenberge
+2081,4359:1,3,1532,Blankenberge
+2081,4359:10,3,1550,Blankenberge
+2081,4359:11,3,1552,Blankenberge
+2081,4359:12,3,1554,Blankenberge
+2081,4359:2,3,1534,Blankenberge
+2081,4359:3,3,1536,Blankenberge
+2081,4359:4,3,1538,Blankenberge
+2081,4359:5,3,1540,Blankenberge
+2081,4359:6,3,1542,Blankenberge
+2081,4359:7,3,1544,Blankenberge
+2081,4359:8,3,1546,Blankenberge
+2081,4359:9,3,1548,Blankenberge
+2080,4360:0,3,1530,Knokke
+2080,4360:1,3,1532,Knokke
+2080,4360:10,3,1550,Knokke
+2080,4360:11,3,1552,Knokke
+2080,4360:12,3,1554,Knokke
+2080,4360:2,3,1534,Knokke
+2080,4360:3,3,1536,Knokke
+2080,4360:4,3,1538,Knokke
+2080,4360:5,3,1540,Knokke
+2080,4360:6,3,1542,Knokke
+2080,4360:7,3,1544,Knokke
+2080,4360:8,3,1546,Knokke
+2080,4360:9,3,1548,Knokke
+2078,4361:0,698,1530,Knokke
+2079,4362:0,698,1530,Blankenberge
+2078,4363:0,363,1531,Knokke
+2078,4363:1,363,1533,Knokke
+2078,4363:10,363,1551,Knokke
+2078,4363:11,363,1553,Knokke
+2078,4363:2,363,1535,Knokke
+2078,4363:3,363,1537,Knokke
+2078,4363:4,363,1539,Knokke
+2078,4363:5,363,1541,Knokke
+2078,4363:6,363,1543,Knokke
+2078,4363:7,363,1545,Knokke
+2078,4363:8,363,1547,Knokke
+2078,4363:9,363,1549,Knokke
+2079,4364:0,363,1531,Blankenberge
+2079,4364:1,363,1533,Blankenberge
+2079,4364:10,363,1551,Blankenberge
+2079,4364:11,363,1553,Blankenberge
+2079,4364:2,363,1535,Blankenberge
+2079,4364:3,363,1537,Blankenberge
+2079,4364:4,363,1539,Blankenberge
+2079,4364:5,363,1541,Blankenberge
+2079,4364:6,363,1543,Blankenberge
+2079,4364:7,363,1545,Blankenberge
+2079,4364:8,363,1547,Blankenberge
+2079,4364:9,363,1549,Blankenberge
+2084,4365:0,3,1543,Bruges
+2085,4366:0,363,1543,Bruges
+2086,4367:0,3,1544,Ostend
+2087,4368:0,363,1544,Ostend
+2088,4369:0,3,1554,Dendermonde
+2088,4369:1,3,1556,Dendermonde
+2088,4369:10,3,1574,Dendermonde
+2088,4369:11,3,1576,Dendermonde
+2088,4369:12,3,1578,Dendermonde
+2088,4369:13,3,1580,Dendermonde
+2088,4369:14,3,1582,Dendermonde
+2088,4369:15,3,1584,Dendermonde
+2088,4369:16,3,1586,Dendermonde
+2088,4369:2,3,1558,Dendermonde
+2088,4369:3,3,1560,Dendermonde
+2088,4369:4,3,1562,Dendermonde
+2088,4369:5,3,1564,Dendermonde
+2088,4369:6,3,1566,Dendermonde
+2088,4369:7,3,1568,Dendermonde
+2088,4369:8,3,1570,Dendermonde
+2088,4369:9,3,1572,Dendermonde
+292,4370:0,363,1558,Dendermonde
+292,4370:1,363,1560,Dendermonde
+292,4370:2,363,1562,Dendermonde
+292,4370:3,363,1564,Dendermonde
+292,4370:4,363,1566,Dendermonde
+292,4370:5,363,1568,Dendermonde
+292,4370:6,363,1570,Dendermonde
+2088,4371:0,3,1571,Dendermonde
+292,4372:0,363,1572,Dendermonde
+2089,4373:0,3,1577,Geraardsbergen
+293,4374:0,363,1578,Brussels South
+293,4374:1,363,1580,Brussels South
+293,4374:2,363,1582,Brussels South
+293,4374:3,363,1584,Brussels South
+293,4374:4,363,1586,Brussels South
+293,4374:5,363,1588,Brussels South
+293,4374:6,363,1590,Brussels South
+293,4374:7,363,1592,Brussels South
+2089,4375:0,3,1578,Geraardsbergen
+2089,4375:1,3,1580,Geraardsbergen
+2089,4375:2,3,1582,Geraardsbergen
+2089,4375:3,3,1584,Geraardsbergen
+2089,4375:4,3,1586,Geraardsbergen
+2089,4375:5,3,1588,Geraardsbergen
+2089,4375:6,3,1590,Geraardsbergen
+2089,4375:7,3,1592,Geraardsbergen
+2089,4375:8,3,1594,Geraardsbergen
+843,45009:0,3,553,Malines
+787,45010:0,3,3875,Louvain-la-Neuve-Universite
+787,45010:1,3,3877,Louvain-la-Neuve-Universite
+16277,46524:0,872,24863,HERDORF (Germany)
+15065,46526:0,924,24861,DILLENBURG (Germany)
+16279,46527:0,924,24862,BETZDORF(SIEG) (Germany)
+16279,46528:0,872,24864,BETZDORF(SIEG) (Germany)
+15065,46529:0,872,24865,DILLENBURG (Germany)
+15068,46530:0,269,24866,BETZDORF(SIEG) (Germany)
+15070,46531:0,924,24866,BETZDORF(SIEG) (Germany)
+15066,46532:0,872,24867,NEUNKIRCHEN(KR SIEG) (Germany)
+15066,46532:1,872,24869,NEUNKIRCHEN(KR SIEG) (Germany)
+15066,46532:2,872,24871,NEUNKIRCHEN(KR SIEG) (Germany)
+15068,46533:0,872,24868,BETZDORF(SIEG) (Germany)
+15068,46533:1,872,24870,BETZDORF(SIEG) (Germany)
+15068,46533:2,872,24872,BETZDORF(SIEG) (Germany)
+15065,46534:0,0,24869,DILLENBURG (Germany)
+15065,46534:1,0,24871,DILLENBURG (Germany)
+16279,48090:0,38,24900,BETZDORF(SIEG) (Germany)
+16277,48775:0,38,24899,HERDORF (Germany)
+2778,49358:0,633,8225,Leuven
+16982,49424:0,491,1163,LUXEMBOURG (Luxembourg)
+514,49425:0,490,5806,Arlon
+1803,49457:0,3,704,Courtrai
+1803,49457:1,3,706,Courtrai
+837,49458:0,269,704,Courtrai
+1804,49459:0,668,704,LILLE FLANDRES (France)
+2942,49460:0,4,3019,Ghent Sint Pieters
+3329,49461:0,3,3576,Brussels Luxembourg
+302,49462:0,3,5375,Liege Guillemins
+16992,49463:0,3,5807,Libramont
+16992,49464:0,3,5810,Libramont
+16993,49465:0,3,5825,Ciney
+16994,49466:0,368,6106,Brussels Luxembourg
+16994,49466:1,368,6108,Brussels Luxembourg
+16995,49467:0,4,6106,Brussels Luxembourg
+16995,49467:1,4,6108,Brussels Luxembourg
+16995,49468:0,4,6108,Brussels Luxembourg
+16995,49468:1,4,6110,Brussels Luxembourg
+16994,49469:0,368,6108,Brussels Luxembourg
+16994,49470:0,368,6109,Brussels Luxembourg
+16994,49471:0,3,6110,Brussels Luxembourg
+16994,49472:0,3,6111,Brussels Luxembourg
+16994,49472:1,3,6113,Brussels Luxembourg
+16994,49472:2,3,6115,Brussels Luxembourg
+16994,49473:0,5,6112,Brussels Luxembourg
+16995,49474:0,370,6112,Brussels Luxembourg
+16994,49475:0,8919,6112,Brussels Luxembourg
+16994,49476:0,3,6114,Brussels Luxembourg
+16995,49477:0,4,6116,Brussels Luxembourg
+16995,49477:1,4,6118,Brussels Luxembourg
+16995,49477:2,4,6120,Brussels Luxembourg
+16995,49477:3,4,6122,Brussels Luxembourg
+16994,49478:0,368,6116,Brussels Luxembourg
+16994,49478:1,368,6118,Brussels Luxembourg
+16994,49478:2,368,6120,Brussels Luxembourg
+16994,49478:3,368,6122,Brussels Luxembourg
+16996,49479:0,368,6127,Halle
+16996,49479:1,368,6129,Halle
+16996,49479:2,368,6131,Halle
+16997,49480:0,4,6127,Geraardsbergen
+16997,49480:1,4,6129,Geraardsbergen
+16997,49480:2,4,6131,Geraardsbergen
+16996,49481:0,3,6130,Halle
+16996,49481:1,3,6132,Halle
+16996,49481:2,3,6134,Halle
+16996,49481:3,3,6136,Halle
+16996,49481:4,3,6138,Halle
+16996,49481:5,3,6140,Halle
+16996,49482:0,368,6136,Halle
+16996,49482:1,368,6138,Halle
+16996,49482:2,368,6140,Halle
+16996,49482:3,368,6142,Halle
+16997,49483:0,4,6136,Geraardsbergen
+16997,49484:0,4,6137,Geraardsbergen
+16997,49484:1,4,6139,Geraardsbergen
+16997,49484:2,4,6141,Geraardsbergen
+16996,49485:0,3,6140,Halle
+114,49486:0,3,7658,Ottignies
+114,49487:0,3,8654,Ottignies
+110,49488:0,4,8657,Namen
+110,49489:0,368,8657,Namen
+516,49490:0,4,8666,Libramont
+1592,49491:0,668,19701,Antwerp Central
+1592,49491:1,668,19703,Antwerp Central
+1592,49492:0,421,19711,Antwerp Central
+1593,49493:0,669,19711,Courtrai
+1593,49493:1,669,19713,Courtrai
+1591,49494:0,669,19712,LILLE FLANDRES (France)
+1593,49495:0,668,19719,Courtrai
+1593,49496:0,669,19739,Courtrai
+1592,49497:0,421,19739,Antwerp Central
+1601,49498:0,421,19821,Ostend
+1593,49499:0,669,19821,Courtrai
+1591,49500:0,669,19824,LILLE FLANDRES (France)
+1608,49501:0,421,19925,Liege Palais
+1608,49501:1,421,19927,Liege Palais
+1604,49502:0,669,19925,Tournai
+1604,49502:1,669,19927,Tournai
+1604,49502:2,669,19929,Tournai
+1608,49503:0,672,19939,Liege Palais
+1608,49504:0,421,19949,Liege Palais
+1604,49505:0,670,19961,Tournai
+1608,49506:0,363,19961,Liege Palais
+1603,49507:0,671,19968,LILLE FLANDRES (France)
+2089,4975:0,3,1587,Geraardsbergen
+2089,4976:0,3,1588,Geraardsbergen
+2089,4976:1,3,1590,Geraardsbergen
+2089,4976:2,3,1592,Geraardsbergen
+2089,4976:3,3,1594,Geraardsbergen
+2089,4976:4,3,1596,Geraardsbergen
+2089,4976:5,3,1598,Geraardsbergen
+2327,4977:0,3,1606,Tongeren
+2327,4978:0,3,1607,Tongeren
+2327,4978:1,3,1609,Tongeren
+2328,4979:0,363,1607,Liege Guillemins
+2329,4980:0,363,1607,Genk
+2328,4981:0,363,1608,Liege Guillemins
+2328,4981:1,363,1610,Liege Guillemins
+2328,4981:10,363,1628,Liege Guillemins
+2328,4981:11,363,1630,Liege Guillemins
+2328,4981:12,363,1632,Liege Guillemins
+2328,4981:2,363,1612,Liege Guillemins
+2328,4981:3,363,1614,Liege Guillemins
+2328,4981:4,363,1616,Liege Guillemins
+2328,4981:5,363,1618,Liege Guillemins
+2328,4981:6,363,1620,Liege Guillemins
+2328,4981:7,363,1622,Liege Guillemins
+2328,4981:8,363,1624,Liege Guillemins
+2328,4981:9,363,1626,Liege Guillemins
+2329,4982:0,363,1608,Genk
+2329,4982:1,363,1610,Genk
+2329,4982:10,363,1628,Genk
+2329,4982:11,363,1630,Genk
+2329,4982:12,363,1632,Genk
+2329,4982:13,363,1634,Genk
+2329,4982:2,363,1612,Genk
+2329,4982:3,363,1614,Genk
+2329,4982:4,363,1616,Genk
+2329,4982:5,363,1618,Genk
+2329,4982:6,363,1620,Genk
+2329,4982:7,363,1622,Genk
+2329,4982:8,363,1624,Genk
+2329,4982:9,363,1626,Genk
+2327,4983:0,3,1609,Tongeren
+2327,4983:1,3,1611,Tongeren
+2327,4983:2,3,1613,Tongeren
+2327,4983:3,3,1615,Tongeren
+2327,4983:4,3,1617,Tongeren
+2327,4983:5,3,1619,Tongeren
+2330,4984:0,3,1614,Hasselt
+2327,4985:0,3,1615,Tongeren
+2330,4986:0,3,1616,Hasselt
+2327,4987:0,3,1616,Tongeren
+2327,4987:1,3,1618,Tongeren
+2327,4988:0,3,1617,Tongeren
+2327,4988:1,3,1619,Tongeren
+830,4989:0,3,1619,Bruges
+2327,4990:0,579,1619,Tongeren
+2327,4991:0,578,1619,Tongeren
+2330,4992:0,3,1621,Hasselt
+2328,4993:0,363,1621,Liege Guillemins
+830,4994:0,363,1622,Bruges
+2333,4995:0,3,1622,Brussels South
+830,4996:0,0,1623,Bruges
+1221,4997:0,3,1625,Blankenberge
+1221,4998:0,0,1626,Blankenberge
+1221,4999:0,363,1630,Blankenberge
+1582,5000:0,3,1662,Zottegem
+1582,5000:1,3,1664,Zottegem
+1582,5000:2,3,1666,Zottegem
+1582,5000:3,3,1668,Zottegem
+1582,5000:4,3,1670,Zottegem
+1582,5000:5,3,1672,Zottegem
+1582,5000:6,3,1674,Zottegem
+1582,5001:0,3,1670,Zottegem
+2335,5002:0,3,1676,Courtrai
+2336,5003:0,3,1677,Bruges
+1182,5004:0,3,1678,Courtrai
+1182,5004:1,3,1680,Courtrai
+1182,5004:2,3,1682,Courtrai
+1182,5004:3,3,1684,Courtrai
+1182,5004:4,3,1686,Courtrai
+1182,5005:0,3,1679,Courtrai
+1182,5005:1,3,1681,Courtrai
+2336,5006:0,578,1679,Bruges
+2336,5006:1,578,1681,Bruges
+2337,5007:0,579,1679,Blankenberge
+2337,5007:1,579,1681,Blankenberge
+2337,5008:0,579,1680,Blankenberge
+2337,5008:1,579,1682,Blankenberge
+2337,5008:2,579,1684,Blankenberge
+2337,5008:3,579,1686,Blankenberge
+2336,5009:0,578,1682,Bruges
+2336,5009:1,578,1684,Bruges
+2336,5009:2,578,1686,Bruges
+2336,5010:0,3,1685,Bruges
+2336,5011:0,578,1686,Bruges
+2336,5012:0,3,1687,Bruges
+2336,5012:1,3,1689,Bruges
+2336,5012:2,3,1691,Bruges
+2336,5013:0,3,1691,Bruges
+2338,5014:0,3,1704,Liege Guillemins
+2339,5015:0,3,1705,Liege Guillemins
+2339,5016:0,3,1706,Liege Guillemins
+2339,5017:0,3,1707,Liege Guillemins
+2339,5018:0,3,1708,Liege Guillemins
+2338,5019:0,3,1709,Liege Guillemins
+2338,5020:0,3,1710,Liege Guillemins
+2338,5020:1,3,1712,Liege Guillemins
+2338,5021:0,3,1711,Liege Guillemins
+2338,5022:0,3,1712,Liege Guillemins
+2338,5022:1,3,1714,Liege Guillemins
+2338,5023:0,3,1713,Liege Guillemins
+2338,5024:0,3,1714,Liege Guillemins
+2339,5025:0,3,1716,Liege Guillemins
+2339,5026:0,3,1717,Liege Guillemins
+2339,5027:0,3,1718,Liege Guillemins
+2339,5027:1,3,1720,Liege Guillemins
+2339,5028:0,3,1721,Liege Guillemins
+2341,5029:0,3,1722,Brussels North
+2342,5030:0,3,1726,Quievrain
+2343,5031:0,3,1727,Quievrain
+2344,5032:0,3,1728,Saint Ghislain
+2345,5033:0,363,1728,Blankenberge
+2345,5033:1,363,1730,Blankenberge
+2346,5034:0,363,1728,Knokke
+2346,5034:1,363,1730,Knokke
+2344,5035:0,3,1729,Saint Ghislain
+2344,5036:0,3,1730,Saint Ghislain
+882,5037:0,363,1730,Landen
+2345,5038:0,699,1730,Blankenberge
+2346,5039:0,699,1730,Knokke
+2345,5040:0,698,1730,Blankenberge
+2346,5041:0,698,1730,Knokke
+2344,5042:0,3,1731,Saint Ghislain
+2344,5042:1,3,1733,Saint Ghislain
+2345,5043:0,363,1731,Blankenberge
+2345,5043:1,363,1733,Blankenberge
+2345,5043:10,363,1751,Blankenberge
+2345,5043:11,363,1753,Blankenberge
+2345,5043:2,363,1735,Blankenberge
+2345,5043:3,363,1737,Blankenberge
+2345,5043:4,363,1739,Blankenberge
+2345,5043:5,363,1741,Blankenberge
+2345,5043:6,363,1743,Blankenberge
+2345,5043:7,363,1745,Blankenberge
+2345,5043:8,363,1747,Blankenberge
+2345,5043:9,363,1749,Blankenberge
+2346,5044:0,363,1731,Knokke
+2346,5044:1,363,1733,Knokke
+2346,5044:10,363,1751,Knokke
+2346,5044:11,363,1753,Knokke
+2346,5044:2,363,1735,Knokke
+2346,5044:3,363,1737,Knokke
+2346,5044:4,363,1739,Knokke
+2346,5044:5,363,1741,Knokke
+2346,5044:6,363,1743,Knokke
+2346,5044:7,363,1745,Knokke
+2346,5044:8,363,1747,Knokke
+2346,5044:9,363,1749,Knokke
+2344,5045:0,3,1732,Saint Ghislain
+2344,5046:0,3,1733,Saint Ghislain
+2343,5047:0,3,1735,Quievrain
+2343,5048:0,3,1736,Quievrain
+2343,5048:1,3,1738,Quievrain
+2343,5048:2,3,1740,Quievrain
+2343,5049:0,3,1737,Quievrain
+2344,5050:0,3,1739,Saint Ghislain
+2344,5050:1,3,1741,Saint Ghislain
+2343,5051:0,3,1741,Quievrain
+2344,5052:0,3,1743,Saint Ghislain
+2348,5053:0,363,1743,Bruges
+2344,5054:0,3,1744,Saint Ghislain
+2350,5055:0,363,1744,Ostend
+1575,5056:0,363,1756,Geraardsbergen
+1575,5056:1,363,1758,Geraardsbergen
+1575,5057:0,3,1756,Geraardsbergen
+1575,5058:0,3,1757,Geraardsbergen
+1575,5059:0,0,1758,Geraardsbergen
+1575,5059:1,0,1760,Geraardsbergen
+1575,5059:2,0,1762,Geraardsbergen
+1575,5059:3,0,1764,Geraardsbergen
+1575,5059:4,0,1766,Geraardsbergen
+1575,5059:5,0,1768,Geraardsbergen
+1575,5059:6,0,1770,Geraardsbergen
+1575,5059:7,0,1772,Geraardsbergen
+1575,5059:8,0,1774,Geraardsbergen
+1575,5060:0,363,1767,Geraardsbergen
+1575,5061:0,3,1767,Geraardsbergen
+1575,5062:0,0,1768,Geraardsbergen
+1575,5062:1,0,1770,Geraardsbergen
+1575,5062:2,0,1772,Geraardsbergen
+1575,5062:3,0,1774,Geraardsbergen
+1575,5063:0,3,1772,Geraardsbergen
+286,5064:0,3,1776,Aalst
+286,5065:0,3,1777,Aalst
+286,5066:0,363,1777,Aalst
+286,5067:0,0,1778,Aalst
+286,5067:1,0,1780,Aalst
+286,5067:2,0,1782,Aalst
+286,5067:3,0,1784,Aalst
+286,5067:4,0,1786,Aalst
+286,5067:5,0,1788,Aalst
+286,5067:6,0,1790,Aalst
+286,5067:7,0,1792,Aalst
+286,5068:0,363,1786,Aalst
+286,5069:0,3,1786,Aalst
+286,5070:0,363,1787,Aalst
+286,5071:0,3,1787,Aalst
+286,5072:0,0,1788,Aalst
+286,5072:1,0,1790,Aalst
+286,5072:2,0,1792,Aalst
+286,5072:3,0,1794,Aalst
+286,5072:4,0,1796,Aalst
+2351,5073:0,363,1805,Antwerp Central
+2351,5073:1,363,1807,Antwerp Central
+2351,5073:2,363,1809,Antwerp Central
+2351,5073:3,363,1811,Antwerp Central
+2351,5074:0,3,1806,Antwerp Central
+2351,5074:1,3,1808,Antwerp Central
+2351,5074:10,3,1826,Antwerp Central
+2351,5074:11,3,1828,Antwerp Central
+2351,5074:12,3,1830,Antwerp Central
+2351,5074:2,3,1810,Antwerp Central
+2351,5074:3,3,1812,Antwerp Central
+2351,5074:4,3,1814,Antwerp Central
+2351,5074:5,3,1816,Antwerp Central
+2351,5074:6,3,1818,Antwerp Central
+2351,5074:7,3,1820,Antwerp Central
+2351,5074:8,3,1822,Antwerp Central
+2351,5074:9,3,1824,Antwerp Central
+2351,5075:0,363,1809,Antwerp Central
+2351,5076:0,363,1810,Antwerp Central
+2351,5076:1,363,1812,Antwerp Central
+2351,5076:10,363,1830,Antwerp Central
+2351,5076:11,363,1832,Antwerp Central
+2351,5076:2,363,1814,Antwerp Central
+2351,5076:3,363,1816,Antwerp Central
+2351,5076:4,363,1818,Antwerp Central
+2351,5076:5,363,1820,Antwerp Central
+2351,5076:6,363,1822,Antwerp Central
+2351,5076:7,363,1824,Antwerp Central
+2351,5076:8,363,1826,Antwerp Central
+2351,5076:9,363,1828,Antwerp Central
+2351,5077:0,576,1819,Antwerp Central
+2351,5077:1,576,1821,Antwerp Central
+2351,5077:2,576,1823,Antwerp Central
+2351,5077:3,576,1825,Antwerp Central
+2353,5078:0,363,1827,Ostend
+2353,5079:0,3,1827,Ostend
+2353,5080:0,363,1828,Ostend
+2353,5080:1,363,1830,Ostend
+2353,5080:10,363,1848,Ostend
+2353,5080:11,363,1850,Ostend
+2353,5080:12,363,1852,Ostend
+2353,5080:13,363,1854,Ostend
+2353,5080:14,363,1856,Ostend
+2353,5080:15,363,1858,Ostend
+2353,5080:2,363,1832,Ostend
+2353,5080:3,363,1834,Ostend
+2353,5080:4,363,1836,Ostend
+2353,5080:5,363,1838,Ostend
+2353,5080:6,363,1840,Ostend
+2353,5080:7,363,1842,Ostend
+2353,5080:8,363,1844,Ostend
+2353,5080:9,363,1846,Ostend
+2353,5081:0,3,1828,Ostend
+2353,5081:1,3,1830,Ostend
+2353,5081:10,3,1848,Ostend
+2353,5081:2,3,1832,Ostend
+2353,5081:3,3,1834,Ostend
+2353,5081:4,3,1836,Ostend
+2353,5081:5,3,1838,Ostend
+2353,5081:6,3,1840,Ostend
+2353,5081:7,3,1842,Ostend
+2353,5081:8,3,1844,Ostend
+2353,5081:9,3,1846,Ostend
+2353,5082:0,576,1839,Ostend
+2353,5082:1,576,1841,Ostend
+2353,5082:2,576,1843,Ostend
+2353,5082:3,576,1845,Ostend
+1185,5083:0,3,1856,Geraardsbergen
+1576,5084:0,363,1857,Geraardsbergen
+1576,5084:1,363,1859,Geraardsbergen
+1576,5084:10,363,1877,Geraardsbergen
+1576,5084:11,363,1879,Geraardsbergen
+1576,5084:2,363,1861,Geraardsbergen
+1576,5084:3,363,1863,Geraardsbergen
+1576,5084:4,363,1865,Geraardsbergen
+1576,5084:5,363,1867,Geraardsbergen
+1576,5084:6,363,1869,Geraardsbergen
+1576,5084:7,363,1871,Geraardsbergen
+1576,5084:8,363,1873,Geraardsbergen
+1576,5084:9,363,1875,Geraardsbergen
+1185,5085:0,3,1857,Geraardsbergen
+1185,5086:0,3,1858,Geraardsbergen
+1185,5087:0,3,1859,Geraardsbergen
+1185,5088:0,3,1860,Geraardsbergen
+1185,5088:1,3,1862,Geraardsbergen
+1185,5088:2,3,1864,Geraardsbergen
+1185,5088:3,3,1866,Geraardsbergen
+1185,5088:4,3,1868,Geraardsbergen
+1185,5088:5,3,1870,Geraardsbergen
+1185,5088:6,3,1872,Geraardsbergen
+1185,5089:0,3,1867,Geraardsbergen
+1185,5090:0,3,1868,Geraardsbergen
+1185,5091:0,3,1869,Geraardsbergen
+1185,5091:1,3,1871,Geraardsbergen
+1576,5092:0,698,1869,Geraardsbergen
+2357,5093:0,699,1869,Ath
+1576,5094:0,363,1870,Geraardsbergen
+1576,5094:1,363,1872,Geraardsbergen
+1576,5094:2,363,1874,Geraardsbergen
+1185,5095:0,3,1870,Geraardsbergen
+1185,5096:0,3,1872,Geraardsbergen
+1185,5097:0,3,1873,Geraardsbergen
+1183,5098:0,3,1875,Ronse
+1176,5099:0,363,1876,Ghent Sint Pieters
+1176,5099:1,363,1878,Ghent Sint Pieters
+1176,5099:2,363,1880,Ghent Sint Pieters
+1183,5100:0,3,1876,Ronse
+1183,5101:0,3,1877,Ronse
+1183,5101:1,3,1879,Ronse
+1183,5101:2,3,1881,Ronse
+1183,5101:3,3,1883,Ronse
+1183,5101:4,3,1885,Ronse
+1183,5101:5,3,1887,Ronse
+1183,5101:6,3,1889,Ronse
+1183,5101:7,3,1891,Ronse
+1176,5102:0,698,1879,Ghent Sint Pieters
+2359,5103:0,699,1879,Ghent Sint Pieters
+1176,5104:0,363,1880,Ghent Sint Pieters
+1176,5104:1,363,1882,Ghent Sint Pieters
+1176,5104:10,363,1900,Ghent Sint Pieters
+1176,5104:11,363,1902,Ghent Sint Pieters
+1176,5104:2,363,1884,Ghent Sint Pieters
+1176,5104:3,363,1886,Ghent Sint Pieters
+1176,5104:4,363,1888,Ghent Sint Pieters
+1176,5104:5,363,1890,Ghent Sint Pieters
+1176,5104:6,363,1892,Ghent Sint Pieters
+1176,5104:7,363,1894,Ghent Sint Pieters
+1176,5104:8,363,1896,Ghent Sint Pieters
+1176,5104:9,363,1898,Ghent Sint Pieters
+1183,5105:0,3,1885,Ronse
+1183,5106:0,3,1886,Ronse
+1183,5106:1,3,1888,Ronse
+1183,5107:0,3,1888,Ronse
+1183,5108:0,3,1889,Ronse
+1183,5108:1,3,1891,Ronse
+2360,5109:0,3,1891,Oudenaarde
+1176,5110:0,3,1892,Ghent Sint Pieters
+901,5111:0,3,1904,Schaarbeek
+901,5112:0,3,1905,Schaarbeek
+901,5113:0,363,1905,Schaarbeek
+901,5114:0,3,1906,Schaarbeek
+901,5115:0,363,1906,Schaarbeek
+901,5115:1,363,1908,Schaarbeek
+901,5115:2,363,1910,Schaarbeek
+901,5115:3,363,1912,Schaarbeek
+901,5115:4,363,1914,Schaarbeek
+901,5115:5,363,1916,Schaarbeek
+901,5115:6,363,1918,Schaarbeek
+901,5115:7,363,1920,Schaarbeek
+901,5115:8,363,1922,Schaarbeek
+901,5116:0,3,1907,Schaarbeek
+901,5117:0,3,1908,Schaarbeek
+901,5118:0,3,1909,Schaarbeek
+901,5118:1,3,1911,Schaarbeek
+901,5118:2,3,1913,Schaarbeek
+901,5118:3,3,1915,Schaarbeek
+901,5118:4,3,1917,Schaarbeek
+901,5119:0,3,1914,Schaarbeek
+901,5120:0,421,1915,Schaarbeek
+901,5120:1,421,1917,Schaarbeek
+901,5120:2,421,1919,Schaarbeek
+901,5120:3,421,1921,Schaarbeek
+901,5120:4,421,1923,Schaarbeek
+901,5120:5,421,1925,Schaarbeek
+901,5120:6,421,1927,Schaarbeek
+901,5121:0,269,1915,Schaarbeek
+901,5121:1,269,1917,Schaarbeek
+901,5121:2,269,1919,Schaarbeek
+901,5121:3,269,1921,Schaarbeek
+901,5121:4,269,1923,Schaarbeek
+901,5121:5,269,1925,Schaarbeek
+901,5121:6,269,1927,Schaarbeek
+2365,5122:0,3,1915,Ans
+901,5123:0,3,1916,Schaarbeek
+901,5123:1,3,1918,Schaarbeek
+901,5123:2,3,1920,Schaarbeek
+17518,51859:0,3,554,Malines
+1186,51860:0,363,772,Ghent Sint Pieters
+15070,52296:0,369,24894,BETZDORF(SIEG) (Germany)
+2440,5252:0,3,3103,Antwerp Central
+548,5253:0,792,3147,Brussels South
+2442,5254:0,363,5107,Tongeren
+2442,5254:1,363,5109,Tongeren
+2442,5254:2,363,5111,Tongeren
+2442,5254:3,363,5113,Tongeren
+2442,5255:0,363,5112,Tongeren
+2442,5255:1,363,5114,Tongeren
+2442,5256:0,726,5116,Tongeren
+2442,5256:1,726,5118,Tongeren
+2442,5256:2,726,5120,Tongeren
+2442,5256:3,726,5122,Tongeren
+2442,5256:4,726,5124,Tongeren
+2442,5256:5,726,5126,Tongeren
+2443,5257:0,363,5127,Hasselt
+2443,5257:1,363,5129,Hasselt
+2443,5257:2,363,5131,Hasselt
+2443,5257:3,363,5133,Hasselt
+2443,5258:0,363,5132,Hasselt
+2443,5258:1,363,5134,Hasselt
+2443,5259:0,726,5136,Hasselt
+2443,5259:1,726,5138,Hasselt
+2443,5259:2,726,5140,Hasselt
+2443,5259:3,726,5142,Hasselt
+2443,5259:4,726,5144,Hasselt
+2443,5259:5,726,5146,Hasselt
+292,5260:0,3,5312,Dendermonde
+292,5260:1,3,5314,Dendermonde
+292,5260:2,3,5316,Dendermonde
+292,5261:0,3,5319,Dendermonde
+294,5262:0,3,5329,Dendermonde
+293,5263:0,3,5331,Brussels South
+293,5263:1,3,5333,Brussels South
+293,5263:2,3,5335,Brussels South
+294,5264:0,3,5334,Dendermonde
+2446,5265:0,3,5406,Dendermonde
+2446,5266:0,3,5407,Dendermonde
+2446,5266:1,3,5409,Dendermonde
+2446,5267:0,3,5415,Dendermonde
+2446,5268:0,3,5416,Dendermonde
+2446,5269:0,3,5417,Dendermonde
+2446,5270:0,3,5418,Dendermonde
+2447,5271:0,3,5427,BRUXELLES-OUEST (Belgium)
+2447,5271:1,3,5429,BRUXELLES-OUEST (Belgium)
+2447,5271:2,3,5431,BRUXELLES-OUEST (Belgium)
+2447,5272:0,3,5437,BRUXELLES-OUEST (Belgium)
+2447,5272:1,3,5439,BRUXELLES-OUEST (Belgium)
+312,5273:0,3,5557,Jemelle
+312,5274:0,3,5559,Jemelle
+312,5275:0,3,5561,Jemelle
+312,5275:1,3,5563,Jemelle
+312,5276:0,3,5569,Jemelle
+312,5277:0,3,5571,Jemelle
+315,5278:0,3,5576,Liers
+313,5279:0,3,5580,Herstal
+313,5280:0,3,5582,Herstal
+313,5281:0,3,5584,Herstal
+313,5282:0,3,5586,Herstal
+313,5282:1,3,5588,Herstal
+313,5282:2,3,5590,Herstal
+313,5282:3,3,5592,Herstal
+121,5283:0,491,336,LUXEMBOURG (Luxembourg)
+121,5284:0,491,338,LUXEMBOURG (Luxembourg)
+121,5285:0,491,340,LUXEMBOURG (Luxembourg)
+121,5286:0,491,342,LUXEMBOURG (Luxembourg)
+121,5286:1,491,344,LUXEMBOURG (Luxembourg)
+121,5287:0,491,344,LUXEMBOURG (Luxembourg)
+121,5287:1,491,346,LUXEMBOURG (Luxembourg)
+121,5288:0,491,346,LUXEMBOURG (Luxembourg)
+121,5288:1,491,348,LUXEMBOURG (Luxembourg)
+18270,55035:0,3,1854,Ronse
+15070,55211:0,0,24874,BETZDORF(SIEG) (Germany)
+15070,55211:1,0,24876,BETZDORF(SIEG) (Germany)
+15068,55212:0,268,24870,BETZDORF(SIEG) (Germany)
+15070,55213:0,872,24870,BETZDORF(SIEG) (Germany)
+18301,55214:0,924,24877,HAIGER (Germany)
+18302,55215:0,924,24878,BURBACH(KR SIEGEN) (Germany)
+15066,55217:0,924,24879,NEUNKIRCHEN(KR SIEG) (Germany)
+15066,55217:1,924,24881,NEUNKIRCHEN(KR SIEG) (Germany)
+15065,55218:0,841,24879,DILLENBURG (Germany)
+15065,55218:1,841,24881,DILLENBURG (Germany)
+15068,55219:0,924,24880,BETZDORF(SIEG) (Germany)
+15068,55219:1,924,24882,BETZDORF(SIEG) (Germany)
+15070,55220:0,841,24880,BETZDORF(SIEG) (Germany)
+15070,55220:1,841,24882,BETZDORF(SIEG) (Germany)
+901,5600:0,796,1919,Schaarbeek
+2561,5601:0,579,1919,Schaarbeek
+901,5602:0,576,1920,Schaarbeek
+2562,5603:0,576,1921,Brussels North
+2562,5604:0,363,1922,Brussels North
+2562,5605:0,576,1922,Brussels North
+1263,5606:0,3,1926,Mouscron
+1263,5607:0,363,1927,Mouscron
+1263,5607:1,363,1929,Mouscron
+1263,5607:2,363,1931,Mouscron
+1263,5607:3,363,1933,Mouscron
+1263,5607:4,363,1935,Mouscron
+1263,5607:5,363,1937,Mouscron
+1263,5607:6,363,1939,Mouscron
+1263,5607:7,363,1941,Mouscron
+1263,5608:0,3,1927,Mouscron
+1263,5609:0,3,1928,Mouscron
+1263,5610:0,3,1930,Mouscron
+1263,5610:1,3,1932,Mouscron
+1263,5611:0,3,1932,Mouscron
+1263,5611:1,3,1934,Mouscron
+1263,5611:2,3,1936,Mouscron
+1263,5611:3,3,1938,Mouscron
+1263,5611:4,3,1940,Mouscron
+1263,5612:0,421,1935,Mouscron
+1263,5612:1,421,1937,Mouscron
+1263,5612:2,421,1939,Mouscron
+1263,5612:3,421,1941,Mouscron
+1263,5612:4,421,1943,Mouscron
+1263,5612:5,421,1945,Mouscron
+1263,5613:0,269,1935,Mouscron
+1263,5613:1,269,1937,Mouscron
+1263,5613:2,269,1939,Mouscron
+1263,5613:3,269,1941,Mouscron
+1263,5613:4,269,1943,Mouscron
+1263,5613:5,269,1945,Mouscron
+1263,5614:0,3,1937,Mouscron
+1263,5615:0,3,1938,Mouscron
+1263,5616:0,3,1939,Mouscron
+1263,5616:1,3,1941,Mouscron
+1263,5617:0,576,1941,Mouscron
+1263,5618:0,363,1941,Mouscron
+1263,5618:1,363,1943,Mouscron
+1263,5618:2,363,1945,Mouscron
+1263,5619:0,576,1942,Mouscron
+1263,5620:0,576,1943,Mouscron
+1262,5621:0,576,1944,Tournai
+1262,5622:0,363,1945,Tournai
+2568,5623:0,363,1957,Saint Ghislain
+2568,5623:1,363,1959,Saint Ghislain
+2568,5623:10,363,1977,Saint Ghislain
+2568,5623:11,363,1979,Saint Ghislain
+2568,5623:12,363,1981,Saint Ghislain
+2568,5623:13,363,1983,Saint Ghislain
+2568,5623:14,363,1985,Saint Ghislain
+2568,5623:2,363,1961,Saint Ghislain
+2568,5623:3,363,1963,Saint Ghislain
+2568,5623:4,363,1965,Saint Ghislain
+2568,5623:5,363,1967,Saint Ghislain
+2568,5623:6,363,1969,Saint Ghislain
+2568,5623:7,363,1971,Saint Ghislain
+2568,5623:8,363,1973,Saint Ghislain
+2568,5623:9,363,1975,Saint Ghislain
+2568,5624:0,3,1959,Saint Ghislain
+2568,5624:1,3,1961,Saint Ghislain
+2568,5624:2,3,1963,Saint Ghislain
+2568,5624:3,3,1965,Saint Ghislain
+2568,5624:4,3,1967,Saint Ghislain
+2568,5624:5,3,1969,Saint Ghislain
+2568,5624:6,3,1971,Saint Ghislain
+2568,5625:0,3,1970,Saint Ghislain
+2569,5626:0,363,1977,Quievrain
+2569,5626:1,363,1979,Quievrain
+2569,5626:10,363,1997,Quievrain
+2569,5626:11,363,1999,Quievrain
+2569,5626:12,363,2001,Quievrain
+2569,5626:13,363,2003,Quievrain
+2569,5626:14,363,2005,Quievrain
+2569,5626:2,363,1981,Quievrain
+2569,5626:3,363,1983,Quievrain
+2569,5626:4,363,1985,Quievrain
+2569,5626:5,363,1987,Quievrain
+2569,5626:6,363,1989,Quievrain
+2569,5626:7,363,1991,Quievrain
+2569,5626:8,363,1993,Quievrain
+2569,5626:9,363,1995,Quievrain
+2569,5627:0,3,1978,Quievrain
+2569,5627:1,3,1980,Quievrain
+2569,5627:2,3,1982,Quievrain
+2569,5627:3,3,1984,Quievrain
+2569,5627:4,3,1986,Quievrain
+2569,5627:5,3,1988,Quievrain
+2569,5627:6,3,1990,Quievrain
+2569,5628:0,3,1989,Quievrain
+1133,5629:0,363,2005,Antwerp Central
+1133,5629:1,363,2007,Antwerp Central
+1133,5629:10,363,2025,Antwerp Central
+1133,5629:11,363,2027,Antwerp Central
+1133,5629:12,363,2029,Antwerp Central
+1133,5629:13,363,2031,Antwerp Central
+1133,5629:14,363,2033,Antwerp Central
+1133,5629:15,363,2035,Antwerp Central
+1133,5629:16,363,2037,Antwerp Central
+1133,5629:2,363,2009,Antwerp Central
+1133,5629:3,363,2011,Antwerp Central
+1133,5629:4,363,2013,Antwerp Central
+1133,5629:5,363,2015,Antwerp Central
+1133,5629:6,363,2017,Antwerp Central
+1133,5629:7,363,2019,Antwerp Central
+1133,5629:8,363,2021,Antwerp Central
+1133,5629:9,363,2023,Antwerp Central
+1133,5630:0,3,2006,Antwerp Central
+1133,5631:0,3,2007,Antwerp Central
+1133,5631:1,3,2009,Antwerp Central
+1133,5631:2,3,2011,Antwerp Central
+1133,5631:3,3,2013,Antwerp Central
+1133,5631:4,3,2015,Antwerp Central
+1133,5631:5,3,2017,Antwerp Central
+1133,5631:6,3,2019,Antwerp Central
+1133,5631:7,3,2021,Antwerp Central
+1133,5631:8,3,2023,Antwerp Central
+1133,5632:0,3,2016,Antwerp Central
+1133,5633:0,3,2017,Antwerp Central
+1133,5633:1,3,2019,Antwerp Central
+1133,5633:2,3,2021,Antwerp Central
+1133,5634:0,576,2020,Antwerp Central
+1133,5634:1,576,2022,Antwerp Central
+1133,5634:2,576,2024,Antwerp Central
+1133,5635:0,363,2023,Antwerp Central
+2572,5636:0,363,2026,Charleroi South
+2573,5637:0,3,2026,Charleroi South
+2573,5637:1,3,2028,Charleroi South
+2573,5638:0,363,2027,Charleroi South
+2573,5638:1,363,2029,Charleroi South
+2573,5638:10,363,2047,Charleroi South
+2573,5638:11,363,2049,Charleroi South
+2573,5638:12,363,2051,Charleroi South
+2573,5638:13,363,2053,Charleroi South
+2573,5638:14,363,2055,Charleroi South
+2573,5638:15,363,2057,Charleroi South
+2573,5638:16,363,2059,Charleroi South
+2573,5638:2,363,2031,Charleroi South
+2573,5638:3,363,2033,Charleroi South
+2573,5638:4,363,2035,Charleroi South
+2573,5638:5,363,2037,Charleroi South
+2573,5638:6,363,2039,Charleroi South
+2573,5638:7,363,2041,Charleroi South
+2573,5638:8,363,2043,Charleroi South
+2573,5638:9,363,2045,Charleroi South
+2573,5639:0,3,2028,Charleroi South
+2573,5640:0,3,2029,Charleroi South
+2573,5640:1,3,2031,Charleroi South
+2573,5640:2,3,2033,Charleroi South
+2573,5640:3,3,2035,Charleroi South
+2573,5640:4,3,2037,Charleroi South
+2573,5640:5,3,2039,Charleroi South
+2573,5640:6,3,2041,Charleroi South
+2573,5640:7,3,2043,Charleroi South
+2573,5641:0,3,2037,Charleroi South
+2573,5642:0,3,2038,Charleroi South
+2573,5642:1,3,2040,Charleroi South
+2573,5642:2,3,2042,Charleroi South
+2573,5643:0,576,2041,Charleroi South
+2573,5643:1,576,2043,Charleroi South
+2573,5643:2,576,2045,Charleroi South
+548,5644:0,156,2042,Brussels South
+548,5644:1,156,2044,Brussels South
+2573,5645:0,576,2044,Charleroi South
+2573,5646:0,363,2045,Charleroi South
+1225,5647:0,363,2056,Aalst
+1225,5647:1,363,2058,Aalst
+1225,5647:2,363,2060,Aalst
+1225,5648:0,3,2056,Aalst
+1225,5648:1,3,2058,Aalst
+1225,5649:0,363,2059,Aalst
+1225,5650:0,363,2060,Aalst
+1225,5650:1,363,2062,Aalst
+1225,5650:2,363,2064,Aalst
+1225,5650:3,363,2066,Aalst
+1225,5650:4,363,2068,Aalst
+1225,5650:5,363,2070,Aalst
+1225,5650:6,363,2072,Aalst
+1225,5650:7,363,2074,Aalst
+1225,5651:0,363,2068,Aalst
+1225,5651:1,363,2070,Aalst
+1225,5651:2,363,2072,Aalst
+1225,5651:3,363,2074,Aalst
+1225,5651:4,363,2076,Aalst
+1225,5651:5,363,2078,Aalst
+1225,5652:0,3,2073,Aalst
+834,5653:0,363,2075,Brussels South
+834,5653:1,363,2077,Brussels South
+834,5653:10,363,2095,Brussels South
+834,5653:11,363,2097,Brussels South
+834,5653:12,363,2099,Brussels South
+834,5653:13,363,2101,Brussels South
+834,5653:14,363,2103,Brussels South
+834,5653:15,363,2105,Brussels South
+834,5653:16,363,2107,Brussels South
+834,5653:17,363,2109,Brussels South
+834,5653:2,363,2079,Brussels South
+834,5653:3,363,2081,Brussels South
+834,5653:4,363,2083,Brussels South
+834,5653:5,363,2085,Brussels South
+834,5653:6,363,2087,Brussels South
+834,5653:7,363,2089,Brussels South
+834,5653:8,363,2091,Brussels South
+834,5653:9,363,2093,Brussels South
+1575,5654:0,4,2075,Geraardsbergen
+1575,5654:1,4,2077,Geraardsbergen
+1768,56559:0,5444,19,FRANKFURT(MAIN)HBF (Germany)
+1195,5655:0,3,2075,Zottegem
+1768,56560:0,693,19,FRANKFURT(MAIN)HBF (Germany)
+1768,56561:0,137,19,FRANKFURT(MAIN)HBF (Germany)
+2957,56562:0,3,2822,Brussels North
+2958,56563:0,3,2841,Nijvel
+2958,56563:1,3,2843,Nijvel
+2958,56563:2,3,2845,Nijvel
+18586,56564:0,3,5708,Saint Nicolas
+18586,56565:0,3,5709,Saint Nicolas
+18586,56565:1,3,5711,Saint Nicolas
+18586,56565:2,3,5713,Saint Nicolas
+18586,56565:3,3,5715,Saint Nicolas
+18586,56566:0,3,5714,Saint Nicolas
+18586,56566:1,3,5716,Saint Nicolas
+18586,56566:2,3,5718,Saint Nicolas
+1251,56567:0,3,5728,Dendermonde
+1251,56567:1,3,5730,Dendermonde
+1251,56567:2,3,5732,Dendermonde
+1251,56567:3,3,5734,Dendermonde
+1251,56567:4,3,5736,Dendermonde
+1251,56568:0,3,5734,Dendermonde
+1251,56568:1,3,5736,Dendermonde
+1251,56568:2,3,5738,Dendermonde
+1251,56568:3,3,5740,Dendermonde
+1251,56568:4,3,5742,Dendermonde
+1251,56569:0,3,5740,Dendermonde
+1195,5656:0,3,2076,Zottegem
+838,56570:0,3,7007,Courtrai
+838,56571:0,3,8079,Courtrai
+18588,56572:0,3,8283,Heist Op Den Berg
+18588,56573:0,4,8284,Heist Op Den Berg
+1592,56574:0,363,19723,Antwerp Central
+1575,5657:0,4,2077,Geraardsbergen
+1195,5658:0,3,2077,Zottegem
+1575,5659:0,4,2078,Geraardsbergen
+1195,5660:0,3,2078,Zottegem
+1195,5660:1,3,2080,Zottegem
+1195,5660:2,3,2082,Zottegem
+1195,5660:3,3,2084,Zottegem
+1195,5660:4,3,2086,Zottegem
+1195,5660:5,3,2088,Zottegem
+1195,5660:6,3,2090,Zottegem
+1195,5661:0,3,2085,Zottegem
+1575,5662:0,4,2085,Geraardsbergen
+1575,5663:0,3,2086,Geraardsbergen
+1195,5664:0,3,2086,Zottegem
+1575,5665:0,3,2087,Geraardsbergen
+1195,5666:0,3,2087,Zottegem
+1195,5666:1,3,2089,Zottegem
+1195,5666:2,3,2091,Zottegem
+1195,5666:3,3,2093,Zottegem
+1575,5667:0,4,2088,Geraardsbergen
+2582,5668:0,3,2091,Oudenaarde
+834,5669:0,3,2092,Brussels South
+121,5670:0,363,2104,LUXEMBOURG (Luxembourg)
+121,5670:1,363,2106,LUXEMBOURG (Luxembourg)
+2583,5671:0,3,2104,LUXEMBOURG (Luxembourg)
+120,5672:0,3,2105,LUXEMBOURG (Luxembourg)
+120,5673:0,3,2106,LUXEMBOURG (Luxembourg)
+120,5674:0,363,2106,LUXEMBOURG (Luxembourg)
+120,5675:0,0,2108,LUXEMBOURG (Luxembourg)
+120,5675:1,0,2110,LUXEMBOURG (Luxembourg)
+120,5675:2,0,2112,LUXEMBOURG (Luxembourg)
+120,5676:0,3,2109,LUXEMBOURG (Luxembourg)
+120,5677:0,363,2109,LUXEMBOURG (Luxembourg)
+120,5677:1,363,2111,LUXEMBOURG (Luxembourg)
+1544,5678:0,697,2111,Arlon
+120,5679:0,491,2111,LUXEMBOURG (Luxembourg)
+120,5680:0,3,2113,LUXEMBOURG (Luxembourg)
+120,5680:1,3,2115,LUXEMBOURG (Luxembourg)
+120,5681:0,363,2114,LUXEMBOURG (Luxembourg)
+120,5682:0,3,2115,LUXEMBOURG (Luxembourg)
+120,5683:0,363,2115,LUXEMBOURG (Luxembourg)
+120,5684:0,363,2116,LUXEMBOURG (Luxembourg)
+120,5685:0,3,2116,LUXEMBOURG (Luxembourg)
+120,5686:0,363,2117,LUXEMBOURG (Luxembourg)
+120,5687:0,3,2117,LUXEMBOURG (Luxembourg)
+120,5688:0,3,2118,LUXEMBOURG (Luxembourg)
+2587,5689:0,699,2118,LUXEMBOURG (Luxembourg)
+120,5690:0,698,2118,LUXEMBOURG (Luxembourg)
+120,5691:0,729,2119,LUXEMBOURG (Luxembourg)
+2587,5692:0,699,2119,LUXEMBOURG (Luxembourg)
+120,5693:0,3,2120,LUXEMBOURG (Luxembourg)
+120,5694:0,363,2120,LUXEMBOURG (Luxembourg)
+1544,5695:0,0,2121,Arlon
+1545,5696:0,3,2122,Jemelle
+2588,5697:0,363,2122,Namen
+2588,5698:0,363,2123,Namen
+1123,5699:0,363,2125,Brussels South
+1118,5700:0,3,2126,Brussels South
+1119,5701:0,3,2127,Brussels South
+1123,5702:0,363,2127,Brussels South
+1119,5703:0,698,2128,Brussels South
+2594,5704:0,699,2128,Ostend
+2595,5705:0,3,2128,Brussels South
+2596,5706:0,3,2157,Aalst
+2596,5707:0,3,2158,Aalst
+2596,5708:0,3,2159,Aalst
+2596,5708:1,3,2161,Aalst
+2596,5708:2,3,2163,Aalst
+2596,5708:3,3,2165,Aalst
+2596,5708:4,3,2167,Aalst
+2596,5708:5,3,2169,Aalst
+2596,5709:0,3,2165,Aalst
+2596,5710:0,3,2166,Aalst
+2596,5711:0,3,2167,Aalst
+2596,5712:0,3,2168,Aalst
+2596,5712:1,3,2170,Aalst
+2598,5713:0,3,2177,Eigenbrakel
+2598,5714:0,3,2178,Eigenbrakel
+2598,5714:1,3,2180,Eigenbrakel
+2598,5714:2,3,2182,Eigenbrakel
+2598,5714:3,3,2184,Eigenbrakel
+2598,5714:4,3,2186,Eigenbrakel
+2598,5714:5,3,2188,Eigenbrakel
+2598,5714:6,3,2190,Eigenbrakel
+2598,5714:7,3,2192,Eigenbrakel
+2598,5715:0,3,2186,Eigenbrakel
+2598,5716:0,3,2187,Eigenbrakel
+2598,5717:0,3,2188,Eigenbrakel
+2598,5717:1,3,2190,Eigenbrakel
+877,5718:0,3,2203,Genk
+1243,5719:0,3,2204,Genk
+2600,5720:0,3,2205,Genk
+2600,5721:0,3,2206,Genk
+2600,5722:0,3,2207,Genk
+2600,5722:1,3,2209,Genk
+2600,5722:2,3,2211,Genk
+2600,5722:3,3,2213,Genk
+2600,5722:4,3,2215,Genk
+2600,5722:5,3,2217,Genk
+2600,5722:6,3,2219,Genk
+2600,5723:0,3,2214,Genk
+2600,5723:1,3,2216,Genk
+2600,5724:0,3,2215,Genk
+2600,5725:0,3,2217,Genk
+2600,5725:1,3,2219,Genk
+2600,5726:0,3,2219,Genk
+2600,5727:0,3,2220,Genk
+2600,5728:0,3,2221,Genk
+835,5729:0,3,2222,Brussels South
+2604,5730:0,3,2226,Ghent Sint Pieters
+2605,5731:0,3,2227,Ghent Sint Pieters
+2605,5731:1,3,2229,Ghent Sint Pieters
+2605,5731:2,3,2231,Ghent Sint Pieters
+2605,5732:0,3,2228,Ghent Sint Pieters
+2605,5733:0,3,2229,Ghent Sint Pieters
+2605,5734:0,3,2230,Ghent Sint Pieters
+2605,5735:0,3,2231,Ghent Sint Pieters
+2605,5735:1,3,2233,Ghent Sint Pieters
+2605,5735:2,3,2235,Ghent Sint Pieters
+2605,5735:3,3,2237,Ghent Sint Pieters
+2605,5735:4,3,2239,Ghent Sint Pieters
+2605,5736:0,3,2232,Ghent Sint Pieters
+2605,5737:0,3,2235,Ghent Sint Pieters
+2605,5738:0,3,2236,Ghent Sint Pieters
+2605,5739:0,3,2238,Ghent Sint Pieters
+2605,5740:0,3,2241,Ghent Sint Pieters
+2605,5740:1,3,2243,Ghent Sint Pieters
+879,5741:0,3,2244,Hasselt
+2606,5742:0,3,2254,Aalst
+2607,5743:0,3,2255,Brussels South
+2608,5744:0,3,2256,Aalst
+2608,5744:1,3,2258,Aalst
+2608,5745:0,3,2258,Aalst
+2608,5746:0,3,2259,Aalst
+2608,5747:0,3,2260,Aalst
+2608,5747:1,3,2262,Aalst
+2608,5748:0,3,2261,Aalst
+2608,5748:1,3,2263,Aalst
+2608,5748:2,3,2265,Aalst
+2608,5749:0,5,2262,Aalst
+2608,5750:0,6,2262,Aalst
+2608,5751:0,3,2266,Aalst
+2608,5752:0,3,2267,Aalst
+2608,5752:1,3,2269,Aalst
+2608,5753:0,3,2269,Aalst
+1605,5754:0,668,19919,Herstal
+1605,5754:1,668,19921,Herstal
+149,591:0,3,5016,AACHEN HBF (Germany)
+149,592:0,38,5019,AACHEN HBF (Germany)
+149,593:0,38,5021,AACHEN HBF (Germany)
+15066,59458:0,841,24881,NEUNKIRCHEN(KR SIEG) (Germany)
+15065,59459:0,924,24881,DILLENBURG (Germany)
+15068,59460:0,841,24882,BETZDORF(SIEG) (Germany)
+19124,59461:0,924,24882,BETZDORF(SIEG) (Germany)
+15068,59462:0,0,24888,BETZDORF(SIEG) (Germany)
+15068,59462:1,0,24890,BETZDORF(SIEG) (Germany)
+19125,59465:0,924,24885,DILLENBURG (Germany)
+19126,59466:0,924,24886,WUERGENDORF (Germany)
+15066,59467:0,0,24887,NEUNKIRCHEN(KR SIEG) (Germany)
+15066,59467:1,0,24889,NEUNKIRCHEN(KR SIEG) (Germany)
+15066,59468:0,379,24889,NEUNKIRCHEN(KR SIEG) (Germany)
+15065,59469:0,369,24889,DILLENBURG (Germany)
+127,594:0,0,5081,LUXEMBOURG (Luxembourg)
+127,594:1,0,5083,LUXEMBOURG (Luxembourg)
+127,594:10,0,5101,LUXEMBOURG (Luxembourg)
+127,594:11,0,5103,LUXEMBOURG (Luxembourg)
+127,594:12,0,5105,LUXEMBOURG (Luxembourg)
+127,594:13,0,5107,LUXEMBOURG (Luxembourg)
+127,594:2,0,5085,LUXEMBOURG (Luxembourg)
+127,594:3,0,5087,LUXEMBOURG (Luxembourg)
+127,594:4,0,5089,LUXEMBOURG (Luxembourg)
+127,594:5,0,5091,LUXEMBOURG (Luxembourg)
+127,594:6,0,5093,LUXEMBOURG (Luxembourg)
+127,594:7,0,5095,LUXEMBOURG (Luxembourg)
+127,594:8,0,5097,LUXEMBOURG (Luxembourg)
+127,594:9,0,5099,LUXEMBOURG (Luxembourg)
+282,595:0,3,5155,Waremme
+282,595:1,3,5157,Waremme
+282,596:0,3,5156,Waremme
+282,596:1,3,5158,Waremme
+282,597:0,417,5157,Waremme
+282,597:1,417,5159,Waremme
+282,597:2,417,5161,Waremme
+282,597:3,417,5163,Waremme
+282,597:4,417,5165,Waremme
+282,597:5,417,5167,Waremme
+282,597:6,417,5169,Waremme
+282,598:0,3,5159,Waremme
+282,598:1,3,5161,Waremme
+282,598:2,3,5163,Waremme
+282,598:3,3,5165,Waremme
+282,598:4,3,5167,Waremme
+282,599:0,3,5160,Waremme
+282,599:1,3,5162,Waremme
+282,599:2,3,5164,Waremme
+282,600:0,3,5162,Waremme
+282,601:0,3,5166,Waremme
+284,602:0,3,5176,Liege Guillemins
+284,602:1,3,5178,Liege Guillemins
+284,602:2,3,5180,Liege Guillemins
+284,602:3,3,5182,Liege Guillemins
+284,602:4,3,5184,Liege Guillemins
+284,602:5,3,5186,Liege Guillemins
+284,602:6,3,5188,Liege Guillemins
+284,602:7,3,5190,Liege Guillemins
+284,603:0,3,5177,Liege Guillemins
+284,603:1,3,5179,Liege Guillemins
+284,603:2,3,5181,Liege Guillemins
+284,604:0,3,5179,Liege Guillemins
+284,604:1,3,5181,Liege Guillemins
+284,604:2,3,5183,Liege Guillemins
+284,605:0,417,5179,Liege Guillemins
+284,605:1,417,5181,Liege Guillemins
+284,605:2,417,5183,Liege Guillemins
+284,605:3,417,5185,Liege Guillemins
+284,605:4,417,5187,Liege Guillemins
+284,605:5,417,5189,Liege Guillemins
+284,605:6,417,5191,Liege Guillemins
+284,606:0,3,5189,Liege Guillemins
+286,607:0,3,5206,Aalst
+286,607:1,3,5208,Aalst
+286,608:0,4,5208,Aalst
+286,609:0,4,5209,Aalst
+2608,6101:0,3,2270,Aalst
+2608,6102:0,3,2271,Aalst
+1191,6103:0,3,2275,Zottegem
+2744,6104:0,3,2293,Oudenaarde
+2745,6105:0,363,2304,Brussels South
+2746,6106:0,3,2304,Dendermonde
+2747,6107:0,363,2305,Lokeren
+2747,6107:1,363,2307,Lokeren
+2747,6107:10,363,2325,Lokeren
+2747,6107:11,363,2327,Lokeren
+2747,6107:12,363,2329,Lokeren
+2747,6107:13,363,2331,Lokeren
+2747,6107:14,363,2333,Lokeren
+2747,6107:2,363,2309,Lokeren
+2747,6107:3,363,2311,Lokeren
+2747,6107:4,363,2313,Lokeren
+2747,6107:5,363,2315,Lokeren
+2747,6107:6,363,2317,Lokeren
+2747,6107:7,363,2319,Lokeren
+2747,6107:8,363,2321,Lokeren
+2747,6107:9,363,2323,Lokeren
+1203,6108:0,3,2305,Dendermonde
+2746,6109:0,3,2306,Dendermonde
+286,610:0,4,5217,Aalst
+2746,6110:0,3,2307,Dendermonde
+2746,6110:1,3,2309,Dendermonde
+2746,6110:2,3,2311,Dendermonde
+2749,6111:0,3,2310,Saint Nicolas
+2746,6112:0,3,2311,Dendermonde
+2746,6112:1,3,2313,Dendermonde
+2750,6113:0,3,2313,Dendermonde
+2751,6114:0,3,2314,Saint Nicolas
+2749,6115:0,3,2315,Saint Nicolas
+2749,6115:1,3,2317,Saint Nicolas
+2749,6116:0,3,2317,Saint Nicolas
+2746,6117:0,3,2318,Dendermonde
+2749,6118:0,3,2319,Saint Nicolas
+2746,6119:0,363,2320,Dendermonde
+286,611:0,4,5218,Aalst
+286,611:1,4,5220,Aalst
+2751,6120:0,3,2320,Saint Nicolas
+838,6121:0,363,2321,Courtrai
+2746,6122:0,3,2321,Dendermonde
+825,6123:0,363,2327,Poperinge
+2754,6124:0,3,2327,Poperinge
+2755,6125:0,363,2328,Poperinge
+2756,6126:0,3,2328,Poperinge
+2754,6127:0,363,2329,Poperinge
+2758,6128:0,3,2329,Courtrai
+2759,6129:0,363,2330,Poperinge
+2759,6129:1,363,2332,Poperinge
+2759,6129:10,363,2350,Poperinge
+2759,6129:11,363,2352,Poperinge
+2759,6129:12,363,2354,Poperinge
+2759,6129:13,363,2356,Poperinge
+2759,6129:2,363,2334,Poperinge
+2759,6129:3,363,2336,Poperinge
+2759,6129:4,363,2338,Poperinge
+2759,6129:5,363,2340,Poperinge
+2759,6129:6,363,2342,Poperinge
+2759,6129:7,363,2344,Poperinge
+2759,6129:8,363,2346,Poperinge
+2759,6129:9,363,2348,Poperinge
+286,612:0,4,5219,Aalst
+2756,6130:0,3,2330,Poperinge
+2760,6131:0,3,2331,Courtrai
+2754,6132:0,3,2332,Poperinge
+2754,6132:1,3,2334,Poperinge
+2754,6132:2,3,2336,Poperinge
+2754,6132:3,3,2338,Poperinge
+2756,6133:0,3,2336,Poperinge
+2754,6134:0,3,2337,Poperinge
+2754,6134:1,3,2339,Poperinge
+2754,6134:2,3,2341,Poperinge
+2754,6135:0,3,2338,Poperinge
+2754,6135:1,3,2340,Poperinge
+2754,6136:0,3,2341,Poperinge
+2756,6137:0,3,2342,Poperinge
+2762,6138:0,363,2344,Courtrai
+2760,6139:0,3,2344,Courtrai
+287,613:0,363,5256,Verviers Central
+287,613:1,363,5258,Verviers Central
+287,613:2,363,5260,Verviers Central
+287,613:3,363,5262,Verviers Central
+287,613:4,363,5264,Verviers Central
+287,613:5,363,5266,Verviers Central
+287,613:6,363,5268,Verviers Central
+287,613:7,363,5270,Verviers Central
+287,613:8,363,5272,Verviers Central
+885,6140:0,363,2345,Dendermonde
+2764,6141:0,3,2356,Lier
+2764,6141:1,3,2358,Lier
+2765,6142:0,3,2357,Antwerp Central
+2765,6142:1,3,2359,Antwerp Central
+2764,6143:0,4,2362,Lier
+2764,6143:1,4,2364,Lier
+2764,6144:0,4,2365,Lier
+2764,6145:0,3,2366,Lier
+2764,6145:1,3,2368,Lier
+2764,6145:2,3,2370,Lier
+2766,6146:0,3,2376,Herentals
+2766,6146:1,3,2378,Herentals
+2766,6146:2,3,2380,Herentals
+2766,6147:0,4,2379,Herentals
+2766,6147:1,4,2381,Herentals
+2766,6148:0,4,2384,Herentals
+2766,6149:0,3,2385,Herentals
+2766,6149:1,3,2387,Herentals
+288,614:0,3,5257,Verviers Palais
+2767,6150:0,3,2386,Herentals
+2767,6150:1,3,2388,Herentals
+2768,6151:0,3,2405,Liers
+1128,6152:0,726,2405,Dinant
+2769,6153:0,3,2406,Liers
+2769,6153:1,3,2408,Liers
+2770,6154:0,3,2406,Dinant
+2770,6154:1,3,2408,Dinant
+2588,6155:0,610,2406,Namen
+2588,6155:1,610,2408,Namen
+2588,6155:2,610,2410,Namen
+2588,6155:3,610,2412,Namen
+2588,6155:4,610,2414,Namen
+2588,6155:5,610,2416,Namen
+2588,6155:6,610,2418,Namen
+2588,6155:7,610,2420,Namen
+2770,6156:0,726,2406,Dinant
+2770,6156:1,726,2408,Dinant
+2770,6156:2,726,2410,Dinant
+2770,6156:3,726,2412,Dinant
+2770,6156:4,726,2414,Dinant
+2770,6156:5,726,2416,Dinant
+2770,6156:6,726,2418,Dinant
+2770,6156:7,726,2420,Dinant
+2770,6156:8,726,2422,Dinant
+2769,6157:0,3,2409,Liers
+2769,6157:1,3,2411,Liers
+2769,6157:2,3,2413,Liers
+2769,6157:3,3,2415,Liers
+2769,6157:4,3,2417,Liers
+2769,6157:5,3,2419,Liers
+2770,6158:0,3,2409,Dinant
+2770,6158:1,3,2411,Dinant
+2770,6158:2,3,2413,Dinant
+2770,6158:3,3,2415,Dinant
+2770,6158:4,3,2417,Dinant
+2770,6158:5,3,2419,Dinant
+2770,6159:0,610,2414,Dinant
+287,615:0,3,5258,Verviers Central
+2770,6160:0,363,2415,Dinant
+2770,6160:1,363,2417,Dinant
+2770,6160:2,363,2419,Dinant
+2770,6160:3,363,2421,Dinant
+2770,6160:4,363,2423,Dinant
+2770,6160:5,363,2425,Dinant
+2770,6160:6,363,2427,Dinant
+2770,6161:0,3,2415,Dinant
+2769,6162:0,3,2415,Liers
+2769,6163:0,3,2416,Liers
+2769,6163:1,3,2418,Liers
+2770,6164:0,3,2416,Dinant
+2770,6165:0,3,2417,Dinant
+2769,6166:0,3,2418,Liers
+2769,6166:1,3,2420,Liers
+2769,6166:2,3,2422,Liers
+2769,6166:3,3,2424,Liers
+2769,6166:4,3,2426,Liers
+2770,6167:0,3,2418,Dinant
+2770,6167:1,3,2420,Dinant
+2770,6167:2,3,2422,Dinant
+2770,6167:3,3,2424,Dinant
+2770,6167:4,3,2426,Dinant
+2588,6168:0,363,2422,Namen
+1123,6169:0,363,2426,Brussels South
+287,616:0,3,5259,Verviers Central
+287,616:1,3,5261,Verviers Central
+287,616:2,3,5263,Verviers Central
+287,616:3,3,5265,Verviers Central
+287,616:4,3,5267,Verviers Central
+287,616:5,3,5269,Verviers Central
+2771,6170:0,3,2426,Brussels South
+2772,6171:0,610,2427,Brussels South
+2772,6171:1,610,2429,Brussels South
+2772,6171:2,610,2431,Brussels South
+2772,6171:3,610,2433,Brussels South
+2772,6171:4,610,2435,Brussels South
+2772,6171:5,610,2437,Brussels South
+2772,6171:6,610,2439,Brussels South
+2772,6171:7,610,2441,Brussels South
+2772,6171:8,610,2443,Brussels South
+2772,6171:9,610,2445,Brussels South
+2773,6172:0,726,2427,Brussels South
+2773,6172:1,726,2429,Brussels South
+2773,6172:2,726,2431,Brussels South
+2773,6172:3,726,2433,Brussels South
+2773,6172:4,726,2435,Brussels South
+2773,6172:5,726,2437,Brussels South
+2773,6172:6,726,2439,Brussels South
+2773,6172:7,726,2441,Brussels South
+2773,6172:8,726,2443,Brussels South
+2773,6172:9,726,2445,Brussels South
+2771,6173:0,3,2427,Brussels South
+2771,6174:0,578,2428,Brussels South
+2774,6175:0,579,2428,Ostend
+2771,6176:0,3,2429,Brussels South
+2771,6176:1,3,2431,Brussels South
+2771,6176:2,3,2433,Brussels South
+2771,6176:3,3,2435,Brussels South
+2771,6176:4,3,2437,Brussels South
+2771,6176:5,3,2439,Brussels South
+2771,6176:6,3,2441,Brussels South
+2041,6177:0,3,2436,Tournai
+2773,6178:0,363,2437,Brussels South
+2773,6178:1,363,2439,Brussels South
+2773,6178:2,363,2441,Brussels South
+2773,6178:3,363,2443,Brussels South
+2773,6178:4,363,2445,Brussels South
+2773,6178:5,363,2447,Brussels South
+2771,6179:0,3,2437,Brussels South
+2771,6179:1,3,2439,Brussels South
+2771,6179:2,3,2441,Brussels South
+288,617:0,3,5265,Verviers Palais
+2771,6180:0,812,2440,Brussels South
+2771,6181:0,3,2441,Brussels South
+2771,6181:1,3,2443,Brussels South
+1124,6182:0,363,2443,Namen
+2776,6183:0,363,2456,Hasselt
+2776,6183:1,363,2458,Hasselt
+2776,6183:2,363,2460,Hasselt
+2776,6183:3,363,2462,Hasselt
+2776,6183:4,363,2464,Hasselt
+2776,6183:5,363,2466,Hasselt
+2776,6183:6,363,2468,Hasselt
+2776,6183:7,363,2470,Hasselt
+2777,6184:0,3,2456,Hasselt
+2777,6184:1,3,2458,Hasselt
+2777,6184:2,3,2460,Hasselt
+2777,6184:3,3,2462,Hasselt
+2777,6184:4,3,2464,Hasselt
+2777,6184:5,3,2466,Hasselt
+2777,6184:6,3,2468,Hasselt
+2777,6184:7,3,2470,Hasselt
+2777,6184:8,3,2472,Hasselt
+2777,6184:9,3,2474,Hasselt
+2777,6185:0,3,2466,Hasselt
+2777,6186:0,3,2467,Hasselt
+2777,6187:0,3,2468,Hasselt
+2777,6187:1,3,2470,Hasselt
+2777,6187:2,3,2472,Hasselt
+2777,6187:3,3,2474,Hasselt
+2777,6187:4,3,2476,Hasselt
+2778,6188:0,3,2476,Leuven
+2778,6188:1,3,2478,Leuven
+2778,6188:10,3,2496,Leuven
+2778,6188:2,3,2480,Leuven
+2778,6188:3,3,2482,Leuven
+2778,6188:4,3,2484,Leuven
+2778,6188:5,3,2486,Leuven
+2778,6188:6,3,2488,Leuven
+2778,6188:7,3,2490,Leuven
+2778,6188:8,3,2492,Leuven
+2778,6188:9,3,2494,Leuven
+2779,6189:0,363,2478,Landen
+2779,6189:1,363,2480,Landen
+2779,6189:2,363,2482,Landen
+2779,6189:3,363,2484,Landen
+2779,6189:4,363,2486,Landen
+2779,6189:5,363,2488,Landen
+2779,6189:6,363,2490,Landen
+2779,6189:7,363,2492,Landen
+287,618:0,3,5266,Verviers Central
+287,618:1,3,5268,Verviers Central
+287,618:2,3,5270,Verviers Central
+287,618:3,3,5272,Verviers Central
+287,618:4,3,5274,Verviers Central
+287,618:5,3,5276,Verviers Central
+2778,6190:0,3,2487,Leuven
+2778,6190:1,3,2489,Leuven
+2778,6190:2,3,2491,Leuven
+2778,6191:0,3,2490,Leuven
+2778,6191:1,3,2492,Leuven
+2778,6191:2,3,2494,Leuven
+2778,6191:3,3,2496,Leuven
+1128,6192:0,3,2505,Dinant
+1128,6193:0,3,2508,Dinant
+2773,6194:0,3,2526,Brussels South
+2773,6195:0,3,2527,Brussels South
+1124,6196:0,3,2528,Namen
+2773,6197:0,578,2528,Brussels South
+2780,6198:0,579,2528,Ostend
+2773,6199:0,3,2529,Brussels South
+2773,6199:1,3,2531,Brussels South
+2773,6199:2,3,2533,Brussels South
+2773,6199:3,3,2535,Brussels South
+2773,6199:4,3,2537,Brussels South
+2773,6199:5,3,2539,Brussels South
+2773,6199:6,3,2541,Brussels South
+289,619:0,363,5275,Liege Palais
+1124,6200:0,813,2536,Namen
+1124,6201:0,665,2536,Namen
+2773,6202:0,3,2537,Brussels South
+2773,6202:1,3,2539,Brussels South
+2773,6202:2,3,2541,Brussels South
+2773,6203:0,812,2540,Brussels South
+1124,6204:0,3,2540,Namen
+1124,6204:1,3,2542,Namen
+2773,6205:0,3,2541,Brussels South
+2773,6205:1,3,2543,Brussels South
+2781,6206:0,363,2555,ROOSENDAAL (Netherlands)
+2782,6207:0,363,2556,ROOSENDAAL (Netherlands)
+2782,6207:1,363,2558,ROOSENDAAL (Netherlands)
+2782,6207:10,363,2576,ROOSENDAAL (Netherlands)
+2782,6207:11,363,2578,ROOSENDAAL (Netherlands)
+2782,6207:12,363,2580,ROOSENDAAL (Netherlands)
+2782,6207:13,363,2582,ROOSENDAAL (Netherlands)
+2782,6207:14,363,2584,ROOSENDAAL (Netherlands)
+2782,6207:2,363,2560,ROOSENDAAL (Netherlands)
+2782,6207:3,363,2562,ROOSENDAAL (Netherlands)
+2782,6207:4,363,2564,ROOSENDAAL (Netherlands)
+2782,6207:5,363,2566,ROOSENDAAL (Netherlands)
+2782,6207:6,363,2568,ROOSENDAAL (Netherlands)
+2782,6207:7,363,2570,ROOSENDAAL (Netherlands)
+2782,6207:8,363,2572,ROOSENDAAL (Netherlands)
+2782,6207:9,363,2574,ROOSENDAAL (Netherlands)
+2783,6208:0,3,2556,ROOSENDAAL (Netherlands)
+2783,6208:1,3,2558,ROOSENDAAL (Netherlands)
+2783,6208:10,3,2576,ROOSENDAAL (Netherlands)
+2783,6208:11,3,2578,ROOSENDAAL (Netherlands)
+2783,6208:2,3,2560,ROOSENDAAL (Netherlands)
+2783,6208:3,3,2562,ROOSENDAAL (Netherlands)
+2783,6208:4,3,2564,ROOSENDAAL (Netherlands)
+2783,6208:5,3,2566,ROOSENDAAL (Netherlands)
+2783,6208:6,3,2568,ROOSENDAAL (Netherlands)
+2783,6208:7,3,2570,ROOSENDAAL (Netherlands)
+2783,6208:8,3,2572,ROOSENDAAL (Netherlands)
+2783,6208:9,3,2574,ROOSENDAAL (Netherlands)
+2784,6209:0,160,2568,Essen
+2784,6209:1,160,2570,Essen
+289,620:0,3,5275,Liege Palais
+289,620:1,3,5277,Liege Palais
+2783,6210:0,420,2568,ROOSENDAAL (Netherlands)
+2783,6210:1,420,2570,ROOSENDAAL (Netherlands)
+2781,6211:0,420,2570,ROOSENDAAL (Netherlands)
+1236,6212:0,160,2570,Essen
+2785,6213:0,363,2571,Essen
+2783,6214:0,420,2571,ROOSENDAAL (Netherlands)
+2784,6215:0,160,2571,Essen
+2785,6216:0,363,2572,Essen
+1236,6217:0,3,2572,Essen
+548,6218:0,363,2575,Brussels South
+2787,6219:0,363,2576,Brussels Airport
+289,621:0,363,5277,Liege Palais
+289,621:1,363,5279,Liege Palais
+289,621:2,363,5281,Liege Palais
+289,621:3,363,5283,Liege Palais
+289,621:4,363,5285,Liege Palais
+289,621:5,363,5287,Liege Palais
+289,621:6,363,5289,Liege Palais
+289,621:7,363,5291,Liege Palais
+2788,6220:0,3,2576,Puurs
+2788,6220:1,3,2578,Puurs
+2789,6221:0,363,2577,Brussels Airport
+2790,6222:0,3,2578,Puurs
+2790,6222:1,3,2580,Puurs
+2790,6222:10,3,2598,Puurs
+2790,6222:11,3,2600,Puurs
+2790,6222:2,3,2582,Puurs
+2790,6222:3,3,2584,Puurs
+2790,6222:4,3,2586,Puurs
+2790,6222:5,3,2588,Puurs
+2790,6222:6,3,2590,Puurs
+2790,6222:7,3,2592,Puurs
+2790,6222:8,3,2594,Puurs
+2790,6222:9,3,2596,Puurs
+2791,6223:0,363,2578,Brussels Airport
+2791,6223:1,363,2580,Brussels Airport
+2791,6223:10,363,2598,Brussels Airport
+2791,6223:11,363,2600,Brussels Airport
+2791,6223:12,363,2602,Brussels Airport
+2791,6223:13,363,2604,Brussels Airport
+2791,6223:14,363,2606,Brussels Airport
+2791,6223:2,363,2582,Brussels Airport
+2791,6223:3,363,2584,Brussels Airport
+2791,6223:4,363,2586,Brussels Airport
+2791,6223:5,363,2588,Brussels Airport
+2791,6223:6,363,2590,Brussels Airport
+2791,6223:7,363,2592,Brussels Airport
+2791,6223:8,363,2594,Brussels Airport
+2791,6223:9,363,2596,Brussels Airport
+2792,6224:0,3,2590,Antwerp Central
+2793,6225:0,160,2591,Antwerp Central
+2793,6225:1,160,2593,Antwerp Central
+2792,6226:0,420,2591,Antwerp Central
+2792,6226:1,420,2593,Antwerp Central
+2794,6227:0,160,2592,Saint Nicolas
+2795,6228:0,420,2592,Saint Nicolas
+2796,6229:0,3,2605,Antwerp Central
+290,622:0,3,5277,Liege Palais
+2797,6230:0,363,2606,Malines
+2797,6230:1,363,2608,Malines
+2797,6230:10,363,2626,Malines
+2797,6230:11,363,2628,Malines
+2797,6230:12,363,2630,Malines
+2797,6230:13,363,2632,Malines
+2797,6230:14,363,2634,Malines
+2797,6230:15,363,2636,Malines
+2797,6230:16,363,2638,Malines
+2797,6230:17,363,2640,Malines
+2797,6230:2,363,2610,Malines
+2797,6230:3,363,2612,Malines
+2797,6230:4,363,2614,Malines
+2797,6230:5,363,2616,Malines
+2797,6230:6,363,2618,Malines
+2797,6230:7,363,2620,Malines
+2797,6230:8,363,2622,Malines
+2797,6230:9,363,2624,Malines
+2796,6231:0,3,2606,Antwerp Central
+2796,6232:0,3,2607,Antwerp Central
+2796,6233:0,3,2608,Antwerp Central
+2796,6233:1,3,2610,Antwerp Central
+2796,6233:10,3,2628,Antwerp Central
+2796,6233:11,3,2630,Antwerp Central
+2796,6233:12,3,2632,Antwerp Central
+2796,6233:13,3,2634,Antwerp Central
+2796,6233:2,3,2612,Antwerp Central
+2796,6233:3,3,2614,Antwerp Central
+2796,6233:4,3,2616,Antwerp Central
+2796,6233:5,3,2618,Antwerp Central
+2796,6233:6,3,2620,Antwerp Central
+2796,6233:7,3,2622,Antwerp Central
+2796,6233:8,3,2624,Antwerp Central
+2796,6233:9,3,2626,Antwerp Central
+290,623:0,3,5278,Liege Palais
+289,624:0,3,5279,Liege Palais
+289,624:1,3,5281,Liege Palais
+289,624:2,3,5283,Liege Palais
+289,624:3,3,5285,Liege Palais
+289,624:4,3,5287,Liege Palais
+289,624:5,3,5289,Liege Palais
+289,624:6,3,5291,Liege Palais
+291,625:0,3,5286,Liege Palais
+289,626:0,3,5287,Liege Palais
+289,626:1,3,5289,Liege Palais
+289,627:0,3,5289,Liege Palais
+289,628:0,3,5290,Liege Palais
+292,629:0,3,5317,Dendermonde
+293,630:0,3,5325,Brussels South
+294,631:0,3,5326,Dendermonde
+294,632:0,3,5327,Dendermonde
+294,633:0,3,5328,Dendermonde
+294,634:0,3,5335,Dendermonde
+293,635:0,3,5336,Brussels South
+294,636:0,3,5336,Dendermonde
+294,637:0,3,5337,Dendermonde
+293,638:0,3,5338,Brussels South
+300,639:0,269,22,MAASTRICHT (Netherlands)
+300,640:0,3,24,MAASTRICHT (Netherlands)
+300,641:0,363,26,MAASTRICHT (Netherlands)
+300,641:1,363,28,MAASTRICHT (Netherlands)
+300,641:2,363,30,MAASTRICHT (Netherlands)
+300,641:3,363,32,MAASTRICHT (Netherlands)
+300,641:4,363,34,MAASTRICHT (Netherlands)
+300,641:5,363,36,MAASTRICHT (Netherlands)
+300,641:6,363,38,MAASTRICHT (Netherlands)
+300,641:7,363,40,MAASTRICHT (Netherlands)
+300,642:0,3,28,MAASTRICHT (Netherlands)
+300,643:0,3,30,MAASTRICHT (Netherlands)
+300,643:1,3,32,MAASTRICHT (Netherlands)
+300,643:10,3,50,MAASTRICHT (Netherlands)
+300,643:2,3,34,MAASTRICHT (Netherlands)
+300,643:3,3,36,MAASTRICHT (Netherlands)
+300,643:4,3,38,MAASTRICHT (Netherlands)
+300,643:5,3,40,MAASTRICHT (Netherlands)
+300,643:6,3,42,MAASTRICHT (Netherlands)
+300,643:7,3,44,MAASTRICHT (Netherlands)
+300,643:8,3,46,MAASTRICHT (Netherlands)
+300,643:9,3,48,MAASTRICHT (Netherlands)
+300,644:0,418,32,MAASTRICHT (Netherlands)
+300,644:1,418,34,MAASTRICHT (Netherlands)
+300,645:0,419,34,MAASTRICHT (Netherlands)
+300,645:1,419,36,MAASTRICHT (Netherlands)
+300,646:0,363,36,MAASTRICHT (Netherlands)
+300,646:1,363,38,MAASTRICHT (Netherlands)
+300,646:2,363,40,MAASTRICHT (Netherlands)
+300,647:0,418,38,MAASTRICHT (Netherlands)
+300,647:1,418,40,MAASTRICHT (Netherlands)
+826,64823:0,363,3523,Ghent Sint Pieters
+826,64823:1,363,3525,Ghent Sint Pieters
+827,64824:0,363,3545,Bruges
+300,648:0,419,40,MAASTRICHT (Netherlands)
+300,648:1,419,42,MAASTRICHT (Netherlands)
+301,649:0,160,5369,Wezet
+301,649:1,160,5371,Wezet
+301,649:2,160,5373,Wezet
+301,649:3,160,5375,Wezet
+300,650:0,420,42,MAASTRICHT (Netherlands)
+300,650:1,420,44,MAASTRICHT (Netherlands)
+300,650:2,420,46,MAASTRICHT (Netherlands)
+300,650:3,420,48,MAASTRICHT (Netherlands)
+300,651:0,363,44,MAASTRICHT (Netherlands)
+301,652:0,3,5373,Wezet
+302,653:0,269,5376,Liege Guillemins
+302,654:0,421,5377,Liege Guillemins
+303,655:0,3,5455,Welkenraedt
+303,656:0,363,5456,Welkenraedt
+303,657:0,4,5456,Welkenraedt
+551,65842:0,3,6425,Libramont
+551,65843:0,494,6433,Libramont
+551,65844:0,571,6548,Libramont
+551,65845:0,494,6549,Libramont
+303,658:0,368,5456,Welkenraedt
+303,659:0,0,5457,Welkenraedt
+303,659:1,0,5459,Welkenraedt
+303,659:2,0,5461,Welkenraedt
+303,659:3,0,5463,Welkenraedt
+303,660:0,370,5461,Welkenraedt
+2796,6611:0,3,2622,Antwerp Central
+2938,6612:0,3,2626,Landen
+2938,6613:0,3,2627,Landen
+2938,6613:1,3,2629,Landen
+2938,6613:2,3,2631,Landen
+2938,6613:3,3,2633,Landen
+2938,6613:4,3,2635,Landen
+2938,6613:5,3,2637,Landen
+2938,6613:6,3,2639,Landen
+2938,6613:7,3,2641,Landen
+2938,6613:8,3,2643,Landen
+2938,6613:9,3,2645,Landen
+2938,6614:0,3,2637,Landen
+2938,6615:0,3,2638,Landen
+2938,6616:0,3,2639,Landen
+2938,6617:0,3,2640,Landen
+2938,6617:1,3,2642,Landen
+2938,6617:2,3,2644,Landen
+2939,6618:0,3,2643,Leuven
+2939,6618:1,3,2645,Leuven
+2940,6619:0,3,2655,Lokeren
+303,661:0,422,5461,Welkenraedt
+2941,6620:0,3,2656,Lokeren
+2941,6620:1,3,2658,Lokeren
+2941,6620:10,3,2676,Lokeren
+2941,6620:11,3,2678,Lokeren
+2941,6620:12,3,2680,Lokeren
+2941,6620:13,3,2682,Lokeren
+2941,6620:14,3,2684,Lokeren
+2941,6620:15,3,2686,Lokeren
+2941,6620:2,3,2660,Lokeren
+2941,6620:3,3,2662,Lokeren
+2941,6620:4,3,2664,Lokeren
+2941,6620:5,3,2666,Lokeren
+2941,6620:6,3,2668,Lokeren
+2941,6620:7,3,2670,Lokeren
+2941,6620:8,3,2672,Lokeren
+2941,6620:9,3,2674,Lokeren
+2940,6621:0,363,2657,Lokeren
+2941,6622:0,363,2658,Lokeren
+2941,6622:1,363,2660,Lokeren
+2941,6622:10,363,2678,Lokeren
+2941,6622:11,363,2680,Lokeren
+2941,6622:12,363,2682,Lokeren
+2941,6622:2,363,2662,Lokeren
+2941,6622:3,363,2664,Lokeren
+2941,6622:4,363,2666,Lokeren
+2941,6622:5,363,2668,Lokeren
+2941,6622:6,363,2670,Lokeren
+2941,6622:7,363,2672,Lokeren
+2941,6622:8,363,2674,Lokeren
+2941,6622:9,363,2676,Lokeren
+2941,6623:0,363,2671,Lokeren
+2941,6624:0,363,2672,Lokeren
+2942,6625:0,3,2672,Ghent Sint Pieters
+1235,6626:0,363,2673,Saint Nicolas
+1235,6627:0,3,2673,Saint Nicolas
+2000,6628:0,3,2675,Antwerp Central
+2000,6629:0,269,2675,Antwerp Central
+303,662:0,0,5462,Welkenraedt
+303,662:1,0,5464,Welkenraedt
+303,662:2,0,5466,Welkenraedt
+303,662:3,0,5468,Welkenraedt
+303,662:4,0,5470,Welkenraedt
+303,662:5,0,5472,Welkenraedt
+303,662:6,0,5474,Welkenraedt
+303,662:7,0,5476,Welkenraedt
+303,662:8,0,5478,Welkenraedt
+2962,66309:0,3,2604,Antwerp Central
+2946,6630:0,3,2676,Antwerp Central
+2946,6631:0,3,2677,Antwerp Central
+2946,6631:1,3,2679,Antwerp Central
+2946,6631:10,3,2697,Antwerp Central
+2946,6631:11,3,2699,Antwerp Central
+2946,6631:12,3,2701,Antwerp Central
+2946,6631:13,3,2703,Antwerp Central
+2946,6631:14,3,2705,Antwerp Central
+2946,6631:15,3,2707,Antwerp Central
+2946,6631:2,3,2681,Antwerp Central
+2946,6631:3,3,2683,Antwerp Central
+2946,6631:4,3,2685,Antwerp Central
+2946,6631:5,3,2687,Antwerp Central
+2946,6631:6,3,2689,Antwerp Central
+2946,6631:7,3,2691,Antwerp Central
+2946,6631:8,3,2693,Antwerp Central
+2946,6631:9,3,2695,Antwerp Central
+2946,6632:0,363,2678,Antwerp Central
+2946,6632:1,363,2680,Antwerp Central
+2946,6632:10,363,2698,Antwerp Central
+2946,6632:11,363,2700,Antwerp Central
+2946,6632:12,363,2702,Antwerp Central
+2946,6632:13,363,2704,Antwerp Central
+2946,6632:2,363,2682,Antwerp Central
+2946,6632:3,363,2684,Antwerp Central
+2946,6632:4,363,2686,Antwerp Central
+2946,6632:5,363,2688,Antwerp Central
+2946,6632:6,363,2690,Antwerp Central
+2946,6632:7,363,2692,Antwerp Central
+2946,6632:8,363,2694,Antwerp Central
+2946,6632:9,363,2696,Antwerp Central
+2946,6633:0,363,2692,Antwerp Central
+2946,6633:1,363,2694,Antwerp Central
+2947,6634:0,3,2693,Saint Nicolas
+2948,6635:0,3,2705,Saint Nicolas
+2948,6636:0,363,2706,Saint Nicolas
+2948,6636:1,363,2708,Saint Nicolas
+2948,6636:10,363,2726,Saint Nicolas
+2948,6636:11,363,2728,Saint Nicolas
+2948,6636:12,363,2730,Saint Nicolas
+2948,6636:13,363,2732,Saint Nicolas
+2948,6636:14,363,2734,Saint Nicolas
+2948,6636:15,363,2736,Saint Nicolas
+2948,6636:16,363,2738,Saint Nicolas
+2948,6636:2,363,2710,Saint Nicolas
+2948,6636:3,363,2712,Saint Nicolas
+2948,6636:4,363,2714,Saint Nicolas
+2948,6636:5,363,2716,Saint Nicolas
+2948,6636:6,363,2718,Saint Nicolas
+2948,6636:7,363,2720,Saint Nicolas
+2948,6636:8,363,2722,Saint Nicolas
+2948,6636:9,363,2724,Saint Nicolas
+2948,6637:0,3,2706,Saint Nicolas
+2948,6638:0,3,2707,Saint Nicolas
+2948,6638:1,3,2709,Saint Nicolas
+2948,6638:2,3,2711,Saint Nicolas
+2948,6638:3,3,2713,Saint Nicolas
+2948,6638:4,3,2715,Saint Nicolas
+2948,6638:5,3,2717,Saint Nicolas
+2948,6638:6,3,2719,Saint Nicolas
+2948,6638:7,3,2721,Saint Nicolas
+2948,6639:0,3,2715,Saint Nicolas
+303,663:0,363,5471,Welkenraedt
+2948,6640:0,3,2716,Saint Nicolas
+2948,6641:0,3,2717,Saint Nicolas
+2948,6642:0,3,2718,Saint Nicolas
+2948,6642:1,3,2720,Saint Nicolas
+2948,6642:2,3,2722,Saint Nicolas
+2948,6642:3,3,2724,Saint Nicolas
+886,6643:0,3,2722,Malines
+1228,6644:0,3,2726,Leuven
+1228,6644:1,3,2728,Leuven
+1228,6644:2,3,2730,Leuven
+1228,6644:3,3,2732,Leuven
+1228,6644:4,3,2734,Leuven
+1228,6645:0,3,2727,Leuven
+1228,6646:0,363,2727,Leuven
+1228,6646:1,363,2729,Leuven
+1228,6646:10,363,2747,Leuven
+1228,6646:11,363,2749,Leuven
+1228,6646:12,363,2751,Leuven
+1228,6646:13,363,2753,Leuven
+1228,6646:14,363,2755,Leuven
+1228,6646:15,363,2757,Leuven
+1228,6646:16,363,2759,Leuven
+1228,6646:2,363,2731,Leuven
+1228,6646:3,363,2733,Leuven
+1228,6646:4,363,2735,Leuven
+1228,6646:5,363,2737,Leuven
+1228,6646:6,363,2739,Leuven
+1228,6646:7,363,2741,Leuven
+1228,6646:8,363,2743,Leuven
+1228,6646:9,363,2745,Leuven
+1228,6647:0,3,2729,Leuven
+1228,6647:1,3,2731,Leuven
+1228,6648:0,3,2733,Leuven
+1228,6649:0,3,2735,Leuven
+1228,6649:1,3,2737,Leuven
+1228,6649:2,3,2739,Leuven
+1228,6649:3,3,2741,Leuven
+303,664:0,3,5471,Welkenraedt
+1228,6650:0,3,2736,Leuven
+1228,6651:0,3,2738,Leuven
+1228,6652:0,3,2740,Leuven
+1228,6652:1,3,2742,Leuven
+1252,6653:0,3,2743,Leuven
+2954,6654:0,633,2743,Heverlee
+542,6655:0,3,2804,Antwerp Central
+543,6656:0,3,2805,Antwerp Central
+543,6656:1,3,2807,Antwerp Central
+543,6656:2,3,2809,Antwerp Central
+543,6656:3,3,2811,Antwerp Central
+543,6656:4,3,2813,Antwerp Central
+543,6657:0,3,2806,Antwerp Central
+543,6658:0,3,2807,Antwerp Central
+543,6659:0,3,2809,Antwerp Central
+543,6659:1,3,2811,Antwerp Central
+304,665:0,3,5476,SPA-GERONSTERE (Belgium)
+543,6660:0,3,2812,Antwerp Central
+543,6661:0,3,2813,Antwerp Central
+543,6661:1,3,2815,Antwerp Central
+543,6662:0,3,2816,Antwerp Central
+2957,6663:0,3,2818,Brussels North
+2957,6663:1,3,2820,Brussels North
+2957,6663:2,3,2822,Brussels North
+2957,6663:3,3,2824,Brussels North
+2958,6664:0,3,2826,Nijvel
+546,6665:0,3,2827,Nijvel
+546,6665:1,3,2829,Nijvel
+121,66669:0,3,5920,LUXEMBOURG (Luxembourg)
+546,6666:0,3,2828,Nijvel
+546,6666:1,3,2830,Nijvel
+546,6666:2,3,2832,Nijvel
+546,6666:3,3,2834,Nijvel
+546,6666:4,3,2836,Nijvel
+546,6666:5,3,2838,Nijvel
+546,6666:6,3,2840,Nijvel
+546,6667:0,3,2831,Nijvel
+546,6667:1,3,2833,Nijvel
+546,6668:0,3,2835,Nijvel
+546,6669:0,3,2837,Nijvel
+546,6669:1,3,2839,Nijvel
+304,666:0,0,5477,SPA-GERONSTERE (Belgium)
+304,666:1,0,5479,SPA-GERONSTERE (Belgium)
+304,666:2,0,5481,SPA-GERONSTERE (Belgium)
+304,666:3,0,5483,SPA-GERONSTERE (Belgium)
+304,666:4,0,5485,SPA-GERONSTERE (Belgium)
+2573,6670:0,576,2838,Charleroi South
+2939,6671:0,3,2855,Leuven
+2939,6671:1,3,2857,Leuven
+2939,6671:10,3,2875,Leuven
+2939,6671:11,3,2877,Leuven
+2939,6671:12,3,2879,Leuven
+2939,6671:13,3,2881,Leuven
+2939,6671:14,3,2883,Leuven
+2939,6671:15,3,2885,Leuven
+2939,6671:16,3,2887,Leuven
+2939,6671:17,3,2889,Leuven
+2939,6671:2,3,2859,Leuven
+2939,6671:3,3,2861,Leuven
+2939,6671:4,3,2863,Leuven
+2939,6671:5,3,2865,Leuven
+2939,6671:6,3,2867,Leuven
+2939,6671:7,3,2869,Leuven
+2939,6671:8,3,2871,Leuven
+2939,6671:9,3,2873,Leuven
+2939,6672:0,363,2856,Leuven
+2939,6672:1,363,2858,Leuven
+2939,6672:10,363,2876,Leuven
+2939,6672:11,363,2878,Leuven
+2939,6672:12,363,2880,Leuven
+2939,6672:13,363,2882,Leuven
+2939,6672:14,363,2884,Leuven
+2939,6672:15,363,2886,Leuven
+2939,6672:16,363,2888,Leuven
+2939,6672:2,363,2860,Leuven
+2939,6672:3,363,2862,Leuven
+2939,6672:4,363,2864,Leuven
+2939,6672:5,363,2866,Leuven
+2939,6672:6,363,2868,Leuven
+2939,6672:7,363,2870,Leuven
+2939,6672:8,363,2872,Leuven
+2939,6672:9,363,2874,Leuven
+2962,6673:0,3,2875,Antwerp Central
+2962,6673:1,3,2877,Antwerp Central
+2962,6673:10,3,2895,Antwerp Central
+2962,6673:11,3,2897,Antwerp Central
+2962,6673:12,3,2899,Antwerp Central
+2962,6673:13,3,2901,Antwerp Central
+2962,6673:14,3,2903,Antwerp Central
+2962,6673:15,3,2905,Antwerp Central
+2962,6673:16,3,2907,Antwerp Central
+2962,6673:17,3,2909,Antwerp Central
+2962,6673:2,3,2879,Antwerp Central
+2962,6673:3,3,2881,Antwerp Central
+2962,6673:4,3,2883,Antwerp Central
+2962,6673:5,3,2885,Antwerp Central
+2962,6673:6,3,2887,Antwerp Central
+2962,6673:7,3,2889,Antwerp Central
+2962,6673:8,3,2891,Antwerp Central
+2962,6673:9,3,2893,Antwerp Central
+2962,6674:0,363,2877,Antwerp Central
+2962,6674:1,363,2879,Antwerp Central
+2962,6674:10,363,2897,Antwerp Central
+2962,6674:11,363,2899,Antwerp Central
+2962,6674:12,363,2901,Antwerp Central
+2962,6674:13,363,2903,Antwerp Central
+2962,6674:14,363,2905,Antwerp Central
+2962,6674:15,363,2907,Antwerp Central
+2962,6674:2,363,2881,Antwerp Central
+2962,6674:3,363,2883,Antwerp Central
+2962,6674:4,363,2885,Antwerp Central
+2962,6674:5,363,2887,Antwerp Central
+2962,6674:6,363,2889,Antwerp Central
+2962,6674:7,363,2891,Antwerp Central
+2962,6674:8,363,2893,Antwerp Central
+2962,6674:9,363,2895,Antwerp Central
+2963,6675:0,0,2893,Aarschot
+2964,6676:0,3,2904,Liege Guillemins
+2964,6677:0,363,2904,Liege Guillemins
+2964,6677:1,363,2906,Liege Guillemins
+2965,6678:0,3,2905,Liege Guillemins
+2965,6679:0,3,2906,Liege Guillemins
+2965,6679:1,3,2908,Liege Guillemins
+2965,6679:10,3,2926,Liege Guillemins
+2965,6679:11,3,2928,Liege Guillemins
+2965,6679:12,3,2930,Liege Guillemins
+2965,6679:13,3,2932,Liege Guillemins
+2965,6679:2,3,2910,Liege Guillemins
+2965,6679:3,3,2912,Liege Guillemins
+2965,6679:4,3,2914,Liege Guillemins
+2965,6679:5,3,2916,Liege Guillemins
+2965,6679:6,3,2918,Liege Guillemins
+2965,6679:7,3,2920,Liege Guillemins
+2965,6679:8,3,2922,Liege Guillemins
+2965,6679:9,3,2924,Liege Guillemins
+304,667:0,370,5482,SPA-GERONSTERE (Belgium)
+2965,6680:0,363,2906,Liege Guillemins
+2965,6680:1,363,2908,Liege Guillemins
+2965,6680:10,363,2926,Liege Guillemins
+2965,6680:11,363,2928,Liege Guillemins
+2965,6680:12,363,2930,Liege Guillemins
+2965,6680:13,363,2932,Liege Guillemins
+2965,6680:2,363,2910,Liege Guillemins
+2965,6680:3,363,2912,Liege Guillemins
+2965,6680:4,363,2914,Liege Guillemins
+2965,6680:5,363,2916,Liege Guillemins
+2965,6680:6,363,2918,Liege Guillemins
+2965,6680:7,363,2920,Liege Guillemins
+2965,6680:8,363,2922,Liege Guillemins
+2965,6680:9,363,2924,Liege Guillemins
+2966,6681:0,3,2920,Tongeren
+2966,6682:0,363,2920,Tongeren
+2967,6683:0,3,2921,Hasselt
+2967,6683:1,3,2923,Hasselt
+2966,6684:0,363,2921,Tongeren
+2967,6685:0,363,2922,Hasselt
+864,6686:0,3,2926,Antwerp Central
+864,6687:0,363,2927,Antwerp Central
+2970,6688:0,3,2927,Antwerp Central
+2971,6689:0,363,2928,Antwerp Central
+2971,6689:1,363,2930,Antwerp Central
+2971,6689:2,363,2932,Antwerp Central
+2971,6689:3,363,2934,Antwerp Central
+2971,6689:4,363,2936,Antwerp Central
+304,668:0,422,5482,SPA-GERONSTERE (Belgium)
+2971,6690:0,3,2928,Antwerp Central
+2971,6690:1,3,2930,Antwerp Central
+2971,6690:2,3,2932,Antwerp Central
+2971,6691:0,3,2929,Antwerp Central
+2971,6691:1,3,2931,Antwerp Central
+2971,6691:2,3,2933,Antwerp Central
+2971,6692:0,3,2930,Antwerp Central
+2971,6692:1,3,2932,Antwerp Central
+2971,6692:2,3,2934,Antwerp Central
+2971,6692:3,3,2936,Antwerp Central
+2971,6692:4,3,2938,Antwerp Central
+2971,6693:0,3,2932,Antwerp Central
+2971,6693:1,3,2934,Antwerp Central
+2971,6694:0,363,2933,Antwerp Central
+2971,6695:0,363,2934,Antwerp Central
+2971,6695:1,363,2936,Antwerp Central
+2971,6695:2,363,2938,Antwerp Central
+2971,6695:3,363,2940,Antwerp Central
+2971,6695:4,363,2942,Antwerp Central
+2971,6695:5,363,2944,Antwerp Central
+2971,6695:6,363,2946,Antwerp Central
+2971,6695:7,363,2948,Antwerp Central
+2971,6695:8,363,2950,Antwerp Central
+2971,6696:0,3,2938,Antwerp Central
+2971,6697:0,3,2940,Antwerp Central
+2971,6697:1,3,2942,Antwerp Central
+2971,6698:0,363,2943,Antwerp Central
+2972,6699:0,3,2955,Mol
+2972,6699:1,3,2957,Mol
+304,669:0,0,5483,SPA-GERONSTERE (Belgium)
+304,669:1,0,5485,SPA-GERONSTERE (Belgium)
+304,669:2,0,5487,SPA-GERONSTERE (Belgium)
+304,669:3,0,5489,SPA-GERONSTERE (Belgium)
+304,669:4,0,5491,SPA-GERONSTERE (Belgium)
+304,669:5,0,5493,SPA-GERONSTERE (Belgium)
+304,669:6,0,5495,SPA-GERONSTERE (Belgium)
+304,669:7,0,5497,SPA-GERONSTERE (Belgium)
+304,669:8,0,5499,SPA-GERONSTERE (Belgium)
+304,669:9,0,5501,SPA-GERONSTERE (Belgium)
+2972,6700:0,3,2956,Mol
+2972,6700:1,3,2958,Mol
+2972,6700:2,3,2960,Mol
+2972,6700:3,3,2962,Mol
+2972,6700:4,3,2964,Mol
+2972,6700:5,3,2966,Mol
+2972,6700:6,3,2968,Mol
+2767,6701:0,3,2959,Herentals
+2767,6701:1,3,2961,Herentals
+2767,6701:2,3,2963,Herentals
+2972,6702:0,3,2965,Mol
+2972,6702:1,3,2967,Mol
+2972,6702:2,3,2969,Mol
+2767,6703:0,3,2970,Herentals
+2767,6703:1,3,2972,Herentals
+2974,6704:0,3,2976,Antwerp Central
+2975,6705:0,3,2977,Antwerp Central
+2974,6706:0,3,2978,Antwerp Central
+2974,6707:0,3,2979,Antwerp Central
+2974,6707:1,3,2981,Antwerp Central
+2974,6707:2,3,2983,Antwerp Central
+2974,6707:3,3,2985,Antwerp Central
+2974,6707:4,3,2987,Antwerp Central
+2974,6707:5,3,2989,Antwerp Central
+2765,6708:0,3,2980,Antwerp Central
+2765,6708:1,3,2982,Antwerp Central
+2765,6708:2,3,2984,Antwerp Central
+2765,6708:3,3,2986,Antwerp Central
+2974,6709:0,3,2988,Antwerp Central
+2974,6709:1,3,2990,Antwerp Central
+305,670:0,4,5507,Basse Wavre
+2765,6710:0,3,2991,Antwerp Central
+2765,6710:1,3,2993,Antwerp Central
+2942,6711:0,3,3007,Ghent Sint Pieters
+306,671:0,4,5516,Waver
+306,672:0,4,5517,Waver
+307,673:0,4,5528,Schaarbeek
+20950,67480:0,420,1262,DEN HAAG HS (Netherlands)
+20950,67480:1,420,1264,DEN HAAG HS (Netherlands)
+20950,67481:0,363,1262,DEN HAAG HS (Netherlands)
+20950,67482:0,11882,1266,DEN HAAG HS (Netherlands)
+20950,67483:0,876,1266,DEN HAAG HS (Netherlands)
+307,674:0,4,5529,Schaarbeek
+20950,67507:0,3,1210,DEN HAAG HS (Netherlands)
+20950,67507:1,3,1212,DEN HAAG HS (Netherlands)
+20950,67508:0,726,1210,DEN HAAG HS (Netherlands)
+20955,67509:0,610,1210,ROOSENDAAL (Netherlands)
+20950,67517:0,3,1218,DEN HAAG HS (Netherlands)
+20950,67517:1,3,1220,DEN HAAG HS (Netherlands)
+20950,67518:0,363,1218,DEN HAAG HS (Netherlands)
+20950,67518:1,363,1220,DEN HAAG HS (Netherlands)
+20950,67519:0,363,1234,DEN HAAG HS (Netherlands)
+20950,67519:1,363,1236,DEN HAAG HS (Netherlands)
+20950,67520:0,11890,1250,DEN HAAG HS (Netherlands)
+20950,67521:0,11891,1250,DEN HAAG HS (Netherlands)
+20950,67522:0,11892,1250,DEN HAAG HS (Netherlands)
+20950,67523:0,27,1250,DEN HAAG HS (Netherlands)
+20950,67524:0,876,1250,DEN HAAG HS (Netherlands)
+307,675:0,4,5537,Schaarbeek
+310,676:0,3,5555,Marloie
+311,677:0,363,5556,Jemelle
+310,678:0,3,5556,Marloie
+312,679:0,363,5558,Jemelle
+311,680:0,3,5558,Jemelle
+312,681:0,3,5560,Jemelle
+312,681:1,3,5562,Jemelle
+312,682:0,363,5560,Jemelle
+312,682:1,363,5562,Jemelle
+312,682:2,363,5564,Jemelle
+312,682:3,363,5566,Jemelle
+312,682:4,363,5568,Jemelle
+312,682:5,363,5570,Jemelle
+312,683:0,3,5564,Jemelle
+312,684:0,3,5565,Jemelle
+312,684:1,3,5567,Jemelle
+312,685:0,3,5566,Jemelle
+312,686:0,3,5567,Jemelle
+312,686:1,3,5569,Jemelle
+312,687:0,0,5572,Jemelle
+313,688:0,3,5575,Herstal
+313,689:0,363,5577,Herstal
+313,690:0,3,5577,Herstal
+1236,69140:0,3,2573,Essen
+542,69141:0,363,2573,Antwerp Central
+21467,69142:0,363,2593,Malines
+127,69143:0,621,4730,LUXEMBOURG (Luxembourg)
+127,69143:1,621,4732,LUXEMBOURG (Luxembourg)
+21468,69144:0,1607,4731,LUXEMBOURG (Luxembourg)
+21468,69144:1,1607,4733,LUXEMBOURG (Luxembourg)
+127,69145:0,1691,1699,LUXEMBOURG (Luxembourg)
+127,69145:1,1691,1701,LUXEMBOURG (Luxembourg)
+21468,69146:0,1607,4732,LUXEMBOURG (Luxembourg)
+21468,69146:1,1607,4734,LUXEMBOURG (Luxembourg)
+21468,69146:2,1607,4736,LUXEMBOURG (Luxembourg)
+127,69147:0,1691,1701,LUXEMBOURG (Luxembourg)
+127,69147:1,1691,1703,LUXEMBOURG (Luxembourg)
+127,69147:2,1691,1705,LUXEMBOURG (Luxembourg)
+127,69148:0,621,5079,LUXEMBOURG (Luxembourg)
+127,69148:1,621,5081,LUXEMBOURG (Luxembourg)
+127,69149:0,369,5095,LUXEMBOURG (Luxembourg)
+127,69149:1,369,5097,LUXEMBOURG (Luxembourg)
+127,69149:2,369,5099,LUXEMBOURG (Luxembourg)
+127,69149:3,369,5101,LUXEMBOURG (Luxembourg)
+854,69150:0,491,7181,LUXEMBOURG (Luxembourg)
+127,69151:0,491,7687,LUXEMBOURG (Luxembourg)
+127,69152:0,621,7688,LUXEMBOURG (Luxembourg)
+21471,69153:0,491,8617,Virton
+21471,69153:1,491,8619,Virton
+21471,69153:2,491,8621,Virton
+127,69155:0,1582,1703,LUXEMBOURG (Luxembourg)
+314,691:0,3,5578,Herstal
+313,692:0,363,5579,Herstal
+313,692:1,363,5581,Herstal
+313,692:2,363,5583,Herstal
+313,693:0,3,5579,Herstal
+313,694:0,363,5581,Herstal
+313,695:0,3,5581,Herstal
+313,695:1,3,5583,Herstal
+313,695:2,3,5585,Herstal
+313,696:0,363,5583,Herstal
+313,696:1,363,5585,Herstal
+313,697:0,3,5587,Herstal
+313,698:0,363,5589,Herstal
+313,699:0,3,5589,Herstal
+313,700:0,3,5591,Herstal
+313,700:1,3,5593,Herstal
+315,701:0,363,5593,Liers
+316,702:0,3,5655,Tamines
+317,703:0,363,5656,Namen
+317,703:1,363,5658,Namen
+317,703:2,363,5660,Namen
+317,703:3,363,5662,Namen
+316,704:0,3,5656,Tamines
+20950,70510:0,11882,1222,DEN HAAG HS (Netherlands)
+20950,70510:1,11882,1224,DEN HAAG HS (Netherlands)
+20950,70511:0,876,1222,DEN HAAG HS (Netherlands)
+20950,70511:1,876,1224,DEN HAAG HS (Netherlands)
+319,705:0,4,5657,Tamines
+316,706:0,368,5657,Tamines
+2942,7070:0,578,3008,Ghent Sint Pieters
+2942,7070:1,578,3010,Ghent Sint Pieters
+3101,7071:0,579,3008,Blankenberge
+3101,7071:1,579,3010,Blankenberge
+2942,7072:0,4,3010,Ghent Sint Pieters
+2942,7072:1,4,3012,Ghent Sint Pieters
+2942,7072:2,4,3014,Ghent Sint Pieters
+2942,7072:3,4,3016,Ghent Sint Pieters
+2942,7072:4,4,3018,Ghent Sint Pieters
+2942,7072:5,4,3020,Ghent Sint Pieters
+2942,7073:0,3,3016,Ghent Sint Pieters
+2942,7073:1,3,3018,Ghent Sint Pieters
+2942,7073:2,3,3020,Ghent Sint Pieters
+2000,7074:0,4,3026,Antwerp Central
+2000,7075:0,3,3027,Antwerp Central
+2000,7075:1,3,3029,Antwerp Central
+2000,7075:2,3,3031,Antwerp Central
+2000,7076:0,4,3030,Antwerp Central
+2000,7076:1,4,3032,Antwerp Central
+2000,7076:2,4,3034,Antwerp Central
+2000,7076:3,4,3036,Antwerp Central
+2000,7076:4,4,3038,Antwerp Central
+2000,7076:5,4,3040,Antwerp Central
+2000,7077:0,3,3036,Antwerp Central
+2000,7077:1,3,3038,Antwerp Central
+3103,7078:0,579,3038,Antwerp Central
+2000,7079:0,578,3038,Antwerp Central
+320,707:0,3,5658,Namen
+320,707:1,3,5660,Namen
+320,707:2,3,5662,Namen
+320,707:3,3,5664,Namen
+320,707:4,3,5666,Namen
+320,707:5,3,5668,Namen
+320,707:6,3,5670,Namen
+2957,7080:0,363,3056,Brussels North
+2957,7080:1,363,3058,Brussels North
+2957,7080:10,363,3076,Brussels North
+2957,7080:11,363,3078,Brussels North
+2957,7080:12,363,3080,Brussels North
+2957,7080:13,363,3082,Brussels North
+2957,7080:14,363,3084,Brussels North
+2957,7080:15,363,3086,Brussels North
+2957,7080:16,363,3088,Brussels North
+2957,7080:17,363,3090,Brussels North
+2957,7080:2,363,3060,Brussels North
+2957,7080:3,363,3062,Brussels North
+2957,7080:4,363,3064,Brussels North
+2957,7080:5,363,3066,Brussels North
+2957,7080:6,363,3068,Brussels North
+2957,7080:7,363,3070,Brussels North
+2957,7080:8,363,3072,Brussels North
+2957,7080:9,363,3074,Brussels North
+785,7081:0,3,3056,Ottignies
+785,7081:1,3,3058,Ottignies
+785,7081:2,3,3060,Ottignies
+785,7081:3,3,3062,Ottignies
+785,7081:4,3,3064,Ottignies
+785,7081:5,3,3066,Ottignies
+785,7081:6,3,3068,Ottignies
+785,7081:7,3,3070,Ottignies
+785,7081:8,3,3072,Ottignies
+785,7081:9,3,3074,Ottignies
+785,7082:0,3,3066,Ottignies
+785,7082:1,3,3068,Ottignies
+785,7083:0,3,3067,Ottignies
+785,7084:0,3,3069,Ottignies
+801,7085:0,3,3070,Ottignies
+801,7085:1,3,3072,Ottignies
+801,7085:2,3,3074,Ottignies
+2958,7086:0,363,3076,Nijvel
+2958,7086:1,363,3078,Nijvel
+2958,7086:10,363,3096,Nijvel
+2958,7086:11,363,3098,Nijvel
+2958,7086:12,363,3100,Nijvel
+2958,7086:13,363,3102,Nijvel
+2958,7086:14,363,3104,Nijvel
+2958,7086:15,363,3106,Nijvel
+2958,7086:16,363,3108,Nijvel
+2958,7086:17,363,3110,Nijvel
+2958,7086:2,363,3080,Nijvel
+2958,7086:3,363,3082,Nijvel
+2958,7086:4,363,3084,Nijvel
+2958,7086:5,363,3086,Nijvel
+2958,7086:6,363,3088,Nijvel
+2958,7086:7,363,3090,Nijvel
+2958,7086:8,363,3092,Nijvel
+2958,7086:9,363,3094,Nijvel
+788,7087:0,3,3076,Leuven
+788,7087:1,3,3078,Leuven
+788,7088:0,3,3078,Leuven
+788,7089:0,3,3079,Leuven
+788,7089:1,3,3081,Leuven
+788,7089:2,3,3083,Leuven
+788,7089:3,3,3085,Leuven
+788,7089:4,3,3087,Leuven
+788,7089:5,3,3089,Leuven
+317,708:0,363,5664,Namen
+788,7090:0,3,3085,Leuven
+788,7091:0,3,3086,Leuven
+788,7091:1,3,3088,Leuven
+788,7091:2,3,3090,Leuven
+788,7091:3,3,3092,Leuven
+800,7092:0,3,3090,Waver
+800,7092:1,3,3092,Waver
+800,7092:2,3,3094,Waver
+800,7093:0,3,3093,Waver
+2440,7094:0,3,3104,Antwerp Central
+821,7095:0,3,3105,Antwerp Central
+821,7096:0,3,3106,Antwerp Central
+821,7097:0,3,3107,Antwerp Central
+821,7098:0,3,3108,Antwerp Central
+821,7098:1,3,3110,Antwerp Central
+821,7098:2,3,3112,Antwerp Central
+821,7098:3,3,3114,Antwerp Central
+821,7098:4,3,3116,Antwerp Central
+821,7098:5,3,3118,Antwerp Central
+821,7098:6,3,3120,Antwerp Central
+821,7098:7,3,3122,Antwerp Central
+821,7099:0,3,3116,Antwerp Central
+316,709:0,3,5665,Tamines
+316,709:1,3,5667,Tamines
+821,7100:0,3,3117,Antwerp Central
+821,7101:0,3,3118,Antwerp Central
+821,7101:1,3,3120,Antwerp Central
+3109,7102:0,3,3126,Courtrai
+3110,7103:0,3,3127,Geraardsbergen
+1803,7104:0,3,3127,Courtrai
+1803,7105:0,3,3128,Courtrai
+1803,7105:1,3,3130,Courtrai
+1803,7105:2,3,3132,Courtrai
+1803,7105:3,3,3134,Courtrai
+1803,7105:4,3,3136,Courtrai
+1803,7105:5,3,3138,Courtrai
+1803,7105:6,3,3140,Courtrai
+1803,7105:7,3,3142,Courtrai
+1803,7105:8,3,3144,Courtrai
+1803,7105:9,3,3146,Courtrai
+3110,7106:0,3,3128,Geraardsbergen
+3114,7107:0,363,3128,Ath
+3114,7107:1,363,3130,Ath
+3114,7107:2,363,3132,Ath
+3114,7107:3,363,3134,Ath
+3114,7107:4,363,3136,Ath
+3114,7107:5,363,3138,Ath
+3114,7107:6,363,3140,Ath
+3110,7108:0,3,3129,Geraardsbergen
+3110,7108:1,3,3131,Geraardsbergen
+3110,7108:2,3,3133,Geraardsbergen
+3110,7108:3,3,3135,Geraardsbergen
+3110,7108:4,3,3137,Geraardsbergen
+3110,7108:5,3,3139,Geraardsbergen
+3110,7108:6,3,3141,Geraardsbergen
+3110,7108:7,3,3143,Geraardsbergen
+3110,7108:8,3,3145,Geraardsbergen
+1803,7109:0,3,3138,Courtrai
+317,710:0,363,5666,Namen
+317,710:1,363,5668,Namen
+3110,7110:0,3,3138,Geraardsbergen
+1803,7111:0,3,3139,Courtrai
+1803,7111:1,3,3141,Courtrai
+3110,7112:0,3,3139,Geraardsbergen
+3110,7112:1,3,3141,Geraardsbergen
+3115,7113:0,3,3141,Tournai
+3110,7114:0,3,3141,Geraardsbergen
+3117,7115:0,363,3142,Geraardsbergen
+3110,7116:0,3,3142,Geraardsbergen
+3110,7116:1,3,3144,Geraardsbergen
+3110,7116:2,3,3146,Geraardsbergen
+3119,7117:0,3,3145,Ath
+548,7118:0,3,3146,Brussels South
+3121,7119:0,3,3206,Neerpelt
+3121,7119:1,3,3208,Neerpelt
+3121,7119:10,3,3226,Neerpelt
+3121,7119:11,3,3228,Neerpelt
+3121,7119:12,3,3230,Neerpelt
+3121,7119:13,3,3232,Neerpelt
+3121,7119:14,3,3234,Neerpelt
+3121,7119:15,3,3236,Neerpelt
+3121,7119:2,3,3210,Neerpelt
+3121,7119:3,3,3212,Neerpelt
+3121,7119:4,3,3214,Neerpelt
+3121,7119:5,3,3216,Neerpelt
+3121,7119:6,3,3218,Neerpelt
+3121,7119:7,3,3220,Neerpelt
+3121,7119:8,3,3222,Neerpelt
+3121,7119:9,3,3224,Neerpelt
+319,711:0,4,5667,Tamines
+2967,7120:0,3,3206,Hasselt
+2967,7120:1,3,3208,Hasselt
+2967,7120:10,3,3226,Hasselt
+2967,7120:11,3,3228,Hasselt
+2967,7120:12,3,3230,Hasselt
+2967,7120:13,3,3232,Hasselt
+2967,7120:14,3,3234,Hasselt
+2967,7120:15,3,3236,Hasselt
+2967,7120:2,3,3210,Hasselt
+2967,7120:3,3,3212,Hasselt
+2967,7120:4,3,3214,Hasselt
+2967,7120:5,3,3216,Hasselt
+2967,7120:6,3,3218,Hasselt
+2967,7120:7,3,3220,Hasselt
+2967,7120:8,3,3222,Hasselt
+2967,7120:9,3,3224,Hasselt
+3121,7121:0,363,3206,Neerpelt
+3121,7121:1,363,3208,Neerpelt
+3121,7121:10,363,3226,Neerpelt
+3121,7121:11,363,3228,Neerpelt
+3121,7121:12,363,3230,Neerpelt
+3121,7121:13,363,3232,Neerpelt
+3121,7121:14,363,3234,Neerpelt
+3121,7121:15,363,3236,Neerpelt
+3121,7121:16,363,3238,Neerpelt
+3121,7121:2,363,3210,Neerpelt
+3121,7121:3,363,3212,Neerpelt
+3121,7121:4,363,3214,Neerpelt
+3121,7121:5,363,3216,Neerpelt
+3121,7121:6,363,3218,Neerpelt
+3121,7121:7,363,3220,Neerpelt
+3121,7121:8,363,3222,Neerpelt
+3121,7121:9,363,3224,Neerpelt
+3121,7122:0,3,3223,Neerpelt
+2972,7123:0,363,3224,Mol
+2972,7124:0,3,3224,Mol
+2974,7125:0,363,3225,Antwerp Central
+2975,7126:0,3,3225,Antwerp Central
+2975,7127:0,363,3226,Antwerp Central
+2975,7127:1,363,3228,Antwerp Central
+2975,7127:10,363,3246,Antwerp Central
+2975,7127:11,363,3248,Antwerp Central
+2975,7127:12,363,3250,Antwerp Central
+2975,7127:13,363,3252,Antwerp Central
+2975,7127:14,363,3254,Antwerp Central
+2975,7127:15,363,3256,Antwerp Central
+2975,7127:16,363,3258,Antwerp Central
+2975,7127:2,363,3230,Antwerp Central
+2975,7127:3,363,3232,Antwerp Central
+2975,7127:4,363,3234,Antwerp Central
+2975,7127:5,363,3236,Antwerp Central
+2975,7127:6,363,3238,Antwerp Central
+2975,7127:7,363,3240,Antwerp Central
+2975,7127:8,363,3242,Antwerp Central
+2975,7127:9,363,3244,Antwerp Central
+2975,7128:0,3,3226,Antwerp Central
+2975,7129:0,3,3227,Antwerp Central
+316,712:0,368,5667,Tamines
+2975,7130:0,3,3228,Antwerp Central
+2975,7130:1,3,3230,Antwerp Central
+2975,7130:10,3,3248,Antwerp Central
+2975,7130:2,3,3232,Antwerp Central
+2975,7130:3,3,3234,Antwerp Central
+2975,7130:4,3,3236,Antwerp Central
+2975,7130:5,3,3238,Antwerp Central
+2975,7130:6,3,3240,Antwerp Central
+2975,7130:7,3,3242,Antwerp Central
+2975,7130:8,3,3244,Antwerp Central
+2975,7130:9,3,3246,Antwerp Central
+2975,7131:0,3,3239,Antwerp Central
+2975,7131:1,3,3241,Antwerp Central
+2975,7132:0,3,3241,Antwerp Central
+2975,7133:0,3,3242,Antwerp Central
+1107,7134:0,3,3255,Antwerp Central
+1107,7134:1,3,3257,Antwerp Central
+1107,7135:0,3,3257,Antwerp Central
+1107,7136:0,3,3258,Antwerp Central
+1107,7136:1,3,3260,Antwerp Central
+1107,7136:2,3,3262,Antwerp Central
+1107,7136:3,3,3264,Antwerp Central
+1107,7136:4,3,3266,Antwerp Central
+1107,7136:5,3,3268,Antwerp Central
+1107,7136:6,3,3270,Antwerp Central
+1107,7136:7,3,3272,Antwerp Central
+1107,7136:8,3,3274,Antwerp Central
+1107,7137:0,3,3267,Antwerp Central
+1107,7138:0,3,3268,Antwerp Central
+1107,7138:1,3,3270,Antwerp Central
+1107,7138:2,3,3272,Antwerp Central
+1107,7138:3,3,3274,Antwerp Central
+1107,7139:0,3,3272,Antwerp Central
+316,713:0,3,5668,Tamines
+542,7140:0,363,3306,Antwerp Central
+542,7140:1,363,3308,Antwerp Central
+542,7140:10,363,3326,Antwerp Central
+542,7140:11,363,3328,Antwerp Central
+542,7140:12,363,3330,Antwerp Central
+542,7140:13,363,3332,Antwerp Central
+542,7140:14,363,3334,Antwerp Central
+542,7140:15,363,3336,Antwerp Central
+542,7140:16,363,3338,Antwerp Central
+542,7140:17,363,3340,Antwerp Central
+542,7140:2,363,3310,Antwerp Central
+542,7140:3,363,3312,Antwerp Central
+542,7140:4,363,3314,Antwerp Central
+542,7140:5,363,3316,Antwerp Central
+542,7140:6,363,3318,Antwerp Central
+542,7140:7,363,3320,Antwerp Central
+542,7140:8,363,3322,Antwerp Central
+542,7140:9,363,3324,Antwerp Central
+542,7141:0,576,3306,Antwerp Central
+542,7141:1,576,3308,Antwerp Central
+542,7142:0,576,3307,Antwerp Central
+542,7143:0,4,3310,Antwerp Central
+542,7143:1,4,3312,Antwerp Central
+542,7143:2,4,3314,Antwerp Central
+542,7143:3,4,3316,Antwerp Central
+542,7143:4,4,3318,Antwerp Central
+542,7144:0,576,3315,Antwerp Central
+542,7144:1,576,3317,Antwerp Central
+542,7145:0,576,3316,Antwerp Central
+542,7145:1,576,3318,Antwerp Central
+542,7146:0,576,3319,Antwerp Central
+542,7147:0,4,3320,Antwerp Central
+548,7148:0,576,3326,Brussels South
+548,7149:0,363,3326,Brussels South
+548,7149:1,363,3328,Brussels South
+316,714:0,3,5669,Tamines
+316,714:1,3,5671,Tamines
+316,714:2,3,5673,Tamines
+548,7150:0,576,3327,Brussels South
+548,7150:1,576,3329,Brussels South
+548,7151:0,363,3327,Brussels South
+548,7152:0,363,3329,Brussels South
+548,7153:0,576,3329,Brussels South
+548,7153:1,576,3331,Brussels South
+548,7154:0,363,3330,Brussels South
+548,7154:1,363,3332,Brussels South
+548,7154:10,363,3350,Brussels South
+548,7154:11,363,3352,Brussels South
+548,7154:12,363,3354,Brussels South
+548,7154:13,363,3356,Brussels South
+548,7154:2,363,3334,Brussels South
+548,7154:3,363,3336,Brussels South
+548,7154:4,363,3338,Brussels South
+548,7154:5,363,3340,Brussels South
+548,7154:6,363,3342,Brussels South
+548,7154:7,363,3344,Brussels South
+548,7154:8,363,3346,Brussels South
+548,7154:9,363,3348,Brussels South
+548,7155:0,4,3330,Brussels South
+548,7155:1,4,3332,Brussels South
+548,7155:2,4,3334,Brussels South
+548,7155:3,4,3336,Brussels South
+548,7155:4,4,3338,Brussels South
+3134,7156:0,576,3336,Brussels North
+3110,7157:0,576,3336,Geraardsbergen
+3110,7158:0,4,3337,Geraardsbergen
+3134,7159:0,4,3337,Brussels North
+317,715:0,363,5670,Namen
+548,7160:0,632,3337,Brussels South
+548,7161:0,576,3338,Brussels South
+548,7161:1,576,3340,Brussels South
+548,7162:0,4,3340,Brussels South
+3136,7163:0,3,3356,Vilvoorde
+3137,7164:0,368,3357,Malines
+3138,7165:0,4,3357,Malines
+3136,7166:0,3,3358,Vilvoorde
+3136,7166:1,3,3360,Vilvoorde
+3136,7166:2,3,3362,Vilvoorde
+3136,7166:3,3,3364,Vilvoorde
+3136,7166:4,3,3366,Vilvoorde
+3136,7166:5,3,3368,Vilvoorde
+3136,7166:6,3,3370,Vilvoorde
+3137,7167:0,3,3365,Malines
+3139,7168:0,3,3366,Leuven
+3136,7169:0,3,3367,Vilvoorde
+3136,7169:1,3,3369,Vilvoorde
+3136,7169:2,3,3371,Vilvoorde
+145,716:0,3,5675,Liege Palais
+3140,7170:0,3,3377,Halle
+20950,71716:0,3,1206,DEN HAAG HS (Netherlands)
+20950,71717:0,12179,1206,DEN HAAG HS (Netherlands)
+20950,71718:0,3,1230,DEN HAAG HS (Netherlands)
+20950,71718:1,3,1232,DEN HAAG HS (Netherlands)
+20950,71719:0,3,1246,DEN HAAG HS (Netherlands)
+3141,7171:0,3,3378,Halle
+20950,71720:0,3,1254,DEN HAAG HS (Netherlands)
+20950,71721:0,12180,1254,DEN HAAG HS (Netherlands)
+20950,71722:0,27,1254,DEN HAAG HS (Netherlands)
+2353,71723:0,3,1826,Ostend
+2797,71724:0,12181,2624,Malines
+22028,71725:0,363,2625,Brussels Airport
+22028,71725:1,363,2627,Brussels Airport
+22028,71725:10,363,2645,Brussels Airport
+22028,71725:11,363,2647,Brussels Airport
+22028,71725:12,363,2649,Brussels Airport
+22028,71725:13,363,2651,Brussels Airport
+22028,71725:14,363,2653,Brussels Airport
+22028,71725:15,363,2655,Brussels Airport
+22028,71725:16,363,2657,Brussels Airport
+22028,71725:17,363,2659,Brussels Airport
+22028,71725:18,363,2661,Brussels Airport
+22028,71725:2,363,2629,Brussels Airport
+22028,71725:3,363,2631,Brussels Airport
+22028,71725:4,363,2633,Brussels Airport
+22028,71725:5,363,2635,Brussels Airport
+22028,71725:6,363,2637,Brussels Airport
+22028,71725:7,363,2639,Brussels Airport
+22028,71725:8,363,2641,Brussels Airport
+22028,71725:9,363,2643,Brussels Airport
+3142,7172:0,3,3379,Halle
+3142,7172:1,3,3381,Halle
+3140,7173:0,3,3380,Halle
+3140,7173:1,3,3382,Halle
+3140,7173:2,3,3384,Halle
+3140,7173:3,3,3386,Halle
+3140,7173:4,3,3388,Halle
+3140,7173:5,3,3390,Halle
+3140,7173:6,3,3392,Halle
+3142,7174:0,3,3388,Halle
+3140,7175:0,3,3389,Halle
+3140,7175:1,3,3391,Halle
+321,717:0,3,5676,Hoei
+322,718:0,363,5677,Liege Guillemins
+322,718:1,363,5679,Liege Guillemins
+322,718:2,363,5681,Liege Guillemins
+322,718:3,363,5683,Liege Guillemins
+322,718:4,363,5685,Liege Guillemins
+322,718:5,363,5687,Liege Guillemins
+322,718:6,363,5689,Liege Guillemins
+322,718:7,363,5691,Liege Guillemins
+323,719:0,4,5677,Herstal
+324,720:0,368,5677,Hoei
+324,721:0,3,5678,Hoei
+2595,72269:0,3,2129,Brussels South
+2595,72270:0,698,2129,Brussels South
+22128,72271:0,699,2129,Ostend
+2595,72272:0,3,2130,Brussels South
+2595,72272:1,3,2132,Brussels South
+2595,72272:2,3,2134,Brussels South
+2595,72273:0,698,2130,Brussels South
+22128,72274:0,699,2130,Ostend
+2595,72275:0,363,2131,Brussels South
+2595,72275:1,363,2133,Brussels South
+2595,72275:2,363,2135,Brussels South
+2595,72275:3,363,2137,Brussels South
+2595,72275:4,363,2139,Brussels South
+2595,72275:5,363,2141,Brussels South
+2595,72275:6,363,2143,Brussels South
+2595,72276:0,3,2133,Brussels South
+2595,72277:0,3,2134,Brussels South
+2595,72277:1,3,2136,Brussels South
+2595,72278:0,3,2135,Brussels South
+2595,72278:1,3,2137,Brussels South
+2595,72279:0,3,2137,Brussels South
+2595,72280:0,3,2138,Brussels South
+2595,72281:0,363,2138,Brussels South
+2595,72282:0,3,2139,Brussels South
+2595,72283:0,12215,2139,Brussels South
+2595,72284:0,12216,2139,Brussels South
+2595,72285:0,363,2140,Brussels South
+2595,72286:0,3,2140,Brussels South
+2595,72287:0,363,2141,Brussels South
+2595,72288:0,363,2142,Brussels South
+2595,72289:0,3,2142,Brussels South
+2595,72290:0,363,2143,Brussels South
+2595,72291:0,3,2143,Brussels South
+22130,72292:0,3,2144,Namen
+22131,72293:0,363,2144,Jemelle
+22132,72294:0,363,5025,Liege Guillemins
+22133,72295:0,3,5028,Liers
+22134,72296:0,3,5038,Welkenraedt
+324,722:0,3,5679,Hoei
+326,723:0,3,5680,Hoei
+326,723:1,3,5682,Hoei
+326,723:2,3,5684,Hoei
+326,723:3,3,5686,Hoei
+326,723:4,3,5688,Hoei
+326,723:5,3,5690,Hoei
+326,723:6,3,5692,Hoei
+324,724:0,3,5687,Hoei
+324,725:0,3,5688,Hoei
+3312,7592:0,3,3405,Turnhout
+3312,7592:1,3,3407,Turnhout
+3312,7593:0,3,3407,Turnhout
+3312,7594:0,3,3408,Turnhout
+3312,7594:1,3,3410,Turnhout
+3312,7594:10,3,3428,Turnhout
+3312,7594:11,3,3430,Turnhout
+3312,7594:12,3,3432,Turnhout
+3312,7594:13,3,3434,Turnhout
+3312,7594:14,3,3436,Turnhout
+3312,7594:2,3,3412,Turnhout
+3312,7594:3,3,3414,Turnhout
+3312,7594:4,3,3416,Turnhout
+3312,7594:5,3,3418,Turnhout
+3312,7594:6,3,3420,Turnhout
+3312,7594:7,3,3422,Turnhout
+3312,7594:8,3,3424,Turnhout
+3312,7594:9,3,3426,Turnhout
+3313,7595:0,3,3426,Brussels South
+3313,7596:0,3,3427,Brussels South
+3313,7596:1,3,3429,Brussels South
+3313,7597:0,3,3429,Brussels South
+3313,7597:1,3,3431,Brussels South
+3313,7597:10,3,3449,Brussels South
+3313,7597:2,3,3433,Brussels South
+3313,7597:3,3,3435,Brussels South
+3313,7597:4,3,3437,Brussels South
+3313,7597:5,3,3439,Brussels South
+3313,7597:6,3,3441,Brussels South
+3313,7597:7,3,3443,Brussels South
+3313,7597:8,3,3445,Brussels South
+3313,7597:9,3,3447,Brussels South
+3313,7598:0,3,3440,Brussels South
+3313,7598:1,3,3442,Brussels South
+3313,7599:0,3,3442,Brussels South
+3313,7599:1,3,3444,Brussels South
+3137,7600:0,3,3456,Malines
+3137,7601:0,3,3457,Malines
+3137,7601:1,3,3459,Malines
+3137,7601:10,3,3477,Malines
+3137,7601:11,3,3479,Malines
+3137,7601:2,3,3461,Malines
+3137,7601:3,3,3463,Malines
+3137,7601:4,3,3465,Malines
+3137,7601:5,3,3467,Malines
+3137,7601:6,3,3469,Malines
+3137,7601:7,3,3471,Malines
+3137,7601:8,3,3473,Malines
+3137,7601:9,3,3475,Malines
+3137,7602:0,3,3469,Malines
+3142,7603:0,3,3476,Halle
+3142,7603:1,3,3478,Halle
+3142,7604:0,3,3478,Halle
+3142,7605:0,3,3479,Halle
+3142,7605:1,3,3481,Halle
+3142,7605:10,3,3499,Halle
+3142,7605:2,3,3483,Halle
+3142,7605:3,3,3485,Halle
+3142,7605:4,3,3487,Halle
+3142,7605:5,3,3489,Halle
+3142,7605:6,3,3491,Halle
+3142,7605:7,3,3493,Halle
+3142,7605:8,3,3495,Halle
+3142,7605:9,3,3497,Halle
+3316,7606:0,363,3504,Brussels Airport
+3317,7607:0,3,3504,Brussels Airport
+3317,7608:0,363,3505,Brussels Airport
+3317,7608:1,363,3507,Brussels Airport
+3317,7609:0,3,3505,Brussels Airport
+3317,7610:0,3,3506,Brussels Airport
+3318,7611:0,363,3507,Brussels Airport
+3318,7611:1,363,3509,Brussels Airport
+3318,7611:10,363,3527,Brussels Airport
+3318,7611:2,363,3511,Brussels Airport
+3318,7611:3,363,3513,Brussels Airport
+3318,7611:4,363,3515,Brussels Airport
+3318,7611:5,363,3517,Brussels Airport
+3318,7611:6,363,3519,Brussels Airport
+3318,7611:7,363,3521,Brussels Airport
+3318,7611:8,363,3523,Brussels Airport
+3318,7611:9,363,3525,Brussels Airport
+3317,7612:0,3,3507,Brussels Airport
+3317,7613:0,3,3508,Brussels Airport
+3317,7613:1,3,3510,Brussels Airport
+3317,7613:2,3,3512,Brussels Airport
+3317,7613:3,3,3514,Brussels Airport
+3317,7613:4,3,3516,Brussels Airport
+3317,7613:5,3,3518,Brussels Airport
+3317,7613:6,3,3520,Brussels Airport
+3317,7613:7,3,3522,Brussels Airport
+3317,7613:8,3,3524,Brussels Airport
+3317,7614:0,3,3517,Brussels Airport
+3317,7615:0,3,3518,Brussels Airport
+3317,7615:1,3,3520,Brussels Airport
+3317,7615:2,3,3522,Brussels Airport
+3317,7615:3,3,3524,Brussels Airport
+3318,7616:0,698,3518,Brussels Airport
+3318,7616:1,698,3520,Brussels Airport
+3318,7617:0,699,3518,Brussels Airport
+3318,7617:1,699,3520,Brussels Airport
+3318,7618:0,363,3520,Brussels Airport
+3318,7618:1,363,3522,Brussels Airport
+1218,7619:0,363,3522,Aalst
+835,7620:0,3,3522,Brussels South
+3321,7621:0,363,3526,Bruges
+3322,7622:0,3,3526,Ghent Sint Pieters
+3323,7623:0,363,3527,Bruges
+3323,7623:1,363,3529,Bruges
+3324,7624:0,3,3527,Ghent Sint Pieters
+3323,7625:0,363,3528,Bruges
+3324,7626:0,3,3528,Ghent Sint Pieters
+3323,7627:0,698,3529,Bruges
+3323,7628:0,699,3529,Bruges
+3324,7629:0,3,3529,Ghent Sint Pieters
+3324,7629:1,3,3531,Ghent Sint Pieters
+3324,7629:2,3,3533,Ghent Sint Pieters
+3324,7629:3,3,3535,Ghent Sint Pieters
+3324,7629:4,3,3537,Ghent Sint Pieters
+3324,7629:5,3,3539,Ghent Sint Pieters
+3324,7629:6,3,3541,Ghent Sint Pieters
+3324,7629:7,3,3543,Ghent Sint Pieters
+3323,7630:0,363,3531,Bruges
+3323,7630:1,363,3533,Bruges
+3323,7630:2,363,3535,Bruges
+3323,7630:3,363,3537,Bruges
+3323,7630:4,363,3539,Bruges
+3323,7631:0,363,3536,Bruges
+3324,7632:0,3,3537,Ghent Sint Pieters
+3323,7633:0,363,3537,Bruges
+3323,7634:0,363,3538,Bruges
+3323,7634:1,363,3540,Bruges
+3323,7634:2,363,3542,Bruges
+3323,7634:3,363,3544,Bruges
+3323,7634:4,363,3546,Bruges
+3324,7635:0,3,3538,Ghent Sint Pieters
+3324,7635:1,3,3540,Ghent Sint Pieters
+3324,7635:2,3,3542,Ghent Sint Pieters
+3324,7635:3,3,3544,Ghent Sint Pieters
+3324,7636:0,3,3542,Ghent Sint Pieters
+3324,7637:0,363,3543,Ghent Sint Pieters
+3324,7638:0,3,3543,Ghent Sint Pieters
+3324,7638:1,3,3545,Ghent Sint Pieters
+3325,7639:0,363,3544,Brussels South
+3326,7640:0,363,3556,Malines
+3326,7640:1,363,3558,Malines
+3326,7640:10,363,3576,Malines
+3326,7640:11,363,3578,Malines
+3326,7640:12,363,3580,Malines
+3326,7640:13,363,3582,Malines
+3326,7640:14,363,3584,Malines
+3326,7640:15,363,3586,Malines
+3326,7640:16,363,3588,Malines
+3326,7640:2,363,3560,Malines
+3326,7640:3,363,3562,Malines
+3326,7640:4,363,3564,Malines
+3326,7640:5,363,3566,Malines
+3326,7640:6,363,3568,Malines
+3326,7640:7,363,3570,Malines
+3326,7640:8,363,3572,Malines
+3326,7640:9,363,3574,Malines
+3327,7641:0,3,3557,Malines
+3327,7641:1,3,3559,Malines
+3327,7641:2,3,3561,Malines
+3327,7641:3,3,3563,Malines
+3327,7641:4,3,3565,Malines
+3327,7641:5,3,3567,Malines
+3327,7641:6,3,3569,Malines
+3327,7641:7,3,3571,Malines
+3327,7641:8,3,3573,Malines
+3327,7642:0,3,3566,Malines
+3327,7642:1,3,3568,Malines
+3327,7643:0,3,3568,Malines
+3327,7643:1,3,3570,Malines
+3328,7644:0,363,3577,Brussels South
+3328,7644:1,363,3579,Brussels South
+3328,7644:10,363,3597,Brussels South
+3328,7644:11,363,3599,Brussels South
+3328,7644:12,363,3601,Brussels South
+3328,7644:13,363,3603,Brussels South
+3328,7644:14,363,3605,Brussels South
+3328,7644:15,363,3607,Brussels South
+3328,7644:16,363,3609,Brussels South
+3328,7644:2,363,3581,Brussels South
+3328,7644:3,363,3583,Brussels South
+3328,7644:4,363,3585,Brussels South
+3328,7644:5,363,3587,Brussels South
+3328,7644:6,363,3589,Brussels South
+3328,7644:7,363,3591,Brussels South
+3328,7644:8,363,3593,Brussels South
+3328,7644:9,363,3595,Brussels South
+3329,7645:0,3,3577,Brussels Luxembourg
+3329,7646:0,3,3578,Brussels Luxembourg
+3329,7647:0,3,3579,Brussels Luxembourg
+3329,7647:1,3,3581,Brussels Luxembourg
+3329,7647:2,3,3583,Brussels Luxembourg
+3329,7647:3,3,3585,Brussels Luxembourg
+3329,7647:4,3,3587,Brussels Luxembourg
+3329,7647:5,3,3589,Brussels Luxembourg
+3329,7647:6,3,3591,Brussels Luxembourg
+3329,7647:7,3,3593,Brussels Luxembourg
+3329,7647:8,3,3595,Brussels Luxembourg
+3329,7647:9,3,3597,Brussels Luxembourg
+542,7648:0,3,3602,Antwerp Central
+2000,7649:0,3,3603,Antwerp Central
+814,7650:0,363,3604,Brussels North
+814,7650:1,363,3606,Brussels North
+3333,7651:0,3,3604,Antwerp Central
+3333,7652:0,3,3605,Antwerp Central
+3334,7653:0,363,3606,Brussels North
+3334,7653:1,363,3608,Brussels North
+3334,7653:10,363,3626,Brussels North
+3334,7653:11,363,3628,Brussels North
+3334,7653:12,363,3630,Brussels North
+3334,7653:13,363,3632,Brussels North
+3334,7653:14,363,3634,Brussels North
+3334,7653:2,363,3610,Brussels North
+3334,7653:3,363,3612,Brussels North
+3334,7653:4,363,3614,Brussels North
+3334,7653:5,363,3616,Brussels North
+3334,7653:6,363,3618,Brussels North
+3334,7653:7,363,3620,Brussels North
+3334,7653:8,363,3622,Brussels North
+3334,7653:9,363,3624,Brussels North
+3333,7654:0,3,3606,Antwerp Central
+3333,7655:0,3,3607,Antwerp Central
+3333,7655:1,3,3609,Antwerp Central
+3333,7655:10,3,3627,Antwerp Central
+3333,7655:2,3,3611,Antwerp Central
+3333,7655:3,3,3613,Antwerp Central
+3333,7655:4,3,3615,Antwerp Central
+3333,7655:5,3,3617,Antwerp Central
+3333,7655:6,3,3619,Antwerp Central
+3333,7655:7,3,3621,Antwerp Central
+3333,7655:8,3,3623,Antwerp Central
+3333,7655:9,3,3625,Antwerp Central
+3333,7656:0,3,3618,Antwerp Central
+3333,7657:0,3,3619,Antwerp Central
+3333,7657:1,3,3621,Antwerp Central
+1588,7658:0,3,3627,De Panne
+3335,7659:0,363,3628,De Panne
+3335,7659:1,363,3630,De Panne
+3336,7660:0,3,3628,De Panne
+3336,7660:1,3,3630,De Panne
+3336,7660:2,3,3632,De Panne
+3336,7660:3,3,3634,De Panne
+3336,7660:4,3,3636,De Panne
+3336,7660:5,3,3638,De Panne
+3336,7660:6,3,3640,De Panne
+3336,7660:7,3,3642,De Panne
+3336,7660:8,3,3644,De Panne
+3336,7660:9,3,3646,De Panne
+3335,7661:0,363,3630,De Panne
+3335,7662:0,363,3631,De Panne
+3335,7662:1,363,3633,De Panne
+3335,7662:10,363,3651,De Panne
+3335,7662:11,363,3653,De Panne
+3335,7662:2,363,3635,De Panne
+3335,7662:3,363,3637,De Panne
+3335,7662:4,363,3639,De Panne
+3335,7662:5,363,3641,De Panne
+3335,7662:6,363,3643,De Panne
+3335,7662:7,363,3645,De Panne
+3335,7662:8,363,3647,De Panne
+3335,7662:9,363,3649,De Panne
+3336,7663:0,3,3638,De Panne
+1803,7664:0,3,3638,Courtrai
+3336,7665:0,3,3639,De Panne
+1803,7666:0,3,3639,Courtrai
+3336,7667:0,3,3640,De Panne
+3336,7667:1,3,3642,De Panne
+3336,7668:0,3,3642,De Panne
+3338,7669:0,363,3643,Ghent Sint Pieters
+3338,7669:1,363,3645,Ghent Sint Pieters
+3338,7669:2,363,3647,Ghent Sint Pieters
+3336,7670:0,3,3643,De Panne
+2942,7671:0,3,3644,Ghent Sint Pieters
+548,7672:0,3,3645,Brussels South
+548,7672:1,3,3647,Brussels South
+1237,7673:0,363,3654,Leuven
+3342,7674:0,363,3655,Leuven
+3342,7674:1,363,3657,Leuven
+3342,7674:10,363,3675,Leuven
+3342,7674:11,363,3677,Leuven
+3342,7674:12,363,3679,Leuven
+3342,7674:13,363,3681,Leuven
+3342,7674:14,363,3683,Leuven
+3342,7674:15,363,3685,Leuven
+3342,7674:16,363,3687,Leuven
+3342,7674:2,363,3659,Leuven
+3342,7674:3,363,3661,Leuven
+3342,7674:4,363,3663,Leuven
+3342,7674:5,363,3665,Leuven
+3342,7674:6,363,3667,Leuven
+3342,7674:7,363,3669,Leuven
+3342,7674:8,363,3671,Leuven
+3342,7674:9,363,3673,Leuven
+3342,7675:0,3,3655,Leuven
+3342,7676:0,3,3656,Leuven
+3342,7677:0,3,3657,Leuven
+3342,7678:0,3,3658,Leuven
+3342,7679:0,3,3659,Leuven
+3342,7680:0,3,3660,Leuven
+3342,7680:1,3,3662,Leuven
+3342,7680:2,3,3664,Leuven
+3342,7680:3,3,3666,Leuven
+3342,7680:4,3,3668,Leuven
+3342,7680:5,3,3670,Leuven
+3342,7681:0,3,3666,Leuven
+3342,7682:0,3,3667,Leuven
+3342,7682:1,3,3669,Leuven
+3343,7683:0,3,3676,Braine Le Comte
+3343,7683:1,3,3678,Braine Le Comte
+3343,7683:2,3,3680,Braine Le Comte
+3343,7683:3,3,3682,Braine Le Comte
+3343,7683:4,3,3684,Braine Le Comte
+3343,7683:5,3,3686,Braine Le Comte
+3343,7683:6,3,3688,Braine Le Comte
+3343,7683:7,3,3690,Braine Le Comte
+3343,7683:8,3,3692,Braine Le Comte
+3343,7683:9,3,3694,Braine Le Comte
+3344,7684:0,363,3677,Braine Le Comte
+3343,7685:0,363,3678,Braine Le Comte
+3343,7685:1,363,3680,Braine Le Comte
+3343,7685:10,363,3698,Braine Le Comte
+3343,7685:11,363,3700,Braine Le Comte
+3343,7685:12,363,3702,Braine Le Comte
+3343,7685:13,363,3704,Braine Le Comte
+3343,7685:14,363,3706,Braine Le Comte
+3343,7685:15,363,3708,Braine Le Comte
+3343,7685:2,363,3682,Braine Le Comte
+3343,7685:3,363,3684,Braine Le Comte
+3343,7685:4,363,3686,Braine Le Comte
+3343,7685:5,363,3688,Braine Le Comte
+3343,7685:6,363,3690,Braine Le Comte
+3343,7685:7,363,3692,Braine Le Comte
+3343,7685:8,363,3694,Braine Le Comte
+3343,7685:9,363,3696,Braine Le Comte
+3343,7686:0,3,3686,Braine Le Comte
+3343,7687:0,3,3687,Braine Le Comte
+3343,7687:1,3,3689,Braine Le Comte
+3343,7687:2,3,3691,Braine Le Comte
+861,7688:0,363,3694,Brussels South
+1237,7689:0,363,3703,Leuven
+3316,7690:0,3,3703,Brussels Airport
+3348,7691:0,363,3704,Leuven
+3349,7692:0,3,3704,Brussels Airport
+3348,7693:0,363,3705,Leuven
+3348,7693:1,363,3707,Leuven
+3348,7693:10,363,3725,Leuven
+3348,7693:11,363,3727,Leuven
+3348,7693:12,363,3729,Leuven
+3348,7693:13,363,3731,Leuven
+3348,7693:14,363,3733,Leuven
+3348,7693:15,363,3735,Leuven
+3348,7693:2,363,3709,Leuven
+3348,7693:3,363,3711,Leuven
+3348,7693:4,363,3713,Leuven
+3348,7693:5,363,3715,Leuven
+3348,7693:6,363,3717,Leuven
+3348,7693:7,363,3719,Leuven
+3348,7693:8,363,3721,Leuven
+3348,7693:9,363,3723,Leuven
+3349,7694:0,3,3705,Brussels Airport
+3349,7695:0,3,3706,Brussels Airport
+3349,7696:0,3,3707,Brussels Airport
+3349,7697:0,3,3708,Brussels Airport
+3349,7697:1,3,3710,Brussels Airport
+3349,7697:2,3,3712,Brussels Airport
+3349,7697:3,3,3714,Brussels Airport
+3349,7697:4,3,3716,Brussels Airport
+3349,7697:5,3,3718,Brussels Airport
+3349,7697:6,3,3720,Brussels Airport
+3349,7698:0,3,3709,Brussels Airport
+3349,7698:1,3,3711,Brussels Airport
+3349,7698:2,3,3713,Brussels Airport
+3349,7698:3,3,3715,Brussels Airport
+3349,7699:0,3,3711,Brussels Airport
+3349,7700:0,3,3715,Brussels Airport
+3349,7701:0,3,3719,Brussels Airport
+3348,7702:0,906,3721,Leuven
+3348,7703:0,907,3721,Leuven
+3352,7704:0,3,3726,Quevy
+3353,7705:0,363,3726,Saint Ghislain
+3354,7706:0,3,3727,Quevy
+3354,7706:1,3,3729,Quevy
+3353,7707:0,363,3727,Saint Ghislain
+3353,7707:1,363,3729,Saint Ghislain
+3353,7707:10,363,3747,Saint Ghislain
+3353,7707:11,363,3749,Saint Ghislain
+3353,7707:12,363,3751,Saint Ghislain
+3353,7707:13,363,3753,Saint Ghislain
+3353,7707:14,363,3755,Saint Ghislain
+3353,7707:15,363,3757,Saint Ghislain
+3353,7707:2,363,3731,Saint Ghislain
+3353,7707:3,363,3733,Saint Ghislain
+3353,7707:4,363,3735,Saint Ghislain
+3353,7707:5,363,3737,Saint Ghislain
+3353,7707:6,363,3739,Saint Ghislain
+3353,7707:7,363,3741,Saint Ghislain
+3353,7707:8,363,3743,Saint Ghislain
+3353,7707:9,363,3745,Saint Ghislain
+3354,7708:0,3,3729,Quevy
+3354,7709:0,3,3730,Quevy
+3354,7709:1,3,3732,Quevy
+3354,7709:2,3,3734,Quevy
+3354,7709:3,3,3736,Quevy
+3354,7709:4,3,3738,Quevy
+3354,7709:5,3,3740,Quevy
+3354,8357:0,3,3736,Quevy
+3354,8358:0,3,3737,Quevy
+3354,8358:1,3,3739,Quevy
+3354,8359:0,3,3739,Quevy
+3354,8360:0,3,3740,Quevy
+3354,8361:0,3,3741,Quevy
+3354,8361:1,3,3743,Quevy
+3353,8362:0,363,3743,Saint Ghislain
+3597,8363:0,3,3743,Mons
+861,8364:0,363,3744,Brussels South
+3325,8365:0,3,3744,Brussels South
+3325,8365:1,3,3746,Brussels South
+3342,8366:0,3,3755,Leuven
+3342,8366:1,3,3757,Leuven
+3342,8367:0,3,3757,Leuven
+3342,8368:0,3,3758,Leuven
+3342,8368:1,3,3760,Leuven
+3342,8368:10,3,3778,Leuven
+3342,8368:11,3,3780,Leuven
+3342,8368:12,3,3782,Leuven
+3342,8368:13,3,3784,Leuven
+3342,8368:14,3,3786,Leuven
+3342,8368:2,3,3762,Leuven
+3342,8368:3,3,3764,Leuven
+3342,8368:4,3,3766,Leuven
+3342,8368:5,3,3768,Leuven
+3342,8368:6,3,3770,Leuven
+3342,8368:7,3,3772,Leuven
+3342,8368:8,3,3774,Leuven
+3342,8368:9,3,3776,Leuven
+3343,8369:0,3,3776,Braine Le Comte
+3343,8369:1,3,3778,Braine Le Comte
+3343,8370:0,3,3778,Braine Le Comte
+3343,8370:1,3,3780,Braine Le Comte
+3343,8371:0,3,3780,Braine Le Comte
+3343,8371:1,3,3782,Braine Le Comte
+3343,8371:10,3,3800,Braine Le Comte
+3343,8371:11,3,3802,Braine Le Comte
+3343,8371:12,3,3804,Braine Le Comte
+3343,8371:13,3,3806,Braine Le Comte
+3343,8371:2,3,3784,Braine Le Comte
+3343,8371:3,3,3786,Braine Le Comte
+3343,8371:4,3,3788,Braine Le Comte
+3343,8371:5,3,3790,Braine Le Comte
+3343,8371:6,3,3792,Braine Le Comte
+3343,8371:7,3,3794,Braine Le Comte
+3343,8371:8,3,3796,Braine Le Comte
+3343,8371:9,3,3798,Braine Le Comte
+2033,8372:0,3,3803,Tournai
+3601,8373:0,3,3804,Tournai
+3602,8374:0,3,3805,Mouscron
+3601,8375:0,3,3806,Tournai
+3601,8375:1,3,3808,Tournai
+3601,8376:0,3,3808,Tournai
+3601,8376:1,3,3810,Tournai
+3601,8376:2,3,3812,Tournai
+3601,8377:0,3,3811,Tournai
+3601,8377:1,3,3813,Tournai
+3601,8378:0,3,3812,Tournai
+3602,8379:0,3,3814,Mouscron
+3601,8380:0,3,3815,Tournai
+3601,8381:0,3,3816,Tournai
+3601,8382:0,3,3817,Tournai
+3601,8383:0,3,3818,Tournai
+3601,8383:1,3,3820,Tournai
+3606,8384:0,3,3820,Tournai
+3607,8385:0,3,3826,Jambes East
+3608,8386:0,3,3827,Jambes East
+3609,8387:0,3,3828,Jambes East
+3609,8387:1,3,3830,Jambes East
+3609,8388:0,3,3829,Jambes East
+3609,8388:1,3,3831,Jambes East
+3609,8388:2,3,3833,Jambes East
+3608,8389:0,3,3830,Jambes East
+3609,8390:0,3,3831,Jambes East
+3609,8390:1,3,3833,Jambes East
+3609,8391:0,3,3833,Jambes East
+3609,8392:0,3,3837,Jambes East
+3609,8392:1,3,3839,Jambes East
+3608,8393:0,3,3839,Jambes East
+2031,8394:0,3,3840,Namen
+2031,8394:1,3,3842,Namen
+2031,8395:0,3,3843,Namen
+1102,8396:0,3,3844,Mons
+3614,8397:0,363,3905,Brussels North
+3615,8398:0,3,3905,Louvain-la-Neuve-Universite
+3615,8398:1,3,3907,Louvain-la-Neuve-Universite
+3614,8399:0,363,3906,Brussels North
+3614,8399:1,363,3908,Brussels North
+3614,8399:10,363,3926,Brussels North
+3614,8399:11,363,3928,Brussels North
+3614,8399:12,363,3930,Brussels North
+3614,8399:13,363,3932,Brussels North
+3614,8399:14,363,3934,Brussels North
+3614,8399:15,363,3936,Brussels North
+3614,8399:2,363,3910,Brussels North
+3614,8399:3,363,3912,Brussels North
+3614,8399:4,363,3914,Brussels North
+3614,8399:5,363,3916,Brussels North
+3614,8399:6,363,3918,Brussels North
+3614,8399:7,363,3920,Brussels North
+3614,8399:8,363,3922,Brussels North
+3614,8399:9,363,3924,Brussels North
+3615,8400:0,3,3906,Louvain-la-Neuve-Universite
+3615,8400:1,3,3908,Louvain-la-Neuve-Universite
+3615,8401:0,3,3908,Louvain-la-Neuve-Universite
+3615,8401:1,3,3910,Louvain-la-Neuve-Universite
+3615,8401:2,3,3912,Louvain-la-Neuve-Universite
+3615,8401:3,3,3914,Louvain-la-Neuve-Universite
+3615,8401:4,3,3916,Louvain-la-Neuve-Universite
+3615,8402:0,3,3914,Louvain-la-Neuve-Universite
+3615,8403:0,4,3915,Louvain-la-Neuve-Universite
+3615,8404:0,368,3915,Louvain-la-Neuve-Universite
+3615,8405:0,4,3916,Louvain-la-Neuve-Universite
+3615,8406:0,368,3916,Louvain-la-Neuve-Universite
+3615,8407:0,3,3917,Louvain-la-Neuve-Universite
+3615,8408:0,3,3918,Louvain-la-Neuve-Universite
+3615,8409:0,576,3919,Louvain-la-Neuve-Universite
+3615,8409:1,576,3921,Louvain-la-Neuve-Universite
+3615,8409:2,576,3923,Louvain-la-Neuve-Universite
+3618,8410:0,156,3919,Brussels South
+3618,8410:1,156,3921,Brussels South
+3618,8410:2,156,3923,Brussels South
+3619,8411:0,3,3926,Binche
+3620,8412:0,3,3927,Binche
+3619,8413:0,363,3927,Binche
+3619,8413:1,363,3929,Binche
+3619,8413:10,363,3947,Binche
+3619,8413:11,363,3949,Binche
+3619,8413:12,363,3951,Binche
+3619,8413:13,363,3953,Binche
+3619,8413:14,363,3955,Binche
+3619,8413:15,363,3957,Binche
+3619,8413:16,363,3959,Binche
+3619,8413:2,363,3931,Binche
+3619,8413:3,363,3933,Binche
+3619,8413:4,363,3935,Binche
+3619,8413:5,363,3937,Binche
+3619,8413:6,363,3939,Binche
+3619,8413:7,363,3941,Binche
+3619,8413:8,363,3943,Binche
+3619,8413:9,363,3945,Binche
+3620,8414:0,4,3928,Binche
+3620,8415:0,368,3928,Binche
+3620,8416:0,4,3929,Binche
+3620,8417:0,368,3929,Binche
+3620,8418:0,3,3930,Binche
+3620,8418:1,3,3932,Binche
+3620,8419:0,3,3931,Binche
+3620,8420:0,3,3932,Binche
+3620,8421:0,3,3933,Binche
+3620,8421:1,3,3935,Binche
+3620,8421:2,3,3937,Binche
+3620,8421:3,3,3939,Binche
+3620,8422:0,3,3938,Binche
+3620,8423:0,3,3939,Binche
+3620,8424:0,3,3940,Binche
+3620,8425:0,576,3941,Binche
+3620,8425:1,576,3943,Binche
+3624,8426:0,156,3941,Binche
+3624,8426:1,156,3943,Binche
+3620,8427:0,576,3943,Binche
+3624,8428:0,156,3943,Binche
+795,8429:0,576,3944,Brussels South
+1103,8430:0,957,3965,Mouscron
+1103,8430:1,957,3967,Mouscron
+1103,8430:2,957,3969,Mouscron
+1103,8430:3,957,3971,Mouscron
+1103,8430:4,957,3973,Mouscron
+1103,8430:5,957,3975,Mouscron
+1104,8431:0,957,3985,Tournai
+1104,8431:1,957,3987,Tournai
+1104,8431:2,957,3989,Tournai
+1104,8431:3,957,3991,Tournai
+1104,8431:4,957,3993,Tournai
+1104,8431:5,957,3995,Tournai
+1104,8431:6,957,3997,Tournai
+3630,8432:0,363,4016,Gouvy
+3630,8433:0,3,4016,Gouvy
+3630,8434:0,3,4017,Gouvy
+3630,8435:0,0,4023,Gouvy
+3633,8436:0,363,4027,Liers
+3633,8437:0,3,4027,Liers
+3633,8438:0,3,4028,Liers
+3635,8439:0,3,4057,Mons
+3635,8439:1,3,4059,Mons
+3635,8439:2,3,4061,Mons
+3635,8439:3,3,4063,Mons
+3635,8439:4,3,4065,Mons
+3636,8440:0,3,4058,Mons
+3636,8440:1,3,4060,Mons
+3635,8441:0,3,4060,Mons
+3635,8441:1,3,4062,Mons
+3636,8442:0,3,4066,Mons
+3635,8443:0,3,4067,Mons
+3635,8443:1,3,4069,Mons
+3635,8444:0,4,4068,Mons
+3635,8445:0,368,4068,Mons
+3635,8446:0,3,4070,Mons
+3637,8447:0,3,4076,Zinnik
+3637,8447:1,3,4078,Zinnik
+3637,8447:2,3,4080,Zinnik
+3637,8447:3,3,4082,Zinnik
+3637,8447:4,3,4084,Zinnik
+3637,8447:5,3,4086,Zinnik
+3637,8447:6,3,4088,Zinnik
+3638,8448:0,3,4077,Braine Le Comte
+3637,8449:0,3,4079,Zinnik
+3637,8449:1,3,4081,Zinnik
+3637,8449:2,3,4083,Zinnik
+3638,8450:0,3,4081,Braine Le Comte
+3638,8450:1,3,4083,Braine Le Comte
+3637,8451:0,3,4089,Zinnik
+809,8452:0,3,4104,Leuven
+3640,8453:0,363,4105,Malines
+3640,8453:1,363,4107,Malines
+3640,8453:2,363,4109,Malines
+3640,8453:3,363,4111,Malines
+809,8454:0,3,4105,Leuven
+809,8455:0,3,4106,Leuven
+809,8455:1,3,4108,Leuven
+809,8456:0,3,4107,Leuven
+809,8457:0,3,4112,Leuven
+809,8457:1,3,4114,Leuven
+3640,8458:0,363,4112,Malines
+3640,8458:1,363,4114,Malines
+3640,8458:2,363,4116,Malines
+809,8459:0,3,4115,Leuven
+809,8459:1,3,4117,Leuven
+2750,8460:0,3,4122,Dendermonde
+820,8461:0,3,4123,Ghent Sint Pieters
+837,8462:0,363,4126,Courtrai
+2760,8463:0,3,4126,Courtrai
+3644,8464:0,3,4126,Ostend
+2760,8465:0,363,4127,Courtrai
+3644,8466:0,363,4127,Ostend
+3647,8467:0,3,4127,Courtrai
+1208,8468:0,3,4127,Ostend
+1208,8468:1,3,4129,Ostend
+3649,8469:0,363,4128,Courtrai
+3649,8469:1,363,4130,Courtrai
+3649,8469:10,363,4148,Courtrai
+3649,8469:11,363,4150,Courtrai
+3649,8469:12,363,4152,Courtrai
+3649,8469:13,363,4154,Courtrai
+3649,8469:14,363,4156,Courtrai
+3649,8469:15,363,4158,Courtrai
+3649,8469:2,363,4132,Courtrai
+3649,8469:3,363,4134,Courtrai
+3649,8469:4,363,4136,Courtrai
+3649,8469:5,363,4138,Courtrai
+3649,8469:6,363,4140,Courtrai
+3649,8469:7,363,4142,Courtrai
+3649,8469:8,363,4144,Courtrai
+3649,8469:9,363,4146,Courtrai
+3647,8470:0,3,4128,Courtrai
+3647,8470:1,3,4130,Courtrai
+3650,8471:0,363,4128,Ostend
+3650,8471:1,363,4130,Ostend
+3650,8471:2,363,4132,Ostend
+3650,8471:3,363,4134,Ostend
+3650,8471:4,363,4136,Ostend
+3650,8471:5,363,4138,Ostend
+3650,8471:6,363,4140,Ostend
+1208,8472:0,3,4128,Ostend
+3647,8473:0,3,4130,Courtrai
+3647,8473:1,3,4132,Courtrai
+3647,8473:2,3,4134,Courtrai
+3647,8473:3,3,4136,Courtrai
+3647,8473:4,3,4138,Courtrai
+3647,8473:5,3,4140,Courtrai
+1208,8474:0,3,4130,Ostend
+1208,8474:1,3,4132,Ostend
+1208,8474:2,3,4134,Ostend
+3650,8475:0,363,4131,Ostend
+3650,8475:1,363,4133,Ostend
+3650,8475:2,363,4135,Ostend
+1208,8476:0,577,4131,Ostend
+3647,8477:0,3,4136,Courtrai
+1208,8478:0,3,4136,Ostend
+3647,8479:0,3,4137,Courtrai
+3647,8479:1,3,4139,Courtrai
+1208,8480:0,3,4138,Ostend
+3647,8481:0,3,4139,Courtrai
+3647,8481:1,3,4141,Courtrai
+3647,8481:2,3,4143,Courtrai
+3647,8481:3,3,4145,Courtrai
+3647,8481:4,3,4147,Courtrai
+1208,8482:0,3,4139,Ostend
+1208,8482:1,3,4141,Ostend
+1254,8483:0,3,4144,Dendermonde
+1110,8484:0,4,4154,Mons
+1110,8485:0,3,4155,Mons
+1110,8485:1,3,4157,Mons
+1110,8485:10,3,4175,Mons
+1110,8485:11,3,4177,Mons
+1110,8485:12,3,4179,Mons
+1110,8485:13,3,4181,Mons
+1110,8485:14,3,4183,Mons
+1110,8485:2,3,4159,Mons
+1110,8485:3,3,4161,Mons
+1110,8485:4,3,4163,Mons
+1110,8485:5,3,4165,Mons
+1110,8485:6,3,4167,Mons
+1110,8485:7,3,4169,Mons
+1110,8485:8,3,4171,Mons
+1110,8485:9,3,4173,Mons
+1110,8486:0,363,4157,Mons
+1110,8486:1,363,4159,Mons
+1110,8486:2,363,4161,Mons
+1110,8486:3,363,4163,Mons
+1110,8486:4,363,4165,Mons
+1110,8486:5,363,4167,Mons
+1110,8486:6,363,4169,Mons
+1110,8486:7,363,4171,Mons
+1112,8487:0,3,4176,Ath
+1112,8487:1,3,4178,Ath
+1112,8487:10,3,4196,Ath
+1112,8487:11,3,4198,Ath
+1112,8487:12,3,4200,Ath
+1112,8487:13,3,4202,Ath
+1112,8487:2,3,4180,Ath
+1112,8487:3,3,4182,Ath
+1112,8487:4,3,4184,Ath
+1112,8487:5,3,4186,Ath
+1112,8487:6,3,4188,Ath
+1112,8487:7,3,4190,Ath
+1112,8487:8,3,4192,Ath
+1112,8487:9,3,4194,Ath
+1112,8488:0,363,4178,Ath
+1112,8488:1,363,4180,Ath
+1112,8488:2,363,4182,Ath
+1112,8488:3,363,4184,Ath
+1112,8488:4,363,4186,Ath
+1112,8488:5,363,4188,Ath
+1112,8488:6,363,4190,Ath
+1112,8488:7,363,4192,Ath
+26415,84898:0,699,523,Bruges
+2054,84899:0,579,971,Zeebrugge Strand
+1112,8489:0,3,4191,Ath
+1112,8489:1,3,4193,Ath
+2056,84900:0,579,991,Bruges
+1222,84901:0,728,6629,Knokke
+1222,84901:1,728,6631,Knokke
+1222,84901:10,728,6649,Knokke
+1222,84901:11,728,6651,Knokke
+1222,84901:2,728,6633,Knokke
+1222,84901:3,728,6635,Knokke
+1222,84901:4,728,6637,Knokke
+1222,84901:5,728,6639,Knokke
+1222,84901:6,728,6641,Knokke
+1222,84901:7,728,6643,Knokke
+1222,84901:8,728,6645,Knokke
+1222,84901:9,728,6647,Knokke
+831,84902:0,728,6679,Bruges
+831,84902:1,728,6681,Bruges
+831,84902:10,728,6699,Bruges
+831,84902:11,728,6701,Bruges
+831,84902:2,728,6683,Bruges
+831,84902:3,728,6685,Bruges
+831,84902:4,728,6687,Bruges
+831,84902:5,728,6689,Bruges
+831,84902:6,728,6691,Bruges
+831,84902:7,728,6693,Bruges
+831,84902:8,728,6695,Bruges
+831,84902:9,728,6697,Bruges
+26416,84903:0,699,6705,Blankenberge
+3101,84904:0,699,6706,Blankenberge
+3101,84905:0,699,6707,Blankenberge
+26419,84906:0,699,6712,Blankenberge
+26419,84907:0,579,6712,Blankenberge
+26421,84908:0,699,6716,Blankenberge
+2081,84909:0,699,6730,Blankenberge
+3316,8490:0,363,4205,Brussels Airport
+3316,8490:1,363,4207,Brussels Airport
+3316,8490:10,363,4225,Brussels Airport
+3316,8490:11,363,4227,Brussels Airport
+3316,8490:12,363,4229,Brussels Airport
+3316,8490:13,363,4231,Brussels Airport
+3316,8490:14,363,4233,Brussels Airport
+3316,8490:15,363,4235,Brussels Airport
+3316,8490:2,363,4209,Brussels Airport
+3316,8490:3,363,4211,Brussels Airport
+3316,8490:4,363,4213,Brussels Airport
+3316,8490:5,363,4215,Brussels Airport
+3316,8490:6,363,4217,Brussels Airport
+3316,8490:7,363,4219,Brussels Airport
+3316,8490:8,363,4221,Brussels Airport
+3316,8490:9,363,4223,Brussels Airport
+26423,84910:0,728,6731,Blankenberge
+26424,84911:0,699,6755,Jemeppe Sur Sambre
+3103,84912:0,699,6756,Antwerp Central
+3103,84913:0,699,6757,Antwerp Central
+26426,84914:0,699,6762,Neerpelt
+26426,84915:0,579,6762,Neerpelt
+26428,84916:0,699,6766,Turnhout
+26429,84917:0,699,6801,Ostend
+26430,84918:0,699,6851,Hasselt
+26431,84919:0,579,6904,De Panne
+1237,8491:0,3,4205,Leuven
+26432,84920:0,699,6905,De Panne
+26433,84921:0,12735,6944,Houyet
+26434,84922:0,12736,6945,Houyet
+26434,84923:0,12737,6945,Houyet
+26434,84923:1,12737,6947,Houyet
+26434,84924:0,12735,6946,Houyet
+26434,84925:0,12736,6947,Houyet
+26434,84926:0,12735,6948,Houyet
+312,84927:0,699,6949,Jemelle
+26435,84928:0,579,6954,Charleroi South
+26436,84929:0,699,6955,Schaarbeek
+1202,84930:0,699,6957,Ghent Sint Pieters
+825,84931:0,368,8084,Poperinge
+1237,8968:0,3,4206,Leuven
+3872,8969:0,3,4207,Leuven
+3872,8969:1,3,4209,Leuven
+1237,8970:0,3,4209,Leuven
+1237,8970:1,3,4211,Leuven
+1237,8970:2,3,4213,Leuven
+1237,8970:3,3,4215,Leuven
+1237,8970:4,3,4217,Leuven
+1237,8970:5,3,4219,Leuven
+1237,8970:6,3,4221,Leuven
+3872,8971:0,3,4216,Leuven
+3872,8972:0,3,4217,Leuven
+1237,8973:0,3,4218,Leuven
+1237,8974:0,576,4219,Leuven
+1237,8974:1,576,4221,Leuven
+1237,8974:2,576,4223,Leuven
+3316,8975:0,363,4221,Brussels Airport
+3316,8976:0,363,4222,Brussels Airport
+3316,8976:1,363,4224,Brussels Airport
+1237,8977:0,576,4222,Leuven
+1237,8978:0,576,4223,Leuven
+3325,8979:0,363,4225,Brussels South
+3325,8979:1,363,4227,Brussels South
+3325,8979:10,363,4245,Brussels South
+3325,8979:11,363,4247,Brussels South
+3325,8979:12,363,4249,Brussels South
+3325,8979:13,363,4251,Brussels South
+3325,8979:14,363,4253,Brussels South
+3325,8979:15,363,4255,Brussels South
+3325,8979:16,363,4257,Brussels South
+3325,8979:17,363,4259,Brussels South
+3325,8979:18,363,4261,Brussels South
+3325,8979:2,363,4229,Brussels South
+3325,8979:3,363,4231,Brussels South
+3325,8979:4,363,4233,Brussels South
+3325,8979:5,363,4235,Brussels South
+3325,8979:6,363,4237,Brussels South
+3325,8979:7,363,4239,Brussels South
+3325,8979:8,363,4241,Brussels South
+3325,8979:9,363,4243,Brussels South
+3325,8980:0,3,4225,Brussels South
+861,8981:0,3,4226,Brussels South
+3874,8982:0,3,4227,Brussels Airport
+3874,8982:1,3,4229,Brussels Airport
+861,8983:0,3,4229,Brussels South
+861,8983:1,3,4231,Brussels South
+861,8983:2,3,4233,Brussels South
+861,8983:3,3,4235,Brussels South
+861,8983:4,3,4237,Brussels South
+861,8983:5,3,4239,Brussels South
+861,8983:6,3,4241,Brussels South
+3874,8984:0,3,4236,Brussels Airport
+3874,8984:1,3,4238,Brussels Airport
+861,8985:0,3,4238,Brussels South
+861,8985:1,3,4240,Brussels South
+861,8986:0,576,4240,Brussels South
+861,8986:1,576,4242,Brussels South
+861,8986:2,576,4244,Brussels South
+861,8986:3,576,4246,Brussels South
+861,8987:0,1024,4244,Brussels South
+3875,8988:0,3,4255,La Louviere South
+3875,8988:1,3,4257,La Louviere South
+3875,8989:0,3,4257,La Louviere South
+3875,8989:1,3,4259,La Louviere South
+3875,8989:10,3,4277,La Louviere South
+3875,8989:11,3,4279,La Louviere South
+3875,8989:12,3,4281,La Louviere South
+3875,8989:13,3,4283,La Louviere South
+3875,8989:14,3,4285,La Louviere South
+3875,8989:2,3,4261,La Louviere South
+3875,8989:3,3,4263,La Louviere South
+3875,8989:4,3,4265,La Louviere South
+3875,8989:5,3,4267,La Louviere South
+3875,8989:6,3,4269,La Louviere South
+3875,8989:7,3,4271,La Louviere South
+3875,8989:8,3,4273,La Louviere South
+3875,8989:9,3,4275,La Louviere South
+3876,8990:0,363,4257,La Louviere South
+3876,8991:0,363,4259,La Louviere South
+3876,8991:1,363,4261,La Louviere South
+3876,8991:2,363,4263,La Louviere South
+3876,8991:3,363,4265,La Louviere South
+3876,8991:4,363,4267,La Louviere South
+3876,8991:5,363,4269,La Louviere South
+3876,8991:6,363,4271,La Louviere South
+1143,8992:0,3,4275,Luttre
+1143,8993:0,3,4276,Luttre
+1143,8993:1,3,4278,Luttre
+1143,8993:10,3,4296,Luttre
+1143,8993:11,3,4298,Luttre
+1143,8993:2,3,4280,Luttre
+1143,8993:3,3,4282,Luttre
+1143,8993:4,3,4284,Luttre
+1143,8993:5,3,4286,Luttre
+1143,8993:6,3,4288,Luttre
+1143,8993:7,3,4290,Luttre
+1143,8993:8,3,4292,Luttre
+1143,8993:9,3,4294,Luttre
+3877,8994:0,363,4279,Charleroi South
+3877,8994:1,363,4281,Charleroi South
+3877,8994:2,363,4283,Charleroi South
+3877,8994:3,363,4285,Charleroi South
+3877,8994:4,363,4287,Charleroi South
+3877,8994:5,363,4289,Charleroi South
+3877,8994:6,363,4291,Charleroi South
+3877,8994:7,363,4293,Charleroi South
+1143,8995:0,3,4288,Luttre
+1143,8996:0,3,4289,Luttre
+1143,8996:1,3,4291,Luttre
+1143,8996:2,3,4293,Luttre
+1143,8996:3,3,4295,Luttre
+3316,8997:0,363,4304,Brussels Airport
+3316,8997:1,363,4306,Brussels Airport
+3316,8997:10,363,4324,Brussels Airport
+3316,8997:11,363,4326,Brussels Airport
+3316,8997:12,363,4328,Brussels Airport
+3316,8997:13,363,4330,Brussels Airport
+3316,8997:14,363,4332,Brussels Airport
+3316,8997:15,363,4334,Brussels Airport
+3316,8997:16,363,4336,Brussels Airport
+3316,8997:17,363,4338,Brussels Airport
+3316,8997:18,363,4340,Brussels Airport
+3316,8997:2,363,4308,Brussels Airport
+3316,8997:3,363,4310,Brussels Airport
+3316,8997:4,363,4312,Brussels Airport
+3316,8997:5,363,4314,Brussels Airport
+3316,8997:6,363,4316,Brussels Airport
+3316,8997:7,363,4318,Brussels Airport
+3316,8997:8,363,4320,Brussels Airport
+3316,8997:9,363,4322,Brussels Airport
+3325,8998:0,363,4326,Brussels South
+3325,8998:1,363,4328,Brussels South
+3325,8998:10,363,4346,Brussels South
+3325,8998:11,363,4348,Brussels South
+3325,8998:12,363,4350,Brussels South
+3325,8998:13,363,4352,Brussels South
+3325,8998:14,363,4354,Brussels South
+3325,8998:15,363,4356,Brussels South
+3325,8998:16,363,4358,Brussels South
+3325,8998:17,363,4360,Brussels South
+3325,8998:18,363,4362,Brussels South
+3325,8998:2,363,4330,Brussels South
+3325,8998:3,363,4332,Brussels South
+3325,8998:4,363,4334,Brussels South
+3325,8998:5,363,4336,Brussels South
+3325,8998:6,363,4338,Brussels South
+3325,8998:7,363,4340,Brussels South
+3325,8998:8,363,4342,Brussels South
+3325,8998:9,363,4344,Brussels South
+3878,8999:0,4,4355,Braine Le Comte
+3878,9000:0,3,4356,Braine Le Comte
+3878,9001:0,3,4357,Braine Le Comte
+3878,9002:0,3,4358,Braine Le Comte
+3878,9002:1,3,4360,Braine Le Comte
+3878,9002:10,3,4378,Braine Le Comte
+3878,9002:11,3,4380,Braine Le Comte
+3878,9002:2,3,4362,Braine Le Comte
+3878,9002:3,3,4364,Braine Le Comte
+3878,9002:4,3,4366,Braine Le Comte
+3878,9002:5,3,4368,Braine Le Comte
+3878,9002:6,3,4370,Braine Le Comte
+3878,9002:7,3,4372,Braine Le Comte
+3878,9002:8,3,4374,Braine Le Comte
+3878,9002:9,3,4376,Braine Le Comte
+3879,9003:0,3,4375,Charleroi South
+3879,9003:1,3,4377,Charleroi South
+3879,9003:10,3,4395,Charleroi South
+3879,9003:11,3,4397,Charleroi South
+3879,9003:2,3,4379,Charleroi South
+3879,9003:3,3,4381,Charleroi South
+3879,9003:4,3,4383,Charleroi South
+3879,9003:5,3,4385,Charleroi South
+3879,9003:6,3,4387,Charleroi South
+3879,9003:7,3,4389,Charleroi South
+3879,9003:8,3,4391,Charleroi South
+3879,9003:9,3,4393,Charleroi South
+3879,9004:0,3,4387,Charleroi South
+3879,9005:0,3,4388,Charleroi South
+3879,9005:1,3,4390,Charleroi South
+3880,9006:0,3,4405,Hasselt
+3880,9007:0,363,4406,Hasselt
+3880,9007:1,363,4408,Hasselt
+3880,9007:2,363,4410,Hasselt
+3880,9007:3,363,4412,Hasselt
+3880,9007:4,363,4414,Hasselt
+3880,9007:5,363,4416,Hasselt
+3880,9007:6,363,4418,Hasselt
+3880,9007:7,363,4420,Hasselt
+3881,9008:0,421,4422,Leopoldsburg
+864,9009:0,3,4427,Antwerp Central
+864,9010:0,3,4428,Antwerp Central
+864,9010:1,3,4430,Antwerp Central
+864,9010:10,3,4448,Antwerp Central
+864,9010:2,3,4432,Antwerp Central
+864,9010:3,3,4434,Antwerp Central
+864,9010:4,3,4436,Antwerp Central
+864,9010:5,3,4438,Antwerp Central
+864,9010:6,3,4440,Antwerp Central
+864,9010:7,3,4442,Antwerp Central
+864,9010:8,3,4444,Antwerp Central
+864,9010:9,3,4446,Antwerp Central
+3883,9011:0,363,4429,Mol
+3883,9011:1,363,4431,Mol
+3883,9011:2,363,4433,Mol
+3883,9011:3,363,4435,Mol
+3883,9011:4,363,4437,Mol
+3883,9011:5,363,4439,Mol
+3883,9011:6,363,4441,Mol
+864,9012:0,3,4439,Antwerp Central
+864,9012:1,3,4441,Antwerp Central
+864,9013:0,3,4441,Antwerp Central
+864,9014:0,3,4442,Antwerp Central
+3883,9015:0,3,4443,Mol
+3883,9016:0,363,4443,Mol
+3885,9017:0,3,4455,Mons
+3885,9018:0,3,4456,Mons
+3885,9019:0,363,4457,Mons
+3885,9019:1,363,4459,Mons
+3885,9019:2,363,4461,Mons
+3885,9019:3,363,4463,Mons
+3885,9019:4,363,4465,Mons
+3885,9019:5,363,4467,Mons
+3885,9019:6,363,4469,Mons
+3885,9019:7,363,4471,Mons
+3885,9020:0,3,4457,Mons
+3885,9021:0,3,4458,Mons
+3885,9021:1,3,4460,Mons
+3885,9021:10,3,4478,Mons
+3885,9021:11,3,4480,Mons
+3885,9021:12,3,4482,Mons
+3885,9021:13,3,4484,Mons
+3885,9021:2,3,4462,Mons
+3885,9021:3,3,4464,Mons
+3885,9021:4,3,4466,Mons
+3885,9021:5,3,4468,Mons
+3885,9021:6,3,4470,Mons
+3885,9021:7,3,4472,Mons
+3885,9021:8,3,4474,Mons
+3885,9021:9,3,4476,Mons
+1163,9022:0,4,4475,Charleroi South
+1163,9023:0,3,4476,Charleroi South
+1163,9023:1,3,4478,Charleroi South
+1163,9023:10,3,4496,Charleroi South
+1163,9023:11,3,4498,Charleroi South
+1163,9023:12,3,4500,Charleroi South
+1163,9023:13,3,4502,Charleroi South
+1163,9023:14,3,4504,Charleroi South
+1163,9023:15,3,4506,Charleroi South
+1163,9023:16,3,4508,Charleroi South
+1163,9023:2,3,4480,Charleroi South
+1163,9023:3,3,4482,Charleroi South
+1163,9023:4,3,4484,Charleroi South
+1163,9023:5,3,4486,Charleroi South
+1163,9023:6,3,4488,Charleroi South
+1163,9023:7,3,4490,Charleroi South
+1163,9023:8,3,4492,Charleroi South
+1163,9023:9,3,4494,Charleroi South
+1163,9024:0,363,4478,Charleroi South
+1163,9024:1,363,4480,Charleroi South
+1163,9024:2,363,4482,Charleroi South
+1163,9024:3,363,4484,Charleroi South
+1163,9024:4,363,4486,Charleroi South
+1163,9024:5,363,4488,Charleroi South
+1163,9024:6,363,4490,Charleroi South
+1163,9024:7,363,4492,Charleroi South
+1236,9025:0,3,4504,Essen
+3890,9026:0,3,4505,Essen
+3890,9027:0,3,4506,Essen
+3890,9028:0,3,4507,Essen
+3890,9028:1,3,4509,Essen
+3890,9028:10,3,4527,Essen
+3890,9028:2,3,4511,Essen
+3890,9028:3,3,4513,Essen
+3890,9028:4,3,4515,Essen
+3890,9028:5,3,4517,Essen
+3890,9028:6,3,4519,Essen
+3890,9028:7,3,4521,Essen
+3890,9028:8,3,4523,Essen
+3890,9028:9,3,4525,Essen
+3890,9029:0,3,4518,Essen
+3890,9029:1,3,4520,Essen
+3890,9029:2,3,4522,Essen
+3890,9029:3,3,4524,Essen
+1231,9030:0,3,4522,Brussels North
+2572,9031:0,3,4526,Charleroi South
+105,9032:0,3,4527,Charleroi South
+105,9033:0,3,4528,Charleroi South
+105,9033:1,3,4530,Charleroi South
+105,9033:2,3,4532,Charleroi South
+105,9033:3,3,4534,Charleroi South
+105,9033:4,3,4536,Charleroi South
+105,9033:5,3,4538,Charleroi South

@@ -43,16 +43,42 @@ public class Try extends PApplet {
 		map.zoomToLevel(4);
 		MapUtils.createDefaultEventDispatcher(this, map);
 
-		List<Marker> markers = this.createMarkers();
+		//List<Marker> markers = this.createMarkers();
 		// Add markers to map
-		map.addMarkers(markers);
+		//map.addMarkers(markers);
 		
 		
 		
-		map.panTo(markers.get(0).getLocation());
+		//map.panTo(markers.get(0).getLocation());
 		
-		initTrain();
+		//initTrain();
 		
+		this.tryut();
+		
+	}
+	
+	List<Marker> trai = new ArrayList<Marker>();
+	
+	public void tryut(){
+		List<StopTimes> stoptimes = Parser.loadStopTimes("nmbs/stop_times.txt");
+		HashMap<Float, float[]> trains = this.getTrainForStopTimes(stoptimes.subList(0, 17));
+		int i=0;
+		for(float[] flo:trains.values()){
+			i++;
+			Location location = new Location(flo[0], flo[1]);
+			LabeledMarker marker = new LabeledMarker(location, String.valueOf(i), font, 6);
+			marker.setColor(color(100, 100, 0, 100));
+			trai.add(marker);
+		}
+		
+		System.out.println("x: "+trai.get(6).getLocation().x+" ,y: "+ +trai.get(6).getLocation().y+" ,z: "+ +trai.get(6).getLocation().z); 
+		System.out.println("x: "+trai.get(7).getLocation().x+" ,y: "+ +trai.get(7).getLocation().y+" ,z: "+ +trai.get(7).getLocation().z); 
+		System.out.println("x: "+trai.get(8).getLocation().x+" ,y: "+ +trai.get(8).getLocation().y+" ,z: "+ +trai.get(8).getLocation().z); 
+	}
+	
+	public void initMarker(){
+		map.addMarker(trai.get(i));
+		i++;
 	}
 	
 	public void initTrain(){
@@ -72,9 +98,11 @@ public class Try extends PApplet {
 		
 		for(StopEntry entry:data){
 			Location location = new Location(entry.stop_lat, entry.stop_lon);
+			System.out.println(location);
 			LabeledMarker marker = new LabeledMarker(location, entry.stop_name, font, 5);
 			markers.add(marker);
 		}
+		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@");
 		return markers;
 		
 	}
@@ -100,7 +128,8 @@ public class Try extends PApplet {
 	
 	public void keyPressed() {
 		if (key == ' ') {
-			initTrain();
+			initMarker();
+			//initTrain();
 		}
 	}
 	
@@ -148,15 +177,18 @@ public class Try extends PApplet {
 		HashMap<Float, float[]> result = new HashMap<Float, float[]>();
 		
 		float lastTime = Float.NaN;
+		float lastcoord[] = new float[2];
 		
 		for(StopTimes stop: stopTimes){
+			float[] coord = this.getCoord(stop.stop_id);
 			if(lastTime!=Float.NaN){
-				result.putAll(this.getTrainBetweenStops(lastTime, this.timeToFloat(stop.arrival_time), null, null));//TODO coord
+				result.putAll(this.getTrainBetweenStops(lastTime, this.timeToFloat(stop.arrival_time), lastcoord, coord));//TODO coord
 			}
-			result.putAll(this.getSingleStop(this.timeToFloat(stop.arrival_time), this.timeToFloat(stop.departure_time), null)); //TODO coord
+			result.putAll(this.getSingleStop(this.timeToFloat(stop.arrival_time), this.timeToFloat(stop.departure_time), coord)); //TODO coord
 			lastTime = this.timeToFloat(stop.departure_time);
+			lastcoord = coord;
 		}
-		
+		System.out.println(result.size());
 		return result;
 		
 		
@@ -192,7 +224,7 @@ public class Try extends PApplet {
 	
 	public Float timeToFloat(String time){
 		Float hours = Float.parseFloat(time.substring(0, 2));
-		Float minutes = Float.parseFloat(time.substring(2, 4));
+		Float minutes = Float.parseFloat(time.substring(3, 5));
 		return hours*60+minutes;
 	}
 	

@@ -62,10 +62,12 @@ public class Try extends PApplet {
 	public void tryut(){
 		List<StopTimes> stoptimes = Parser.loadStopTimes("nmbs/stop_times.txt");
 		HashMap<Float, float[]> trains = this.getTrainForStopTimes(stoptimes.subList(0, 17));
+		
 		int i=0;
 		for(float[] flo:trains.values()){
 			i++;
 			Location location = new Location(flo[0], flo[1]);
+			System.out.println(location);
 			LabeledMarker marker = new LabeledMarker(location, String.valueOf(i), font, 6);
 			marker.setColor(color(100, 100, 0, 100));
 			trai.add(marker);
@@ -78,7 +80,10 @@ public class Try extends PApplet {
 	
 	public void initMarker(){
 		map.addMarker(trai.get(i));
+		System.out.println(trai.get(i).getLocation());
 		i++;
+		//TODO
+		System.out.println("InitMarker" + i);
 	}
 	
 	public void initTrain(){
@@ -86,6 +91,7 @@ public class Try extends PApplet {
 		train = new LabeledMarker(map.getMarkers().get(i).getLocation(), "test", font, 10);
 		train.setColor(color(255, 0, 0, 100));
 		map.addMarker(train);
+		System.out.println("initTrain" + i);
 		i++;
 		
 	}

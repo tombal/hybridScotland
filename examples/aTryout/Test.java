@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Vector;
@@ -41,6 +42,8 @@ public class Test extends PApplet{
 	
 	//list of all trains
 	List<Train> allTrainsForDay;
+	
+	Player player = new Player(getCoord(32352)[0], getCoord(32352)[1], 32352);
 	
 	PFont font = loadFont("ui/OpenSans-18.vlw");
 	
@@ -133,6 +136,8 @@ public class Test extends PApplet{
 			map.addMarker(marker);
 		}
 		
+		//TODO: player
+		
 		time++;
 		
 	}
@@ -210,9 +215,32 @@ public class Test extends PApplet{
 		return result;
  	}
 	
-	private List<Train> getTrainsforTripId(String trip_id, Train train){
-		
+	private List<DataStopTime> getStopTimesBetweenStations(String trip_id, float stop_idFirst, float stop_idSecond){
 		List<DataStopTime> stoptimes = this.stoptimes.get(trip_id);
+		if(stop_idFirst==-1){
+			return stoptimes;
+		}
+		int i1 = 0;
+		int i2 = 0;
+		for(DataStopTime stopTime: stoptimes){
+			if(stopTime.stop_id.equals(stop_idFirst)){
+				i1 = stoptimes.indexOf(stopTime);
+			} else if(stopTime.stop_id.equals(stop_idSecond)){
+				i2 = stoptimes.indexOf(stopTime);
+				break;
+			}
+		}
+		return stoptimes.subList(i1, i2+1);
+	}
+	
+	private List<Train> getTrainsforTripId(String trip_id, Train train){
+		return this.getTrainsforTripId(trip_id, train, -1, -1);
+	}
+
+	
+	private List<Train> getTrainsforTripId(String trip_id, Train train, float stop_idFirst, float stop_idSecond){
+
+		List<DataStopTime> stoptimes = this.getStopTimesBetweenStations(trip_id, stop_idFirst, stop_idSecond);
 		
 		List<Train> result = new ArrayList<Test.Train>();
 		
@@ -231,9 +259,7 @@ public class Test extends PApplet{
 					trains,
 					this.timeToFloat(stop.departure_time))); 
 			lastTrain = result.get(result.size()-1);
-		}
-		
-		
+		}	
 		return result;
 	}
 	
@@ -334,19 +360,30 @@ public class Test extends PApplet{
 		// -1 if not at stop;
 		private float stop_id;
 		
+		public Player(float coordX, float coordY, float stop_id){
+			this.setCoord(coordX, coordY, stop_id);
+		}
+		
+		public void setCoord(float coordX, float coordY, float stop_id){
+			this.coordX=coordX;
+			this.coordY=coordY;
+			this.stop_id=stop_id;
+		}
+		
+		private List<Train> trains = new ArrayList<Test.Train>();
 		
 		private boolean canGetOnTrain(Train train){
 			return this.stop_id==train.stop_id && time<train.time;
 		}
 		
-		private void getOn(String trip_id, float Start_id, float stop_id){
-			//stoptimes.get(trip_id)
+		public void getOn(String trip_id, float Start_id, float stop_id){
+			//TODO informatie van trein juist invullen
+			Train train = new Train(20131215, 0, 0, trip_id, 0, "0");
+
+			//alle vorige treinen gaan verloren, pas opstappen op andere trein als je bent afgestapt
+			this.trains = getTrainsforTripId(trip_id, train, Start_id, stop_id);
 		}
-		
-		
-		
-		
-		
+
 	}
 	
 	

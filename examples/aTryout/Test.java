@@ -39,11 +39,12 @@ public class Test extends PApplet{
 	Map<Float, DataRoute> routes;
 	Map<String, List<DataStopTime>> stoptimes;
 	List<DataTrips> trips;
+	Player player;
 	
 	//list of all trains
 	List<Train> allTrainsForDay;
 	
-	Player player = new Player(getCoord(32352)[0], getCoord(32352)[1], 32352);
+	
 	
 	PFont font = loadFont("ui/OpenSans-18.vlw");
 	
@@ -54,6 +55,11 @@ public class Test extends PApplet{
 		
 		//load all the data from the nmbs 
 		this.loadData();
+		
+		Float[] coord = this.getCoord(32737);
+		player = new Player(coord[0], coord[1], 32737);
+		
+		player.getOn("4979:0", 32737, 32482);
 
 		size(800, 600, OPENGL);
 
@@ -108,8 +114,6 @@ public class Test extends PApplet{
 		List<Train> result = allTrainsForDay.subList(index, endIndex);
 		index = endIndex;
 		return result;
-		
-		
 	}
 	
 	//create markers for every train
@@ -133,6 +137,30 @@ public class Test extends PApplet{
 		
 				marker.setColor(color(0, 0, 255, 100));
 			}
+			map.addMarker(marker);
+		}
+		
+		if(!player.trains.isEmpty()){
+			Train train = player.trains.get(0);
+			if(train.time==this.time){
+				player.trains.remove(0);
+			}
+			Location location = new Location(train.coordX, train.coordY);
+			float stopId = train.stop_id;
+			LabeledMarker marker = new LabeledMarker(location, "player", font, 10);
+			if(stopId>=0){
+				marker.setColor(color(0, 255, 0, 100));
+			}else{
+		
+				marker.setColor(color(0, 255, 0, 50));
+			}
+			map.addMarker(marker);
+		}else{
+			//station
+			Float[] coord = this.getCoord(player.stop_id);
+			Location location = new Location(coord[0],coord[1]);
+			LabeledMarker marker = new LabeledMarker(location, "player", font, 10);
+			marker.setColor(color(0, 255, 0, 100));
 			map.addMarker(marker);
 		}
 		
@@ -183,12 +211,9 @@ public class Test extends PApplet{
 		return result;
 	}
 	
-	private float[] getCoord(float stop_id) {
-		float result[] = new float[2];
+	private Float[] getCoord(float stop_id) {
 		DataStop stop = stops.get(stop_id);
-		result[0] = stop.stop_lat;
-		result[1] = stop.stop_lon;
-		return result;
+		return new Float[] {stop.stop_lat, stop.stop_lon};
 	}
 	
 	private List<DataTrips> getTripIdForServiceIds(List<Float> serviceIds){
@@ -355,6 +380,7 @@ public class Test extends PApplet{
 	
 	private class Player{
 		
+		//coord van station waar hij zal afstappen!!!
 		private float coordX;
 		private float coordY;
 		// -1 if not at stop;
@@ -382,6 +408,8 @@ public class Test extends PApplet{
 
 			//alle vorige treinen gaan verloren, pas opstappen op andere trein als je bent afgestapt
 			this.trains = getTrainsforTripId(trip_id, train, Start_id, stop_id);
+			
+			this.stop_id=stop_id;
 		}
 
 	}

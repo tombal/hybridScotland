@@ -57,7 +57,7 @@ public class Test extends PApplet{
 	List<Train> allTrainsForDay;
 	
 	//Settings
-	private static final int TIMEWINDOW = 600000;
+	private static final int TIMEWINDOW = 10;
 	
 	PFont font = loadFont("ui/OpenSans-18.vlw");
 	
@@ -365,6 +365,14 @@ public class Test extends PApplet{
 		return result;
 	}
 	
+	private String floatToTime(Float time) {
+		Integer hoursI = Math.round(time/10);
+		String hoursS = String.valueOf(hoursI);
+		String minutesS = String.valueOf(time - hoursI);
+		String result = hoursS + minutesS;
+		return result;
+	}
+	
 	private Float[] getCoord(float stop_id) {
 		DataStop stop = stops.get(stop_id);
 		return new Float[] {stop.stop_lat, stop.stop_lon};
@@ -465,31 +473,34 @@ public class Test extends PApplet{
 	private DateFormat hourFormat = new SimpleDateFormat( "HH:mm:ss");
 	
 	private List<DataStopTime> getStopTimesFromStation(Float stop_id, String timenow) throws ParseException{
-		List<DataStopTime> stoptimes = this.stoptimesByStopId.get(stop_id);
+		List<DataStopTime> stoptimesbyStopId = this.stoptimesByStopId.get(stop_id);
 				
 		List<DataStopTime> result = new ArrayList<DataStopTime>();
 		
-		Date timeNowFormatted = hourFormat.parse(timenow);
-		System.out.println("time formatted: " + timeNowFormatted.getTime());
-		Date timePlusWindow = new Date (timeNowFormatted.getTime());
-		System.out.println("time plus window: " +timePlusWindow.toString());
-		Date timePlusWindowFormatted = hourFormat.parse(timePlusWindow.toString());
-		System.out.println("time plus window Fromatted: " + timePlusWindowFormatted.toString());
+		
+		Float timeNowFloat = timeToFloat(timenow);
+		Float timePlusWindowFloat = timeNowFloat + TIMEWINDOW;
+		Float timeMinWindowFloat = timeNowFloat - TIMEWINDOW;
+		//String timePlusWindow = floatToTime(timePlusWindowFloat);
+		
+		
 		HashSet<String> tripIDs = new HashSet<String>();
-		for (DataStopTime stop : stoptimes) {
-			if ( hourFormat.parse(stop.departure_time).before(timePlusWindow) )
-				System.out.println("departure time: " + stop.departure_time);
-				System.out.println("trip id: " + stop.trip_id);
-				//TODO nullpointerException => stop.tripId == null
-				System.out.println("stop times: " + this.stoptimes.get(stop.trip_id));
-				for(DataStopTime stopTime : this.stoptimes.get(stop.trip_id) ){
-					if(stopTime.stop_sequence >= stop.stop_sequence)
-						result.add(stopTime);
-				}
-				
+		for (DataStopTime stop : stoptimesbyStopId) {
+			if ( timeToFloat(stop.departure_time) <= timePlusWindowFloat && timeMinWindowFloat <= timeToFloat(stop.departure_time))
+				result.add(stop);
 		}		
 		return result;
-}
+	}
+	
+	private List<DataStopTime> getStopTimesFromDeparingTrain(DataStopTime departingTrain){
+		List<DataStopTime> result = new ArrayList<DataStopTime>();
+		for(DataStopTime stopTime : this.stoptimes.get(departingTrain.trip_id) ){
+			if(stopTime.stop_sequence >= departingTrain.stop_sequence)
+				result.add(stopTime);
+		}
+		return result;
+	}
+
 		
 	
 	

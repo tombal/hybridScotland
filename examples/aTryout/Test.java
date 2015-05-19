@@ -91,11 +91,8 @@ public class Test extends PApplet{
 	    
 
 	    
-	    System.out.println("before");
 	    rowSelection.addListSelectionListener(new ListSelectionListener() {
-	        public void valueChanged(ListSelectionEvent e) {
-	          String selectedData = null;
-	          
+	        public void valueChanged(ListSelectionEvent e) {	          
 	          int row = table.getSelectedRow();
 
 	          String stop_ID = (String) table.getModel().getValueAt(row, 0);
@@ -124,8 +121,10 @@ public class Test extends PApplet{
 		return result[0];
 	}
 	
-	
+	boolean run = true;
 	public void initPlayers(){
+		if(run){
+			run = false;
 		players = new ArrayList<Test.Player>();
 		System.out.println("staaaaa");
 		for(int i=0; i<3;i++){
@@ -137,16 +136,13 @@ public class Test extends PApplet{
 		}
 		
 		
-		
+		}
 		
 	}
 	
-	boolean run =  true;
 	
 	public void setup() {
 		
-		if(run){
-		run=false;
 		
 		System.out.println("0");
 
@@ -154,24 +150,29 @@ public class Test extends PApplet{
 		this.loadData();
 		
 		
-		System.out.println("1");
-		System.out.println("2");
+		this.initPlayers();
 
-		
+
+
 		
 		
 		Float[] coord = this.getCoord(32737);
 		player = new Player(coord[0], coord[1], 32737);
 		
+
+		
 		player.getOn("4979:0", 32737, 32482);
-		size(800, 600, OPENGL);
+		
 		Location belgiumLocation = new Location(50.833333f, 4f);
 		map = new UnfoldingMap(this, "map", 52f, 4f, 750, 650);
+		
+		this.size(800, 600, OPENGL);
+
 		map.zoomToLevel(8);
 		MapUtils.createDefaultEventDispatcher(this, map);
 		map.panTo(belgiumLocation);
 		
-		this.initPlayers();
+
 
 		
 		//this.showStops();
@@ -190,10 +191,7 @@ public class Test extends PApplet{
 		initMarker();
 		//Test jochen
 		showDepartingTrainsInStation((float) 32335,"18:04:00");
-		
-		
 
-		}
 	}
 	
 	public void draw() {

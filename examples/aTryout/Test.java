@@ -526,21 +526,22 @@ public class Test extends PApplet{
 								break;
 							}
 						}
-					      Vector colData = new Vector( Arrays.asList(stop.arrival_time,stopName, stop.departure_time, tripname));
+					      Vector colData = new Vector( Arrays.asList(stop.arrival_time, stop.departure_time, tripname));
 					      //Vector colData = new Vector( Arrays.asList(stop.trip_id, this.stops.get(stop.stop_id).stop_name,stop.arrival_time,stop.departure_time,stop.stop_sequence.toString()));
 					      rowData.add(colData);
 				    }
 					
 				
 				//Setup table
-			    String[] columnNames = {"Arrival Time", "Current Station", "Departure Time", "Name route"};
+			    String[] columnNames = {"Arrival Time", "Departure Time", "Name route"};
 			    
 			    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
 			    JTable table = new JTable(rowData, columnNamesV);
 			    
 			    JFrame fdeparting = new JFrame();
+			    fdeparting.setTitle("Current Station: "+ stopName);
 			    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
-			    fdeparting.setSize(300, 300);
+			    fdeparting.setSize(600,600);
 			    fdeparting.add(new JScrollPane(table));
 			    fdeparting.setVisible(true);
 			    

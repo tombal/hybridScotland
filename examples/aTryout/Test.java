@@ -14,9 +14,14 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.Vector;
+
 import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
+import javax.swing.ListSelectionModel;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
+
 import de.fhpotsdam.unfolding.UnfoldingMap;
 import de.fhpotsdam.unfolding.examples.marker.labelmarker.LabeledMarker;
 import de.fhpotsdam.unfolding.geo.Location;
@@ -46,6 +51,8 @@ public class Test extends PApplet{
 	List<DataTrips> trips;
 	Player player;
 	
+	List<Player> players;
+	
 	//list of all trains
 	List<Train> allTrainsForDay;
 	
@@ -54,6 +61,74 @@ public class Test extends PApplet{
 	
 	PFont font = loadFont("ui/OpenSans-18.vlw");
 	
+	public float askStation(String title){
+		final float[] result = {0};
+		result[0]=-1;
+		
+		
+		Vector rowData = new Vector();
+		Collection<DataStop> st = stops.values();
+	    for (DataStop stop : st) {
+	      Vector colData = new Vector(Arrays.asList(stop.getArray()));
+	      rowData.add(colData);
+	    }
+	    
+	    String[] columnNames = {"stop_id", "stop_name", "stop_lat", "stop_lon", "stop_code"};
+	    
+	    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
+	    final JTable table = new JTable(rowData, columnNamesV);
+	    table.setRowSelectionAllowed(true);
+
+	    ListSelectionModel rowSelection = table.getSelectionModel();
+	    rowSelection.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+	    
+	    JFrame f = new JFrame();
+	    f.setTitle(title);
+	    f.setSize(300, 300);
+	    f.add(new JScrollPane(table));
+	    f.setVisible(true);
+	    
+	    
+
+	    
+	    System.out.println("before");
+	    rowSelection.addListSelectionListener(new ListSelectionListener() {
+	        public void valueChanged(ListSelectionEvent e) {
+	          String selectedData = null;
+	          
+	          int row = table.getSelectedRow();
+
+	          String stop_ID = (String) table.getModel().getValueAt(row, 0);
+	          float stop_Id = Float.parseFloat(stop_ID);
+	          System.out.println("Selected: " + stop_Id);
+	          result[0] = stop_Id;
+	        }
+
+	      });
+	   
+		
+		
+		while(result[0]==-1){
+			//do nothing
+		}
+				
+		return result[0];
+	}
+	
+	
+	public void initPlayers(){
+		players = new ArrayList<Test.Player>();
+		for(int i=0; i<3;i++){
+			float id = this.askStation("select a station for player "+(i+1));
+			Float[] coord = this.getCoord(id);
+			Player player = new Player(coord[0], coord[1], id);
+			players.add(player);
+		}
+		
+		
+		
+		
+	}
 	
 	
 	
@@ -61,6 +136,13 @@ public class Test extends PApplet{
 		
 		//load all the data from the nmbs 
 		this.loadData();
+		
+		
+		this.initPlayers();
+
+		
+		
+		
 		Float[] coord = this.getCoord(32737);
 		player = new Player(coord[0], coord[1], 32737);
 		
@@ -80,7 +162,8 @@ public class Test extends PApplet{
 		// initTrain();
 		//this.tryoutOneDay();
 		
-		this.showStops();
+		
+		//this.showStops();
 		
 		this.allTrainsForDay = this.getTrainsForDay(20131215);
 		initMarker();
@@ -190,13 +273,34 @@ public class Test extends PApplet{
 	    String[] columnNames = {"stop_id", "stop_name", "stop_lat", "stop_lon", "stop_code"};
 	    
 	    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
-	    JTable table = new JTable(rowData, columnNamesV);
+	    final JTable table = new JTable(rowData, columnNamesV);
 	    
 	    JFrame f = new JFrame();
 	    f.setSize(300, 300);
 	    f.add(new JScrollPane(table));
 	    f.setVisible(true);
+	    
+	    table.setRowSelectionAllowed(true);
+	    
+	    ListSelectionModel rowSelection = table.getSelectionModel();
+	    rowSelection.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+	    
+	    
+	    rowSelection.addListSelectionListener(new ListSelectionListener() {
+	        public void valueChanged(ListSelectionEvent e) {
+	          String selectedData = null;
+	          
+	          int row = table.getSelectedRow();
+
+	          String stop_ID = (String) table.getModel().getValueAt(row, 0);
+	          float stop_Id = Float.parseFloat(stop_ID);
+	          System.out.println("Selected: " + stop_Id);
+	        }
+
+	      });
+	   
 	}
+	
 	
 	private List<Float> getSeviceIdForDay(float day){
 		return this.dates.get(day);

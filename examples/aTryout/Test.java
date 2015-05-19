@@ -6,35 +6,28 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Iterator;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.Vector;
 
 import javax.swing.JDialog;
-import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.ListSelectionModel;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-import de.fhpotsdam.unfolding.UnfoldingMap;
-import de.fhpotsdam.unfolding.examples.marker.labelmarker.LabeledMarker;
-import de.fhpotsdam.unfolding.geo.Location;
-import de.fhpotsdam.unfolding.utils.MapUtils;
 import processing.core.PApplet;
+import processing.core.PFont;
 import aTryout.DataParser.DataRoute;
 import aTryout.DataParser.DataStop;
 import aTryout.DataParser.DataStopTime;
 import aTryout.DataParser.DataTrips;
-import aTryout.Parser.StopEntry;
-import aTryout.Parser.StopTimes;
-import processing.core.PFont;
+import de.fhpotsdam.unfolding.UnfoldingMap;
+import de.fhpotsdam.unfolding.examples.marker.labelmarker.LabeledMarker;
+import de.fhpotsdam.unfolding.geo.Location;
+import de.fhpotsdam.unfolding.utils.MapUtils;
 public class Test extends PApplet{
 	
 	/**
@@ -191,9 +184,15 @@ public class Test extends PApplet{
 		this.allTrainsForDay = this.getTrainsForDay(20131215);
 		initMarker();
 		//Test jochen
+		//if(NotRundepartinTest){
+			NotRundepartinTest = false;
+			System.out.println("DepartingTrainTest");
 			showDepartingTrainsInStation((float) 32335,"18:04:00");
+		//}
 
 	}
+	private boolean NotRundepartinTest = true;
+	
 	
 	public void draw() {
 		background(240);
@@ -511,10 +510,11 @@ public class Test extends PApplet{
 	
 
 	
+	
 	//show all stops in table (using JTable) 
 			private void showDepartingTrainsInStation(Float stop_id, String timenow){
-				final String[] resultingSelection = {null};
-				resultingSelection[0]=null;
+				//final String[] resultingSelection = {null};
+				//resultingSelection[0]=null;
 
 				try{
 					List<DataStopTime> departingTrains = getStopTimesFromStation(stop_id, timenow);
@@ -548,9 +548,10 @@ public class Test extends PApplet{
 			    fdeparting.setTitle("Current Station: "+ stopName);
 			    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
 			    fdeparting.setSize(600,600);
-			    fdeparting.add(new JScrollPane(table));
+			    JScrollPane scrollPane = new JScrollPane(table); 
+			    fdeparting.add(scrollPane);
 			    fdeparting.setVisible(true);
-			    
+
 			    
 			    table.setRowSelectionAllowed(true);
 				System.out.println("done departingtapble");
@@ -567,32 +568,36 @@ public class Test extends PApplet{
 
 			          String trip_id = (String) table.getModel().getValueAt(row, 3);
 			          System.out.println("Selected: " + trip_id);
-			          resultingSelection[0] = trip_id;
-			          System.out.println("Selected array: " + resultingSelection[0]);
-
+			          //resultingSelection[0] = trip_id;
+			          //System.out.println("Selected array: " + resultingSelection[0]);
 			        }
 
 			      });
+			    
+
+
 			   
 			    System.out.println("going in while loop");
-		          System.out.println("After Selected array: " + resultingSelection[0]);
 		          String nullStr = null;
-		          try {
-					Thread.sleep(500);
-					while(resultingSelection[0].equals(nullStr))
+					//while(resultingSelection[0].equals(nullStr)){
+		          System.out.println(table.getSelectedRow());
+					while(table.getSelectedRow() == -1){
+				          try {
+				        	  System.out.println(table.getSelectedRow());
 							Thread.sleep(500);
-				} catch (InterruptedException e1) {
-					// TODO Auto-generated catch block
-					e1.printStackTrace();
-				}
-				
+				          	} catch (InterruptedException e1) {
+				          			// TODO Auto-generated catch block
+				          			e1.printStackTrace();
+				          	}
+					}
+			    //System.out.println("After Selected array: " + resultingSelection[0]);
+
 				
 			    System.out.println("coming out while loop");
 
 				
-				fdeparting.dispose();			    
-			    
-			    String trip_id = resultingSelection[0];
+		          int row = table.getSelectedRow();
+			    String trip_id = (String) table.getModel().getValueAt(row, 3);
 			    
 			   List< DataStopTime> trainList = this.stoptimes.get(trip_id);
 			   DataStopTime train = null;
@@ -603,9 +608,10 @@ public class Test extends PApplet{
 					}
 				}
 
-			    		
-			    
+				fdeparting.dispose();			    
+		
 			   List<DataStopTime> listNextTrains = getStopTimesFromDeparingTrain(train);
+			    System.out.println("Going for routeTrains: " + listNextTrains.toString());
 			    showRestingTrainsInRoute(listNextTrains, departingRouteName);
 			   			    
 			    

@@ -109,16 +109,27 @@ public class Test extends PApplet{
 		
 		
 		while(result[0]==-1){
+			try {
+				Thread.sleep(500);
+			} catch (InterruptedException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
 			//do nothing
 		}
-				
+		
+		f.dispose();
+		
+		
 		return result[0];
 	}
 	
 	
 	public void initPlayers(){
 		players = new ArrayList<Test.Player>();
+		System.out.println("staaaaa");
 		for(int i=0; i<3;i++){
+			System.out.println("iiiii");
 			float id = this.askStation("select a station for player "+(i+1));
 			Float[] coord = this.getCoord(id);
 			Player player = new Player(coord[0], coord[1], id);
@@ -130,15 +141,21 @@ public class Test extends PApplet{
 		
 	}
 	
-	
+	boolean run =  true;
 	
 	public void setup() {
 		
+		if(run){
+		run=false;
+		
+		System.out.println("0");
+
 		//load all the data from the nmbs 
 		this.loadData();
 		
 		
-		this.initPlayers();
+		System.out.println("1");
+		System.out.println("2");
 
 		
 		
@@ -153,6 +170,10 @@ public class Test extends PApplet{
 		map.zoomToLevel(8);
 		MapUtils.createDefaultEventDispatcher(this, map);
 		map.panTo(belgiumLocation);
+		
+		this.initPlayers();
+
+		
 		//this.showStops();
 		
 		//List<Marker> markers = this.createMarkers();
@@ -169,6 +190,10 @@ public class Test extends PApplet{
 		initMarker();
 		//Test jochen
 		showDepartingTrainsInStation((float) 32335,"18:04:00");
+		
+		
+
+		}
 	}
 	
 	public void draw() {
@@ -223,6 +248,35 @@ public class Test extends PApplet{
 			}
 			map.addMarker(marker);
 		}
+		
+		
+		for(Player play: players){
+			if(!play.trains.isEmpty()){
+				Train train = play.trains.get(0);
+				if(train.time==this.time){
+					play.trains.remove(0);
+				}
+				Location location = new Location(train.coordX, train.coordY);
+				float stopId = train.stop_id;
+				LabeledMarker marker = new LabeledMarker(location, "player", font, 10);
+				if(stopId>=0){
+					marker.setColor(color(0, 255, 255, 100));
+				}else{
+			
+					marker.setColor(color(0, 255, 255, 50));
+				}
+				map.addMarker(marker);
+			}else{
+				//station
+				Float[] coord = this.getCoord(play.stop_id);
+				Location location = new Location(coord[0],coord[1]);
+				LabeledMarker marker = new LabeledMarker(location, "player", font, 10);
+				marker.setColor(color(0, 255, 255, 100));
+				map.addMarker(marker);
+			}
+		}
+		
+		
 		if(!player.trains.isEmpty()){
 			Train train = player.trains.get(0);
 			if(train.time==this.time){

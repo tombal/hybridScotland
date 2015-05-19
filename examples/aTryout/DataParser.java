@@ -216,7 +216,7 @@ public class DataParser {
 				dataEntry.departure_time = lineList.get(3);
 				dataEntry.stop_sequence = Integer.parseInt(lineList.get(4));
 				
-				List<DataStopTime> stopTimes = result.get(dataEntry.trip_id);
+				List<DataStopTime> stopTimes = result.get(dataEntry.stop_id);
 				
 				if(stopTimes==null){
 					stopTimes = new ArrayList<DataParser.DataStopTime>();
@@ -233,6 +233,19 @@ public class DataParser {
 		} // Reads from input
 		return result;
 	}
+	
+	/*static class DataStopTimeByStop {
+		Float stop_id;
+		String trip_id;
+		String arrival_time;
+		String departure_time;
+		Integer stop_sequence;
+		public Object getArray() {
+			//return null;
+			String[] result = {stop_id.toString(),trip_id, arrival_time,departure_time,stop_sequence.toString()};
+			return result;	
+		}
+	}*/
 	//JOCHEN
 	
 	

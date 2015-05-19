@@ -499,32 +499,45 @@ public class Test extends PApplet{
 	
 	
 	//show all stops in table (using JTable) 
-		private void showDepartingTrainsInStation(Float stop_id, String timenow){
-			try{
-				List<DataStopTime> departingTrains = getStopTimesFromStation(stop_id, timenow);
-				Vector rowData = new Vector();
-				for (DataStopTime stop : departingTrains) {
-				      Vector colData = new Vector( Arrays.asList(stop.trip_id, this.stops.get(stop.stop_id).stop_name,stop.arrival_time,stop.departure_time,stop.stop_sequence.toString()));
-				      rowData.add(colData);
-			    }
+			private void showDepartingTrainsInStation(Float stop_id, String timenow){
+				try{
+					List<DataStopTime> departingTrains = getStopTimesFromStation(stop_id, timenow);
+					
+					String stopName = this.stops.get(stop_id).stop_name;
+					
+					Vector rowData = new Vector();
+					for (DataStopTime stop : departingTrains) {
+						//String tripId = stop.trip_id;
+						String tripname = "HeadSign not available";
+						for(DataTrips trip : this.trips){
+							if(trip.trip_id.equals(stop.trip_id)){
+								tripname = trip.trip_headsign;
+								break;
+							}
+						}
+					      Vector colData = new Vector( Arrays.asList(stop.arrival_time,stopName, stop.departure_time, tripname));
+					      //Vector colData = new Vector( Arrays.asList(stop.trip_id, this.stops.get(stop.stop_id).stop_name,stop.arrival_time,stop.departure_time,stop.stop_sequence.toString()));
+					      rowData.add(colData);
+				    }
+					
 				
-			
-			//Setup table
-		    String[] columnNames = {"trip_id", "stop_name", "arrival_time", "departure_time", "stop_sequence"};
-		    
-		    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
-		    JTable table = new JTable(rowData, columnNamesV);
-		    
-		    JFrame fdeparting = new JFrame();
-		    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
-		    fdeparting.setSize(300, 300);
-		    fdeparting.add(new JScrollPane(table));
-		    fdeparting.setVisible(true);
-		    
-		    
-			}catch (ParseException e){
+				//Setup table
+			    String[] columnNames = {"Arrival Time", "Current Station", "Departure Time", "Name route"};
+			    
+			    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
+			    JTable table = new JTable(rowData, columnNamesV);
+			    
+			    JFrame fdeparting = new JFrame();
+			    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
+			    fdeparting.setSize(300, 300);
+			    fdeparting.add(new JScrollPane(table));
+			    fdeparting.setVisible(true);
+			    
+			    
+				}catch (ParseException e){
+					e.printStackTrace();
+				}
 			}
-		}
 	
 	
 	

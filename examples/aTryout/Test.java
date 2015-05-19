@@ -1,19 +1,22 @@
 package aTryout;
-
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.Vector;
-
 import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-
 import de.fhpotsdam.unfolding.UnfoldingMap;
 import de.fhpotsdam.unfolding.examples.marker.labelmarker.LabeledMarker;
 import de.fhpotsdam.unfolding.geo.Location;
@@ -26,11 +29,12 @@ import aTryout.DataParser.DataTrips;
 import aTryout.Parser.StopEntry;
 import aTryout.Parser.StopTimes;
 import processing.core.PFont;
-
-
-
 public class Test extends PApplet{
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -6393266518120392076L;
 	UnfoldingMap map;
 	
 	//maps with data
@@ -38,13 +42,15 @@ public class Test extends PApplet{
 	Map<Float,List<Float>> dates;
 	Map<Float, DataRoute> routes;
 	Map<String, List<DataStopTime>> stoptimes;
+	Map<Float, List<DataStopTime>> stoptimesByStopId;
 	List<DataTrips> trips;
 	Player player;
 	
 	//list of all trains
 	List<Train> allTrainsForDay;
 	
-	
+	//Settings
+	private static final int TIMEWINDOW = 600000;
 	
 	PFont font = loadFont("ui/OpenSans-18.vlw");
 	
@@ -55,36 +61,31 @@ public class Test extends PApplet{
 		
 		//load all the data from the nmbs 
 		this.loadData();
-		
 		Float[] coord = this.getCoord(32737);
 		player = new Player(coord[0], coord[1], 32737);
 		
 		player.getOn("4979:0", 32737, 32482);
-
 		size(800, 600, OPENGL);
-
-		map = new UnfoldingMap(this, "map", 50, 50, 700, 500);
-		map.zoomToLevel(4);
+		Location belgiumLocation = new Location(50.833333f, 4f);
+		map = new UnfoldingMap(this, "map", 52f, 4f, 750, 650);
+		map.zoomToLevel(8);
 		MapUtils.createDefaultEventDispatcher(this, map);
-		
+		map.panTo(belgiumLocation);
 		//this.showStops();
 		
-
 		//List<Marker> markers = this.createMarkers();
 		//Add markers to map
 		//map.addMarkers(markers);
-
 		//map.panTo(markers.get(0).getLocation());
-
 		// initTrain();
-
 		//this.tryoutOneDay();
 		
 		this.showStops();
 		
 		this.allTrainsForDay = this.getTrainsForDay(20131215);
 		initMarker();
-
+		//Test jochen
+		showDepartingTrainsInStation((float) 32335,"18:04:00");
 	}
 	
 	public void draw() {
@@ -113,7 +114,7 @@ public class Test extends PApplet{
 		
 		List<Train> result = allTrainsForDay.subList(index, endIndex);
 		index = endIndex;
-		return result;
+		return result;		
 	}
 	
 	//create markers for every train
@@ -139,7 +140,6 @@ public class Test extends PApplet{
 			}
 			map.addMarker(marker);
 		}
-		
 		if(!player.trains.isEmpty()){
 			Train train = player.trains.get(0);
 			if(train.time==this.time){
@@ -165,16 +165,15 @@ public class Test extends PApplet{
 		}
 		
 		//TODO: player
-		
 		time++;
 		
 	}
-
 	private void loadData(){
 		this.stops = DataParser.getStops("nmbs/stops.txt");
 		this.dates = DataParser.gatDates("nmbs/calendar_dates.txt");
 		this.routes = DataParser.getRoutes("nmbs/routes.txt");
 		this.stoptimes = DataParser.getStopTimes("nmbs/stop_times.txt");
+		this.stoptimesByStopId = DataParser.getStopTimesByStopId("nmbs/stop_times_stopId.txt");
 		this.trips = DataParser.getTrips("nmbs/trips.txt");
 		
 	}
@@ -191,7 +190,6 @@ public class Test extends PApplet{
 	    String[] columnNames = {"stop_id", "stop_name", "stop_lat", "stop_lon", "stop_code"};
 	    
 	    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
-
 	    JTable table = new JTable(rowData, columnNamesV);
 	    
 	    JFrame f = new JFrame();
@@ -261,20 +259,16 @@ public class Test extends PApplet{
 	private List<Train> getTrainsforTripId(String trip_id, Train train){
 		return this.getTrainsforTripId(trip_id, train, -1, -1);
 	}
-
 	
 	private List<Train> getTrainsforTripId(String trip_id, Train train, float stop_idFirst, float stop_idSecond){
-
 		List<DataStopTime> stoptimes = this.getStopTimesBetweenStations(trip_id, stop_idFirst, stop_idSecond);
 		
 		List<Train> result = new ArrayList<Test.Train>();
 		
 		Train lastTrain = null;
-
 		for (DataStopTime stop : stoptimes) {
 			
 			Train newTrain = train.addcoordTime(stop.stop_id, stops.get(stop.stop_id).stop_lat, stops.get(stop.stop_id).stop_lon, this.timeToFloat(stop.arrival_time));
-
 			if(lastTrain!=null){
 				result.addAll(this.getTrainsBetween(lastTrain, newTrain));
 			}
@@ -288,8 +282,6 @@ public class Test extends PApplet{
 		return result;
 	}
 	
-
-
 	private List<Train> getTrainsBetween(Train lastTrain, Train newTrain) {
 		List<Train> result = new ArrayList<Test.Train>();
 		Train last = lastTrain;
@@ -304,7 +296,6 @@ public class Test extends PApplet{
 		}
 		return result;
 	}
-
 	private List<Train> getSingleStop(List<Train> trains, Float departure) {
 		Train last = trains.get(trains.size()-1);
 		while (last.time < departure) {
@@ -315,10 +306,72 @@ public class Test extends PApplet{
 		return trains;
 	}
 	
+	private DateFormat hourFormat = new SimpleDateFormat( "HH:mm:ss");
+	
+	private List<DataStopTime> getStopTimesFromStation(Float stop_id, String timenow) throws ParseException{
+		List<DataStopTime> stoptimes = this.stoptimesByStopId.get(stop_id);
+				
+		List<DataStopTime> result = new ArrayList<DataStopTime>();
+		
+		Date timeNowFormatted = hourFormat.parse(timenow);
+		System.out.println("time formatted: " + timeNowFormatted.getTime());
+		Date timePlusWindow = new Date (timeNowFormatted.getTime());
+		System.out.println("time plus window: " +timePlusWindow.toString());
+		Date timePlusWindowFormatted = hourFormat.parse(timePlusWindow.toString());
+		System.out.println("time plus window Fromatted: " + timePlusWindowFormatted.toString());
+		HashSet<String> tripIDs = new HashSet<String>();
+		for (DataStopTime stop : stoptimes) {
+			if ( hourFormat.parse(stop.departure_time).before(timePlusWindow) )
+				System.out.println("departure time: " + stop.departure_time);
+				System.out.println("trip id: " + stop.trip_id);
+				//TODO nullpointerException => stop.tripId == null
+				System.out.println("stop times: " + this.stoptimes.get(stop.trip_id));
+				for(DataStopTime stopTime : this.stoptimes.get(stop.trip_id) ){
+					if(stopTime.stop_sequence >= stop.stop_sequence)
+						result.add(stopTime);
+				}
+				
+		}		
+		return result;
+}
+		
+	
+	
 	// alle trains vanaf NU (time) tot time X vanuit station stop_id
 	// set van alle trip_id (geen dubbelen) vanaf bepaalde tijd (zoeken in lijst van alle trains vanaf index)
 	// trip_id via stop_times vertrektijd en lijst met alle stopplaatsen + tijd
-
+	
+	
+	//show all stops in table (using JTable) 
+		private void showDepartingTrainsInStation(Float stop_id, String timenow){
+			try{
+				List<DataStopTime> departingTrains = getStopTimesFromStation(stop_id, timenow);
+				Vector rowData = new Vector();
+				for (DataStopTime stop : departingTrains) {
+				      Vector colData = new Vector( Arrays.asList(stop.trip_id, this.stops.get(stop.stop_id).stop_name,stop.arrival_time,stop.departure_time,stop.stop_sequence.toString()));
+				      rowData.add(colData);
+			    }
+				
+			
+			//Setup table
+		    String[] columnNames = {"trip_id", "stop_name", "arrival_time", "departure_time", "stop_sequence"};
+		    
+		    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
+		    JTable table = new JTable(rowData, columnNamesV);
+		    
+		    JFrame fdeparting = new JFrame();
+		    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
+		    fdeparting.setSize(300, 300);
+		    fdeparting.add(new JScrollPane(table));
+		    fdeparting.setVisible(true);
+		    
+		    
+			}catch (ParseException e){
+			}
+		}
+	
+	
+	
 	private class Train implements Comparable<Train>{
 		
 		public Train(float date, float service_id, float route_id, String trip_id, float trip_short_name,  String trip_headsign){
@@ -333,7 +386,6 @@ public class Test extends PApplet{
 		public Train addCoordIncreaseTime(float coordX, float coordY) {
 			return new Train(date, service_id, route_id, trip_id, trip_short_name, trip_headsign, -1, this.coordX + coordX, this.coordY + coordY, this.time+1);
 		}
-
 		public Train(float date, float service_id, float route_id, String trip_id, float trip_short_name, String trip_headsign, float stop_id, float coordX, float coordY, float time){
 			this.date=date;
 			this.service_id= service_id;
@@ -378,7 +430,7 @@ public class Test extends PApplet{
 		 
 	}
 	
-	private class Player{
+private class Player{
 		
 		//coord van station waar hij zal afstappen!!!
 		private float coordX;
@@ -405,18 +457,15 @@ public class Test extends PApplet{
 		public void getOn(String trip_id, float Start_id, float stop_id){
 			//TODO informatie van trein juist invullen
 			Train train = new Train(20131215, 0, 0, trip_id, 0, "0");
-
 			//alle vorige treinen gaan verloren, pas opstappen op andere trein als je bent afgestapt
 			this.trains = getTrainsforTripId(trip_id, train, Start_id, stop_id);
 			
 			this.stop_id=stop_id;
 		}
-
 	}
 	
 	
 	
 	
 	
-
 }

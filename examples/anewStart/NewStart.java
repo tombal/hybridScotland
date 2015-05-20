@@ -32,6 +32,7 @@ public class NewStart{
 		public NewStart(){
 			this.loadData();
 			this.initPlayers();
+			
 		}
 		
 		public void initPlayers(){
@@ -55,12 +56,12 @@ public class NewStart{
 		
 	
 		private void loadData(){
-			this.stops = DataParser.getStops("nmbs/stops.txt");
-			this.dates = DataParser.gatDates("nmbs/calendar_dates.txt");
-			this.routes = DataParser.getRoutes("nmbs/routes.txt");
-			this.stoptimes = DataParser.getStopTimes("nmbs/stop_times.txt");
-			this.stoptimesByStopId = DataParser.getStopTimesByStopId("nmbs/stop_times_stopId.txt");
-			this.trips = DataParser.getTrips("nmbs/trips.txt");
+			this.stops = DataParser.getStops("./data/nmbs/stops.txt");
+			this.dates = DataParser.gatDates("./data/nmbs/calendar_dates.txt");
+			this.routes = DataParser.getRoutes("./data/nmbs/routes.txt");
+			this.stoptimes = DataParser.getStopTimes("./data/nmbs/stop_times.txt");
+			this.stoptimesByStopId = DataParser.getStopTimesByStopId("./data/nmbs/stop_times_stopId.txt");
+			this.trips = DataParser.getTrips("./data/nmbs/trips.txt");
 			
 		}
 		

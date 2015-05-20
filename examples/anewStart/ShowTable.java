@@ -186,12 +186,87 @@ public class ShowTable {
 			    		
 			    
 			   List<DataStopTime> listNextTrains = getStopTimesFromDeparingTrain(train);
-			    showRestingTrainsInRoute(listNextTrains, departingRouteName);
+			    showRestingTrainsInRoute(listNextTrains, departingRouteName,stop_id, trip_id);
 			   			    
 			    
 				}catch (ParseException e){
 					e.printStackTrace();
 				}
+			}
+			
+			private void showRestingTrainsInRoute(List<DataStopTime> stopList, String routeName, Float stop_id, String trip_id){
+				final float[] resultingSelection = {0};
+				resultingSelection[0]=-1;
+				
+
+				Vector rowData = new Vector();
+				for (DataStopTime stop : stopList) {
+					//String tripId = stop.trip_id;
+				      Vector colData = new Vector( Arrays.asList(stop.trip_id, this.stops.get(stop.stop_id).stop_name, stop.stop_id ,stop.arrival_time,stop.departure_time,stop.stop_sequence.toString()));
+				      rowData.add(colData);
+			    }
+				
+				//Setup table
+			    String[] columnNames = {"Trip ID", "Stop Name", "Stop ID", "Arrival Time", "Departure Time", "Stop Sequence"};
+			    
+			    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
+			    final JTable table = new JTable(rowData, columnNamesV);
+			    
+			    JDialog fRestingInRoute = new JDialog();
+			    fRestingInRoute.setTitle("Current Route: "+ routeName);
+			    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
+			    fRestingInRoute.setSize(600,600);
+			    fRestingInRoute.add(new JScrollPane(table));
+			    fRestingInRoute.setVisible(true);
+			    
+			    
+			    table.setRowSelectionAllowed(true);
+			    
+			    //////
+			    
+			    ListSelectionModel rowSelection = table.getSelectionModel();
+			    rowSelection.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);	
+			    
+			    System.out.println("selected mode");
+			    
+					
+			    rowSelection.addListSelectionListener(new ListSelectionListener() {
+			        public void valueChanged(ListSelectionEvent e) {	          
+			          int row = table.getSelectedRow();
+
+			          Float stop_id = (Float) table.getModel().getValueAt(row, 2);
+			          
+			          System.out.println("Selected: " + stop_id);
+			          resultingSelection[0] = stop_id;
+			          System.out.println("Selected array: " + resultingSelection[0]);
+
+			        }
+
+			      });
+			   
+			    System.out.println("going in while loop");
+		          System.out.println("After Selected array: " + resultingSelection[0]);
+		          String nullStr = null;
+		          try {
+					Thread.sleep(500);
+					while(resultingSelection[0]==-1)
+							Thread.sleep(500);
+				} catch (InterruptedException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+				
+				
+			    System.out.println("coming out while loop");
+
+				
+			    fRestingInRoute.dispose();			    
+			    
+			    Float endstation = resultingSelection[0];
+			    
+
+	
+				
 			}
 			
 			private Float chosenDepartingTrain;
@@ -213,30 +288,6 @@ public class ShowTable {
 			
 
 			
-			private void showRestingTrainsInRoute(List<DataStopTime> stopList, String routeName){
-				Vector rowData = new Vector();
-				for (DataStopTime stop : stopList) {
-					//String tripId = stop.trip_id;
-				      Vector colData = new Vector( Arrays.asList(stop.trip_id, this.stops.get(stop.stop_id).stop_name,stop.arrival_time,stop.departure_time,stop.stop_sequence.toString()));
-				      rowData.add(colData);
-			    }
-				
-				//Setup table
-			    String[] columnNames = {"Trip ID", "Stop Name", "Arrival Time", "Departure Time", "Stop Sequence"};
-			    
-			    Vector columnNamesV = new Vector(Arrays.asList(columnNames));
-			    final JTable table = new JTable(rowData, columnNamesV);
-			    
-			    JDialog fRestingInRoute = new JDialog();
-			    fRestingInRoute.setTitle("Current Route: "+ routeName);
-			    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
-			    fRestingInRoute.setSize(600,600);
-			    fRestingInRoute.add(new JScrollPane(table));
-			    fRestingInRoute.setVisible(true);
-			    
-			    
-			    table.setRowSelectionAllowed(true);
-				
-			}
+			
 	
 }

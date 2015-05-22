@@ -1,4 +1,8 @@
 package aTryout;
+import java.awt.event.KeyEvent;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -184,20 +188,28 @@ public class Test extends PApplet{
 		this.allTrainsForDay = this.getTrainsForDay(20131215);
 		initMarker();
 		//Test jochen
-		//if(NotRundepartinTest){
+		if(NotRundepartinTest){
 			NotRundepartinTest = false;
-			System.out.println("DepartingTrainTest");
+		//	System.out.println("DepartingTrainTest");
 			showDepartingTrainsInStation((float) 32335,"18:04:00");
-		//}
-
+		}
+		
+		
 	}
 	private boolean NotRundepartinTest = true;
 	
 	
 	public void draw() {
 		background(240);
+		
 		map.draw();
+		textSize(20);
+		text(floatToTime(time), 50, 50);
+		fill(0, 102, 153);
+		
 	}
+	
+	
 	
 	//real time (increases every space)
 	private float time = -1;
@@ -210,6 +222,7 @@ public class Test extends PApplet{
 			// initTrain();
 		}
 	}
+	
 	
 	//get all trains from day from index 
 	private List<Train> getTrainsTimeIndex(){
@@ -230,6 +243,10 @@ public class Test extends PApplet{
 		if(time<0){
 			time = allTrainsForDay.get(0).time;
 		}
+		
+		
+		//textSize(32);
+		//text("word", 10, 30); 
 		
 		List<Train> trains = this.getTrainsTimeIndex();
 		
@@ -311,6 +328,13 @@ public class Test extends PApplet{
 		this.stoptimesByStopId = DataParser.getStopTimesByStopId("nmbs/stop_times_stopId.txt");
 		this.trips = DataParser.getTrips("nmbs/trips.txt");
 		
+//		this.stops = DataParser.getStops("./data/nmbs/stops.txt");
+//		this.dates = DataParser.gatDates("./data/nmbs/calendar_dates.txt");
+//		this.routes = DataParser.getRoutes("./data/nmbs/routes.txt");
+//		this.stoptimes = DataParser.getStopTimes("./data/nmbs/stop_times.txt");
+//		this.stoptimesByStopId = DataParser.getStopTimesByStopId("./data/nmbs/stop_times_stopId.txt");
+//		this.trips = DataParser.getTrips("./data/nmbs/trips.txt");
+		
 	}
 	
 	//show all stops in table (using JTable) 
@@ -366,10 +390,18 @@ public class Test extends PApplet{
 	}
 	
 	private String floatToTime(Float time) {
-		Integer hoursI = Math.round(time/10);
+		System.out.println("time: "+String.valueOf(time));
+		
+		//float h = time/60;
+		
+		Integer hoursI = (int) Math.floor(time/60);
+		
 		String hoursS = String.valueOf(hoursI);
-		String minutesS = String.valueOf(time - hoursI);
-		String result = hoursS + minutesS;
+		System.out.println("uur: "+hoursS);
+		String minutesS = String.valueOf(time - hoursI*60);
+		System.out.println("minutes: "+minutesS);
+		String result = hoursS +":"+ minutesS;
+		
 		return result;
 	}
 	

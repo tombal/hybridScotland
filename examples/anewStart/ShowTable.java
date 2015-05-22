@@ -94,7 +94,7 @@ public class ShowTable {
 			public void showDepartingTrainsInStation(Float stop_id, String timenow){
 				final String[] resultingSelection = {null};
 				resultingSelection[0]=null;
-
+				
 				try{
 					List<DataStopTime> departingTrains = getStopTimesFromStation(stop_id, timenow);
 					
@@ -116,7 +116,7 @@ public class ShowTable {
 					      rowData.add(colData);
 				    }
 					
-				System.out.println("Setting up departingTable");
+				//System.out.println("Setting up departingTable");
 				//Setup table
 			    String[] columnNames = {"Arrival Time", "Departure Time", "Name route", "trip ID"};
 			    
@@ -132,13 +132,13 @@ public class ShowTable {
 			    
 			    
 			    table.setRowSelectionAllowed(true);
-				System.out.println("done departingtapble");
+				//System.out.println("done departingtapble");
 
 
 			    ListSelectionModel rowSelection = table.getSelectionModel();
 			    rowSelection.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);	
 			    
-			    System.out.println("selected mode");
+			    //System.out.println("selected mode");
 			    
 					
 			    rowSelection.addListSelectionListener(new ListSelectionListener() {
@@ -148,14 +148,14 @@ public class ShowTable {
 			          String trip_id = (String) table.getModel().getValueAt(row, 3);
 			          System.out.println("Selected: " + trip_id);
 			          resultingSelection[0] = trip_id;
-			          System.out.println("Selected array: " + resultingSelection[0]);
+			         // System.out.println("Selected array: " + resultingSelection[0]);
 
 			        }
 
 			      });
 			   
-			    System.out.println("going in while loop");
-		          System.out.println("After Selected array: " + resultingSelection[0]);
+			    //System.out.println("going in while loop");
+		          //System.out.println("After Selected array: " + resultingSelection[0]);
 		          String nullStr = null;
 		          try {
 					Thread.sleep(500);
@@ -167,7 +167,7 @@ public class ShowTable {
 				}
 				
 				
-			    System.out.println("coming out while loop");
+			    //System.out.println("coming out while loop");
 
 				
 				fdeparting.dispose();			    
@@ -183,9 +183,11 @@ public class ShowTable {
 					}
 				}
 
-			    		
+			   //System.out.println("Train: "+i);	
 			    
 			   List<DataStopTime> listNextTrains = getStopTimesFromDeparingTrain(train);
+			   //System.out.println("stop"+stop_id);
+			   //System.out.println("trip"+trip_id);
 			    showRestingTrainsInRoute(listNextTrains, departingRouteName,stop_id, trip_id);
 			   			    
 			    
@@ -213,7 +215,7 @@ public class ShowTable {
 			    final JTable table = new JTable(rowData, columnNamesV);
 			    
 			    JDialog fRestingInRoute = new JDialog();
-			    fRestingInRoute.setTitle("Current Route: "+ routeName);
+			    fRestingInRoute.setTitle("Current Route: "+ trip_id);
 			    //f.setTitle("Departing Trains from " + this.stops.get(stop_id) );
 			    fRestingInRoute.setSize(600,600);
 			    fRestingInRoute.add(new JScrollPane(table));
@@ -227,7 +229,7 @@ public class ShowTable {
 			    ListSelectionModel rowSelection = table.getSelectionModel();
 			    rowSelection.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);	
 			    
-			    System.out.println("selected mode");
+			    //System.out.println("selected mode");
 			    
 					
 			    rowSelection.addListSelectionListener(new ListSelectionListener() {
@@ -236,16 +238,16 @@ public class ShowTable {
 
 			          Float stop_id = (Float) table.getModel().getValueAt(row, 2);
 			          
-			          System.out.println("Selected: " + stop_id);
+			          //System.out.println("Selected: " + stop_id);
 			          resultingSelection[0] = stop_id;
-			          System.out.println("Selected array: " + resultingSelection[0]);
+			          //System.out.println("Selected array: " + resultingSelection[0]);
 
 			        }
 
 			      });
 			   
-			    System.out.println("going in while loop");
-		          System.out.println("After Selected array: " + resultingSelection[0]);
+			    //System.out.println("going in while loop");
+		          //System.out.println("After Selected array: " + resultingSelection[0]);
 		          String nullStr = null;
 		          try {
 					Thread.sleep(500);
@@ -257,12 +259,13 @@ public class ShowTable {
 				}
 				
 				
-			    System.out.println("coming out while loop");
 
 				
 			    fRestingInRoute.dispose();			    
 			    
 			    Float endstation = resultingSelection[0];
+			    
+			    System.out.println("Result selection endstation:" + stops.get(endstation).stop_name);
 			    
 
 	

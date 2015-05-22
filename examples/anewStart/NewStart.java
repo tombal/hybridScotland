@@ -1,9 +1,13 @@
 package anewStart;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+import processing.core.PApplet;
 import anewStart.DataParser.DataRoute;
 import anewStart.DataParser.DataStop;
 import anewStart.DataParser.DataStopTime;
@@ -29,17 +33,33 @@ public class NewStart{
 		List<Train> allTrainsForDay;
 		
 		
+		
 		public NewStart(){
 			this.loadData();
-			this.initPlayers();
+			
+			ShowTable t = new ShowTable(stoptimesByStopId, trips, stops, stoptimes);
+			t.showDepartingTrainsInStation((float) 32335,"18:04:00");
+			//this.initPlayers();
+			
+			//new Mapp(allTrainsForDay, stops);
+			
+			 //create an instance of your processing applet
+            //final Mapp applet = new Mapp(allTrainsForDay, stops, players);
+
+            //start the applet
+            //System.out.println("applet");
+			//Mapp applet = new Mapp();
+            //applet.setup();
+            
+            
 			
 		}
 		
 		public void initPlayers(){
 			players = new ArrayList<Player>();
-			System.out.println("staaaaa");
+			//System.out.println("staaaaa");
 			for(int i=0; i<3;i++){
-				System.out.println("iiiii");
+				//System.out.println("iiiii");
 				float id = AskStation.getStation(("select a station for player "+(i+1)), stops);
 				//float id = this.askStation("select a station for player "+(i+1));
 				Float[] coord = this.getCoord(id);
@@ -62,6 +82,13 @@ public class NewStart{
 			this.stoptimes = DataParser.getStopTimes("./data/nmbs/stop_times.txt");
 			this.stoptimesByStopId = DataParser.getStopTimesByStopId("./data/nmbs/stop_times_stopId.txt");
 			this.trips = DataParser.getTrips("./data/nmbs/trips.txt");
+			
+//			this.stops = DataParser.getStops("nmbs/stops.txt");
+//			this.dates = DataParser.gatDates("nmbs/calendar_dates.txt");
+//			this.routes = DataParser.getRoutes("nmbs/routes.txt");
+//			this.stoptimes = DataParser.getStopTimes("nmbs/stop_times.txt");
+//			this.stoptimesByStopId = DataParser.getStopTimesByStopId("nmbs/stop_times_stopId.txt");
+//			this.trips = DataParser.getTrips("nmbs/trips.txt");
 			
 		}
 		
@@ -113,6 +140,8 @@ public class NewStart{
 			return result;
 		}
 		
+		//TODO deze methode oproepen om trains voor player te creeren
+		
 		private List<Train> getTrainsforTripId(String trip_id, Train train, float stop_idFirst, float stop_idSecond){
 			List<DataStopTime> stoptimes = this.getStopTimesBetweenStations(trip_id, stop_idFirst, stop_idSecond);
 			
@@ -150,95 +179,7 @@ public class NewStart{
 		
 		
 		
-		private class Train implements Comparable<Train>{
-			
-			public Train(float date, float service_id, float route_id, String trip_id, float trip_short_name,  String trip_headsign){
-				this.date=date;
-				this.service_id= service_id;
-				this.route_id= route_id;
-				this.trip_id= trip_id;
-				this.trip_short_name = trip_short_name;
-				this.trip_headsign= trip_headsign;
-			}
-			
-			public Train addCoordIncreaseTime(float coordX, float coordY) {
-				return new Train(date, service_id, route_id, trip_id, trip_short_name, trip_headsign, -1, this.coordX + coordX, this.coordY + coordY, this.time+1);
-			}
-			public Train(float date, float service_id, float route_id, String trip_id, float trip_short_name, String trip_headsign, float stop_id, float coordX, float coordY, float time){
-				this.date=date;
-				this.service_id= service_id;
-				this.route_id= route_id;
-				this.trip_id= trip_id;
-				this.trip_short_name = trip_short_name;
-				this.stop_id = stop_id;
-				this.coordX= coordX;
-				this.coordY= coordY;
-				this.time= time;
-				
-			}
-			
-			public Train addcoordTime(float stop_id, float coordX, float coordY, float time){
-				return new Train(date, service_id, route_id, trip_id, trip_short_name, trip_headsign, stop_id, coordX, coordY, time);
-			}
-			
-			public Train addTime(){
-				return new Train(date, service_id, route_id, trip_id, trip_short_name, trip_headsign, stop_id, coordX, coordY, this.time+1);
-			}
-			
-			 float date;
-			 float service_id;
-			 float route_id;
-			 String trip_id;
-			 float trip_short_name;
-			 String trip_headsign;
-			 float stop_id = -1;
-			 float coordX;
-			 float coordY;
-			 float time;
-			 
-			@Override
-			public String toString(){
-				return "date: "+String.valueOf(date)+ ", service_id: "+String.valueOf(service_id)+ ", route_id: "+String.valueOf(route_id)+ ", trip_id: "+(trip_id)+ ", trip_short_name: "+String.valueOf(trip_short_name)+ ", trip_headsign: "+(trip_headsign)+ ", stop_id: "+String.valueOf(stop_id)+  ", coordX: "+String.valueOf(coordX)+ ", coordY: "+String.valueOf(coordY)+ ", time: "+String.valueOf(time);
-			}
-			 
-			@Override
-			public int compareTo(Train train) {
-				return (int) -(train.time - this.time);
-			}
-			 
-		}
-		
-	private class Player{
-			
-			//coord van station waar hij zal afstappen!!!
-			private float coordX;
-			private float coordY;
-			// -1 if not at stop;
-			private float stop_id;
-			
-			public Player(float coordX, float coordY, float stop_id){
-				this.setCoord(coordX, coordY, stop_id);
-			}
-			
-			public void setCoord(float coordX, float coordY, float stop_id){
-				this.coordX=coordX;
-				this.coordY=coordY;
-				this.stop_id=stop_id;
-			}
-			
-			private List<Train> trains = new ArrayList<Train>();
-			
-			
-			public void getOn(String trip_id, float Start_id, float stop_id){
-				//TODO informatie van trein juist invullen
-				Train train = new Train(20131215, 0, 0, trip_id, 0, "0");
-				//alle vorige treinen gaan verloren, pas opstappen op andere trein als je bent afgestapt
-				this.trains = getTrainsforTripId(trip_id, train, Start_id, stop_id);
-				
-				this.stop_id=stop_id;
-			}
-		}
-		
+
 
 }
 
